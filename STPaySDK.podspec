@@ -11,5 +11,23 @@ Pod::Spec.new do |s|
     s.license           = 'MIT'
     s.requires_arc      = true
     s.platform          = :ios, "13.0"
+    s.dependency 'XLPagerTabStrip'
+    s.dependency 'SVPinView', '1.0.11'
+    s.dependency 'ActiveLabel'
+    s.dependency 'Alamofire', '~> 5.5'
+    s.dependency 'Kingfisher', '7.6.2'
+    s.dependency 'MBProgressHUD', '1.2.0'
+    s.dependency 'SwiftKeychainWrapper'
+    s.dependency 'SwiftLint', '0.46.2'
+    s.dependency 'IQKeyboardManagerSwift'
+    s.dependency 'SwiftyUserDefaults', '~> 5.0'
+    s.dependency 'BetterSegmentedControl', '~> 2.0'
+    s.dependency 'PanModal'
+    s.dependency 'BEMCheckBox'
+    s.dependency 'AnyCodable-FlightSchool', '~> 0.6.0'
+    s.dependency 'Firebase/Core', '9.2.0'
+    s.dependency 'Firebase/Messaging', '9.2.0'
+    s.dependency 'StepperView','~> 1.6.7'
+    s.dependency 'GoogleMaps', '7.3.0'
     s.vendored_frameworks = 'STPaySDK.xcframework'
 end
