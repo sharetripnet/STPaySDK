@@ -1,0 +1,169 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name STPaySDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import ActiveLabel
+import Alamofire
+import BetterSegmentedControl
+import CommonCrypto
+import Contacts
+import CoreGraphics
+import CoreLocation
+import Foundation
+import Kingfisher
+import MBProgressHUD
+import PanModal
+import PhotosUI
+@_exported import STPaySDK
+import SVPinView
+import Swift
+import SwiftKeychainWrapper
+import SwiftyUserDefaults
+import UIKit
+import UserNotifications
+import WebKit
+import XLPagerTabStrip
+import _Concurrency
+import _StringProcessing
+@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) open class STPayView : UIKit.UIView {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var text: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) open func update()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var intrinsicContentSize: CoreFoundation.CGSize {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func prepareForInterfaceBuilder()
+  @objc deinit
+}
+final public class ObjectAssociation<T> where T : AnyObject {
+  public init(policy: ObjectiveC.objc_AssociationPolicy = .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
+  final public subscript(index: Swift.AnyObject) -> T? {
+    get
+    set
+  }
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class DGBottomSheet : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public init(view contentsView: UIKit.UIView)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) public func hide()
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers public class QRScannerOverlay : AVFoundation.AVCaptureVideoPreviewLayer {
+  public var cornerLength: CoreFoundation.CGFloat
+  public var lineWidth: CoreFoundation.CGFloat
+  public var lineColor: UIKit.UIColor
+  public var lineCap: QuartzCore.CAShapeLayerLineCap
+  public var maskSize: CoreFoundation.CGSize
+  public var rectOfInterest: CoreFoundation.CGRect {
+    get
+  }
+  @objc override dynamic public var frame: CoreFoundation.CGRect {
+    @objc get
+    @objc set
+  }
+  @objc override dynamic public func draw(in ctx: CoreGraphics.CGContext)
+  @objc override dynamic public init(session: AVFoundation.AVCaptureSession)
+  @available(iOS 8.0, *)
+  @objc override dynamic public init(sessionWithNoConnection session: AVFoundation.AVCaptureSession)
+  @objc override dynamic public init()
+  @objc override dynamic public init(layer: Any)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public protocol PinCodeTextFieldDelegate : AnyObject {
+  func textFieldShouldBeginEditing(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
+  func textFieldDidBeginEditing(_ textField: STPaySDK.PinCodeTextField)
+  func textFieldValueChanged(_ textField: STPaySDK.PinCodeTextField)
+  func textFieldShouldEndEditing(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
+  func textFieldDidEndEditing(_ textField: STPaySDK.PinCodeTextField)
+  func textFieldShouldReturn(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
+}
+extension STPaySDK.PinCodeTextFieldDelegate {
+  public func textFieldShouldBeginEditing(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
+  public func textFieldDidBeginEditing(_ textField: STPaySDK.PinCodeTextField)
+  public func textFieldValueChanged(_ textField: STPaySDK.PinCodeTextField)
+  public func textFieldShouldEndEditing(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
+  public func textFieldDidEndEditing(_ textField: STPaySDK.PinCodeTextField)
+  public func textFieldShouldReturn(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
+}
+extension Foundation.URL {
+  public var queryParameters: [Swift.String : Swift.String]? {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) open class PinCodeTextField : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any STPaySDK.PinCodeTextFieldDelegate)?
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var underlineWidth: CoreFoundation.CGFloat
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var underlineHSpacing: CoreFoundation.CGFloat
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var underlineVMargin: CoreFoundation.CGFloat
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var characterLimit: Swift.Int {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var underlineHeight: CoreFoundation.CGFloat
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var placeholderText: Swift.String?
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var text: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var fontSize: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var textColor: UIKit.UIColor
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var placeholderColor: UIKit.UIColor
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var underlineColor: UIKit.UIColor
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var updatedUnderlineColor: UIKit.UIColor
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var secureText: Swift.Bool
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var needToUpdateUnderlines: Swift.Bool
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var characterBackgroundColor: UIKit.UIColor
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var characterBackgroundCornerRadius: CoreFoundation.CGFloat
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var highlightInputUnderline: Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc public var keyboardType: UIKit.UIKeyboardType
+  @_Concurrency.MainActor(unsafe) @objc public var keyboardAppearance: UIKit.UIKeyboardAppearance
+  @_Concurrency.MainActor(unsafe) @objc public var autocorrectionType: UIKit.UITextAutocorrectionType
+  @_Concurrency.MainActor(unsafe) public var font: UIKit.UIFont
+  @_Concurrency.MainActor(unsafe) public var allowedCharacterSet: Foundation.CharacterSet
+  @_Concurrency.MainActor(unsafe) @objc public var textContentType: UIKit.UITextContentType!
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var inputView: UIKit.UIView? {
+    @objc get
+    @objc set
+  }
+  @IBOutlet @_Concurrency.MainActor(unsafe) @objc override dynamic open var inputAccessoryView: UIKit.UIView? {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc public var isSecureTextEntry: Swift.Bool {
+    @objc get
+    @objc(setSecureTextEntry:) set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func prepareForInterfaceBuilder()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var canBecomeFirstResponder: Swift.Bool {
+    @objc get
+  }
+  @discardableResult
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func becomeFirstResponder() -> Swift.Bool
+  @discardableResult
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func resignFirstResponder() -> Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func touchesEnded(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @objc deinit
+}
+extension STPaySDK.PinCodeTextField : UIKit.UIKeyInput {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public var hasText: Swift.Bool {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func insertText(_ charToInsert: Swift.String)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func deleteBackward()
+}
