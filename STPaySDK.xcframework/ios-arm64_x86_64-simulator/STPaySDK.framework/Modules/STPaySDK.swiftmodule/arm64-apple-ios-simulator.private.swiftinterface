@@ -1,17 +1,20 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name STPaySDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import ActiveLabel
 import Alamofire
+import BEMCheckBox
 import BetterSegmentedControl
 import CommonCrypto
 import Contacts
 import CoreGraphics
 import CoreLocation
 import Foundation
+import IQKeyboardManagerSwift
 import Kingfisher
+import LocalAuthentication
 import MBProgressHUD
 import PanModal
 import PhotosUI
@@ -22,6 +25,7 @@ import SwiftKeychainWrapper
 import SwiftyUserDefaults
 import UIKit
 import UserNotifications
+import Vision
 import WebKit
 import XLPagerTabStrip
 import _Concurrency
@@ -41,6 +45,12 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func prepareForInterfaceBuilder()
   @objc deinit
+}
+public protocol ToastDelegate : AnyObject {
+  func willShowToast(_ toast: STPaySDK.Toast)
+  func didShowToast(_ toast: STPaySDK.Toast)
+  func willCloseToast(_ toast: STPaySDK.Toast)
+  func didCloseToast(_ toast: STPaySDK.Toast)
 }
 final public class ObjectAssociation<T> where T : AnyObject {
   public init(policy: ObjectiveC.objc_AssociationPolicy = .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
@@ -78,6 +88,21 @@ final public class ObjectAssociation<T> where T : AnyObject {
   @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
+public enum PinRequiredRule : Swift.CaseIterable {
+  case numeric
+  case consecutive
+  case notStartWithZero
+  case notRepeatedCharacters
+  public static func == (a: STPaySDK.PinRequiredRule, b: STPaySDK.PinRequiredRule) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public typealias AllCases = [STPaySDK.PinRequiredRule]
+  public static var allCases: [STPaySDK.PinRequiredRule] {
+    get
+  }
+  public var hashValue: Swift.Int {
+    get
+  }
+}
 public protocol PinCodeTextFieldDelegate : AnyObject {
   func textFieldShouldBeginEditing(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
   func textFieldDidBeginEditing(_ textField: STPaySDK.PinCodeTextField)
@@ -94,10 +119,214 @@ extension STPaySDK.PinCodeTextFieldDelegate {
   public func textFieldDidEndEditing(_ textField: STPaySDK.PinCodeTextField)
   public func textFieldShouldReturn(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
 }
+@objc public protocol PuiSegmentedControlDelegate : ObjectiveC.NSObjectProtocol {
+  @objc func segmentedControlTransitionBegin(oldValue: Swift.Int, newValue: Swift.Int)
+  @objc func segmentedControlTransitionEnded(oldValue: Swift.Int, newValue: Swift.Int)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class PuiSegmentedControl : UIKit.UIControl {
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var animatedTabTransitionDuration: Swift.Double
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var animatedTabTransitionRedrawDifferenceDuration: Swift.Double
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var backgroundCornerRadius: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var backgroundCustomColor: UIKit.UIColor
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var borderCornerRadius: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var borderColor: UIKit.UIColor
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var borderWidth: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var unselectedViewBackgroundColor: UIKit.UIColor
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var unselectedViewMargins: UIKit.UIEdgeInsets
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var unselectedTextAttributes: [Foundation.NSAttributedString.Key : Any]?
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var selectedViewBackgroundColor: UIKit.UIColor
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var selectedViewCornerRadius: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var selectedViewMargins: UIKit.UIEdgeInsets
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var selectedTextAttributes: [Foundation.NSAttributedString.Key : Any]
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var selectedIndex: Swift.Int {
+    @objc get
+    @objc set
+  }
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var seperatorColor: UIKit.UIColor
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var seperatorCornerRadius: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var seperatorWidth: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var seperatorMarginBottom: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var seperatorMarginTop: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var isAnimatedTabTransition: Swift.Bool
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var isSelectViewAllCornerRadius: Swift.Bool
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var isEqualWidth: Swift.Bool
+  @objc @_Concurrency.MainActor(unsafe) dynamic open var isSeperatorActive: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var items: [Swift.String] {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any STPaySDK.PuiSegmentedControlDelegate)?
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutSubviews()
+  @_Concurrency.MainActor(unsafe) public func scrollSegmentedControl(ratio: CoreFoundation.CGFloat, nextViewSelectionThreshold: CoreFoundation.CGFloat, currentIndex: Swift.Int, destinationIndex: Swift.Int)
+  @_Concurrency.MainActor(unsafe) public func scrollViewDidEndDecelerating(at index: Swift.Int)
+  @objc deinit
+}
+public enum HorizontalAlignment {
+  case left
+  case right
+  case leading
+  case trailing
+  case justified
+  public static func == (a: STPaySDK.HorizontalAlignment, b: STPaySDK.HorizontalAlignment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum VerticalAlignment {
+  case top
+  case center
+  case bottom
+  public static func == (a: STPaySDK.VerticalAlignment, b: STPaySDK.VerticalAlignment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_Concurrency.MainActor(unsafe) open class AlignedCollectionViewFlowLayout : UIKit.UICollectionViewFlowLayout {
+  @_Concurrency.MainActor(unsafe) public var horizontalAlignment: STPaySDK.HorizontalAlignment
+  @_Concurrency.MainActor(unsafe) public var verticalAlignment: STPaySDK.VerticalAlignment
+  @_Concurrency.MainActor(unsafe) public init(horizontalAlignment: STPaySDK.HorizontalAlignment = .justified, verticalAlignment: STPaySDK.VerticalAlignment = .center)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutAttributesForItem(at indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewLayoutAttributes?
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutAttributesForElements(in rect: CoreFoundation.CGRect) -> [UIKit.UICollectionViewLayoutAttributes]?
+  @objc deinit
+}
+extension UIKit.UIImage {
+  public func rounded(radius: CoreFoundation.CGFloat) -> UIKit.UIImage
+}
 extension Foundation.URL {
   public var queryParameters: [Swift.String : Swift.String]? {
     get
   }
+}
+public struct ToastConfiguration {
+  public let direction: STPaySDK.Toast.Direction
+  public let autoHide: Swift.Bool
+  public let enablePanToClose: Swift.Bool
+  public let displayTime: Foundation.TimeInterval
+  public let animationTime: Foundation.TimeInterval
+  public let enteringAnimation: STPaySDK.Toast.AnimationType
+  public let exitingAnimation: STPaySDK.Toast.AnimationType
+  public let view: UIKit.UIView?
+  public init(direction: STPaySDK.Toast.Direction = .top, autoHide: Swift.Bool = true, enablePanToClose: Swift.Bool = true, displayTime: Foundation.TimeInterval = 4, animationTime: Foundation.TimeInterval = 0.2, enteringAnimation: STPaySDK.Toast.AnimationType = .default, exitingAnimation: STPaySDK.Toast.AnimationType = .default, attachTo view: UIKit.UIView? = nil)
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class AppleToastView : UIKit.UIView, STPaySDK.ToastView {
+  @_Concurrency.MainActor(unsafe) public init(child: UIKit.UIView, minHeight: CoreFoundation.CGFloat = 58, minWidth: CoreFoundation.CGFloat = 150, darkBackgroundColor: UIKit.UIColor = UIColor(red: 0.13, green: 0.13, blue: 0.13, alpha: 1.00), lightBackgroundColor: UIKit.UIColor = UIColor(red: 0.99, green: 0.99, blue: 0.99, alpha: 1.00))
+  @_Concurrency.MainActor(unsafe) public func createView(for toast: STPaySDK.Toast)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) open class CustomTextfield : STPaySDK.TextFieldEffects {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) dynamic open var borderInactiveColor: UIKit.UIColor? {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) dynamic open var borderActiveColor: UIKit.UIColor? {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) dynamic open var leftImage: UIKit.UIImage? {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) dynamic open var placeholderColor: UIKit.UIColor {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) dynamic open var placeholderFontScale: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var placeholder: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var bounds: CoreFoundation.CGRect {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) override open func drawViewsForRect(_ rect: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) override open func animateViewsForTextEntry()
+  @_Concurrency.MainActor(unsafe) override open func animateViewsForTextDisplay()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func editingRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func textRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class TextFieldEffects : UIKit.UITextField {
+  public enum AnimationType : Swift.Int {
+    case textEntry
+    case textDisplay
+    public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+  public typealias AnimationCompletionHandler = (_ type: STPaySDK.TextFieldEffects.AnimationType) -> ()
+  @_Concurrency.MainActor(unsafe) final public let placeholderLabel: UIKit.UILabel
+  @_Concurrency.MainActor(unsafe) open func animateViewsForTextEntry()
+  @_Concurrency.MainActor(unsafe) open func animateViewsForTextDisplay()
+  @_Concurrency.MainActor(unsafe) open var animationCompletionHandler: STPaySDK.TextFieldEffects.AnimationCompletionHandler?
+  @_Concurrency.MainActor(unsafe) open func drawViewsForRect(_ rect: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) open func updateViewsForBoundsChange(_ bounds: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func draw(_ rect: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func drawPlaceholder(in rect: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var text: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func willMove(toSuperview newSuperview: UIKit.UIView!)
+  @objc @_Concurrency.MainActor(unsafe) open func textFieldDidBeginEditing()
+  @objc @_Concurrency.MainActor(unsafe) open func textFieldDidEndEditing()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func prepareForInterfaceBuilder()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public protocol ToastView : UIKit.UIView {
+  func createView(for toast: STPaySDK.Toast)
+}
+@_hasMissingDesignatedInitializers public class Toast {
+  public enum Direction {
+    case top, bottom
+    public static func == (a: STPaySDK.Toast.Direction, b: STPaySDK.Toast.Direction) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum AnimationType {
+    case slide(x: CoreFoundation.CGFloat, y: CoreFoundation.CGFloat)
+    case fade(alphaValue: CoreFoundation.CGFloat)
+    case scaleAndSlide(scaleX: CoreFoundation.CGFloat, scaleY: CoreFoundation.CGFloat, x: CoreFoundation.CGFloat, y: CoreFoundation.CGFloat)
+    case scale(scaleX: CoreFoundation.CGFloat, scaleY: CoreFoundation.CGFloat)
+    case custom(transformation: CoreFoundation.CGAffineTransform)
+    case `default`
+  }
+  public static var defaultImageTint: UIKit.UIColor {
+    get
+  }
+  final public let view: any STPaySDK.ToastView
+  weak public var delegate: (any STPaySDK.ToastDelegate)?
+  public static func text(_ title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil, config: STPaySDK.ToastConfiguration = ToastConfiguration()) -> STPaySDK.Toast
+  public static func text(_ title: Swift.String, subtitle: Swift.String? = nil, config: STPaySDK.ToastConfiguration = ToastConfiguration()) -> STPaySDK.Toast
+  public static func `default`(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil, config: STPaySDK.ToastConfiguration = ToastConfiguration()) -> STPaySDK.Toast
+  public static func `default`(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Swift.String, subtitle: Swift.String? = nil, config: STPaySDK.ToastConfiguration = ToastConfiguration()) -> STPaySDK.Toast
+  public static func custom(view: any STPaySDK.ToastView, config: STPaySDK.ToastConfiguration = ToastConfiguration()) -> STPaySDK.Toast
+  required public init(view: any STPaySDK.ToastView, config: STPaySDK.ToastConfiguration)
+  public func show(haptic type: UIKit.UINotificationFeedbackGenerator.FeedbackType, after time: Foundation.TimeInterval = 0)
+  public func show(after delay: Foundation.TimeInterval = 0)
+  public func close(completion: (() -> Swift.Void)? = nil)
+  @objc deinit
+}
+extension STPaySDK.Toast {
+  public func enableTapToClose()
+  @objc dynamic public func toastOnTap(_ gesture: UIKit.UITapGestureRecognizer)
 }
 @objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) open class PinCodeTextField : UIKit.UIView {
   @_Concurrency.MainActor(unsafe) weak public var delegate: (any STPaySDK.PinCodeTextFieldDelegate)?
@@ -167,3 +396,34 @@ extension STPaySDK.PinCodeTextField : UIKit.UIKeyInput {
   @_Concurrency.MainActor(unsafe) @objc dynamic public func insertText(_ charToInsert: Swift.String)
   @_Concurrency.MainActor(unsafe) @objc dynamic public func deleteBackward()
 }
+@_hasMissingDesignatedInitializers public class TimeManager {
+  public static let shared: STPaySDK.TimeManager
+  public func resetTimer()
+  public func restartTimer()
+  public func recheckTimer()
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class TextToastView : UIKit.UIStackView {
+  @_Concurrency.MainActor(unsafe) public init(_ title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil)
+  @_Concurrency.MainActor(unsafe) public init(_ title: Swift.String, subtitle: Swift.String? = nil)
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class IconAppleToastView : UIKit.UIStackView {
+  @_Concurrency.MainActor(unsafe) public static var defaultImageTint: UIKit.UIColor {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil)
+  @_Concurrency.MainActor(unsafe) public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Swift.String, subtitle: Swift.String? = nil)
+  @objc deinit
+}
+extension STPaySDK.PinRequiredRule : Swift.Equatable {}
+extension STPaySDK.PinRequiredRule : Swift.Hashable {}
+extension STPaySDK.HorizontalAlignment : Swift.Equatable {}
+extension STPaySDK.HorizontalAlignment : Swift.Hashable {}
+extension STPaySDK.VerticalAlignment : Swift.Equatable {}
+extension STPaySDK.VerticalAlignment : Swift.Hashable {}
+extension STPaySDK.TextFieldEffects.AnimationType : Swift.Equatable {}
+extension STPaySDK.TextFieldEffects.AnimationType : Swift.Hashable {}
+extension STPaySDK.TextFieldEffects.AnimationType : Swift.RawRepresentable {}
+extension STPaySDK.Toast.Direction : Swift.Equatable {}
+extension STPaySDK.Toast.Direction : Swift.Hashable {}
