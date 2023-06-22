@@ -14,7 +14,6 @@ Pod::Spec.new do |s|
     s.dependency 'XLPagerTabStrip'
     s.dependency 'SVPinView', '1.0.11'
     s.dependency 'ActiveLabel'
-    s.dependency 'Alamofire', '~> 5.5'
     s.dependency 'Kingfisher', '7.6.2'
     s.dependency 'MBProgressHUD', '1.2.0'
     s.dependency 'SwiftKeychainWrapper'
