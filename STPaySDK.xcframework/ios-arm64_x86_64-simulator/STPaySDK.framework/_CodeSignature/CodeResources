@@ -594,63 +594,27 @@
 		</data>
 		<key>KYC.storyboardc/3Je-Wk-FZQ-view-77s-8F-wVw.nib</key>
 		<data>
-		34+mHkp6TZSyAi0x5hB6fprjlWg=
-		</data>
-		<key>KYC.storyboardc/InAppKYCPermissionViewController.nib</key>
-		<data>
-		HxflSuAjJl9tHw4cOkAvSCtFmEA=
-		</data>
-		<key>KYC.storyboardc/InAppNIDViewController.nib</key>
-		<data>
-		EFYDuDs8WRPYvMp7I5i4200o8s0=
-		</data>
-		<key>KYC.storyboardc/InAppTakeSelfieViewController.nib</key>
-		<data>
-		wxPu+0ZQ0bwnfbH7G/9Bt6UIpyY=
+		fmO0CZiJkr1e8gc+h6A5qCulpD0=
 		</data>
 		<key>KYC.storyboardc/Info.plist</key>
 		<data>
-		rugMdqMLWVkAEJNtPmoRWDKqn8E=
+		54dTtbzPpgAwEtwjCPB/XpGda8Q=
 		</data>
 		<key>KYC.storyboardc/KWN-hQ-GYZ-view-Lx9-qA-mi0.nib</key>
 		<data>
 		XVkgKL9apoSRRG/ukqkz672rNJA=
 		</data>
-		<key>KYC.storyboardc/KYCVerificationSuccessVC.nib</key>
-		<data>
-		yTqkmSPop5lW5NNSVe5wZkScOgw=
-		</data>
-		<key>KYC.storyboardc/KYCWarningViewController.nib</key>
-		<data>
-		06Ub54YIq3y1chxZpM121V/pdXg=
-		</data>
 		<key>KYC.storyboardc/NIDScannerVC.nib</key>
 		<data>
 		4PvHaIzdCE3QJb4FocpJkZUsO2U=
-		</data>
-		<key>KYC.storyboardc/OUp-2a-DGT-view-c2l-I4-ixo.nib</key>
-		<data>
-		2hV1GXqfnbdVgoAO/c+dAlnwdP8=
-		</data>
-		<key>KYC.storyboardc/Oca-cf-7G6-view-XBg-Gu-fSa.nib</key>
-		<data>
-		ovMVdeettnfu6xVX01Sjq5IIemY=
 		</data>
 		<key>KYC.storyboardc/OnboardingNIDViewController.nib</key>
 		<data>
 		b6IHRA2XgFWU8TlK0K4XSc8lnZg=
 		</data>
-		<key>KYC.storyboardc/OnboardingPermissionViewController.nib</key>
-		<data>
-		xkwLPEZArUe3o/BqfA0S2FIuA+A=
-		</data>
 		<key>KYC.storyboardc/OnboardingTakeSelfieViewController.nib</key>
 		<data>
 		pCsFHxYiXYGhcKnE04tFHzzQWUA=
-		</data>
-		<key>KYC.storyboardc/PermissionAskVC.nib</key>
-		<data>
-		hP5rlHghcR9QtlfZPcEcoPJUdac=
 		</data>
 		<key>KYC.storyboardc/PreviewImageVC.nib</key>
 		<data>
@@ -660,37 +624,17 @@
 		<data>
 		942SlFwfeqwW7kR/nSjk5SYEixQ=
 		</data>
-		<key>KYC.storyboardc/UiZ-6X-IG1-view-fOu-pk-zfZ.nib</key>
-		<data>
-		Thvz0RDk7tqYIkEsyLh806f31ds=
-		</data>
-		<key>KYC.storyboardc/aCe-mM-EAB-view-7qU-cm-Dfy.nib</key>
-		<data>
-		Izl0b4u9Z2Rhg+Cv2B8O2bFi6so=
-		</data>
-		<key>KYC.storyboardc/fq2-fS-IIC-view-nsY-pI-XqN.nib</key>
-		<data>
-		1UTymakEGGA0LAZbRGlwJc7syYQ=
-		</data>
 		<key>KYC.storyboardc/hj4-qs-9bl-view-AWy-85-Ua8.nib</key>
 		<data>
 		99nnsSZ39hQa588O0huc4r6/JwE=
-		</data>
-		<key>KYC.storyboardc/jOl-qe-mqU-view-myx-qJ-QsA.nib</key>
-		<data>
-		FNYaCKy/iriIwCF3ZU9Z55xMVbM=
 		</data>
 		<key>KYC.storyboardc/neI-sX-gpu-view-tdM-2v-dEM.nib</key>
 		<data>
 		u7F3WQWfsRQ5cJwJvT7sVbqUCcM=
 		</data>
-		<key>KYC.storyboardc/p4B-Hu-pRX-view-K7k-Po-k4H.nib</key>
-		<data>
-		O9ttaoqwCvGPBQBjuedKyq01Pfk=
-		</data>
 		<key>KYC.storyboardc/z9f-Xa-XdW-view-8Uv-by-GIE.nib</key>
 		<data>
-		RYEBWalm6tRtwrx9Lls9RGiLKQg=
+		aLSScN0D98NBA5kyuJTHookpCwo=
 		</data>
 		<key>LimitControlTableViewCell.nib</key>
 		<data>
@@ -774,11 +718,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xYpAN9v1/glDD0X927OlrIMJq54=
+		U21zgGtmbEutT27Y3Pn6ndRZmL0=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vWI8ueNwYFLfcM0W8bpApbD15iA=
+		RT5UcOXV6REwgnh+PDY6InCwCkM=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -786,19 +730,19 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vWI8ueNwYFLfcM0W8bpApbD15iA=
+		RT5UcOXV6REwgnh+PDY6InCwCkM=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		y38Nx4pIbR614osJzL2K6IImWKs=
+		6Bbpf2LKL9HDsyPBW/uW+qdIq+c=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xYpAN9v1/glDD0X927OlrIMJq54=
+		U21zgGtmbEutT27Y3Pn6ndRZmL0=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AbxDwQ5UFXNOHfLxgmmGY+Qs1VE=
+		ULeX4CSo6twr7MRdxi15JZkfbHs=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -806,11 +750,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AbxDwQ5UFXNOHfLxgmmGY+Qs1VE=
+		ULeX4CSo6twr7MRdxi15JZkfbHs=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MZi9JTD/LoKHsaRiuR82lHWuTfE=
+		CYVU+werv94TKxpYuDnJctjRkh0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2423,35 +2367,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WTyoZpsny2MUP93p1ZG2lOEXlygclXGDJfVHf/cCd/k=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/InAppKYCPermissionViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7CIJMHtoQw44t8QkxE3b86H11JFpD43p+MWKQJ5abdg=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/InAppNIDViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9uKRQDhdaP4nTy4Ch9PZ9x9xznBUwlqSKKQvgIntnck=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/InAppTakeSelfieViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cCsWv8GxnKWVbXUFPXwWFP2vaFJiZ4Aj8KpR9ZUs1Xg=
+			X5O20Rs2Spy6G9xUl/T3zO36EgZcHSCLFscgRW411Eg=
 			</data>
 		</dict>
 		<key>KYC.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vLCPNLj8IwAOGUvzLrq4SBTRYlmvkRJceiTuQIp332E=
+			itO6q5d4DWQQ+RLGMUGfCCMcHw7zSftfhk3LUlg2aGI=
 			</data>
 		</dict>
 		<key>KYC.storyboardc/KWN-hQ-GYZ-view-Lx9-qA-mi0.nib</key>
@@ -2461,39 +2384,11 @@
 			bQ/EsGX59+le4+yH3T7qVpGorN3Cs3jWanbqp9JcdBY=
 			</data>
 		</dict>
-		<key>KYC.storyboardc/KYCVerificationSuccessVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yGwGNExQgVIVSlP6wgFTJj71w54u4usqB+p8XGQYJPk=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/KYCWarningViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RDytHrGQNa37urASErPOJD8BQONnL5tLe0RLNFcN1tM=
-			</data>
-		</dict>
 		<key>KYC.storyboardc/NIDScannerVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			4eJhg+SWpXeF2b/gcRz25i6fXloYnP//Gbvd7voqSLE=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/OUp-2a-DGT-view-c2l-I4-ixo.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GnUVT3UHaIOu6Gb4pW7f/h0h0NeruS/2kRMFnxN7qIQ=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/Oca-cf-7G6-view-XBg-Gu-fSa.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4VUCwHcgToP3FgKs5jGhSOAz6hYbFNOlpgbFxZ1PaoI=
 			</data>
 		</dict>
 		<key>KYC.storyboardc/OnboardingNIDViewController.nib</key>
@@ -2503,25 +2398,11 @@
 			hZe4+yjX/P4ikRPCPmpSWEUFT82e8xvM5jkf0E6/3yo=
 			</data>
 		</dict>
-		<key>KYC.storyboardc/OnboardingPermissionViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Fybu39GoamS+Mv9U1pMi5RmLqgFreKXdiU8n//zpO0I=
-			</data>
-		</dict>
 		<key>KYC.storyboardc/OnboardingTakeSelfieViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			1Iap5Z9A5So7Iw57zGQvF/lOqsdJ/m+QS1+8BrmdRWw=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/PermissionAskVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			M6l9StwEJ04FXiVJfRShNNPOt2yzEvNX6r7LhivA0Lg=
 			</data>
 		</dict>
 		<key>KYC.storyboardc/PreviewImageVC.nib</key>
@@ -2538,39 +2419,11 @@
 			Mi9lRKXkSNturupflC8lLZ2zqBX9/Zaef9u7T+91Nc8=
 			</data>
 		</dict>
-		<key>KYC.storyboardc/UiZ-6X-IG1-view-fOu-pk-zfZ.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fNDndBpiHN7ebBPYLaAg6aiZ0pf7UpI1ToXThsSKyoE=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/aCe-mM-EAB-view-7qU-cm-Dfy.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFFtyehIdEhgEkUw3cv99BbJH8MGBSkuaU9Ao6ehzkU=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/fq2-fS-IIC-view-nsY-pI-XqN.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mKtIdSce+CYaHUBzhBoVdoseAxiJm41wj8cLV2mjjZE=
-			</data>
-		</dict>
 		<key>KYC.storyboardc/hj4-qs-9bl-view-AWy-85-Ua8.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			sEdQ05rKu/5HBFzOCuDHSs2bbFIFoG6iwulUb/ny2c0=
-			</data>
-		</dict>
-		<key>KYC.storyboardc/jOl-qe-mqU-view-myx-qJ-QsA.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Nlflvpyt0PZA0d4/dVN00CRWDJCUIxqb99viGf1ePE4=
 			</data>
 		</dict>
 		<key>KYC.storyboardc/neI-sX-gpu-view-tdM-2v-dEM.nib</key>
@@ -2580,18 +2433,11 @@
 			6qHDE6h/ugKC04cyygsLb32qNckzsFdzJIM1f9CuJOw=
 			</data>
 		</dict>
-		<key>KYC.storyboardc/p4B-Hu-pRX-view-K7k-Po-k4H.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nj9StMqks+acoojUBmT9y6Ikp4vMiFBMpS/nNP7XUY0=
-			</data>
-		</dict>
 		<key>KYC.storyboardc/z9f-Xa-XdW-view-8Uv-by-GIE.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w3AvyFtDOhkgnlBuKlh6l/IQCsPWhgLAMT+GeKYZ+RU=
+			EvSsvnpuInbSSVxvf+dKtbKomD88ll05TfcJF+KtbGU=
 			</data>
 		</dict>
 		<key>LimitControlTableViewCell.nib</key>
@@ -2738,14 +2584,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			maGwSJYUeF3eqgkeUe3AgRNMRRB46NgqNd9VllqUytU=
+			A/SYySJULI4Zz9TVv1FhzWmqMZoQ0o2hDq/auEGmaus=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zImu+dqwJWUNo6g1dXTcOwLDfDq//lxmymV2EoBAj3Y=
+			dZJIthHuynU0ZOTblWDhV5kVr9mLDt7KtuKN35Pb6Zc=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -2759,28 +2605,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zImu+dqwJWUNo6g1dXTcOwLDfDq//lxmymV2EoBAj3Y=
+			dZJIthHuynU0ZOTblWDhV5kVr9mLDt7KtuKN35Pb6Zc=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IvSoHgNAYPHXFHRQ/ae8jO5qoy3AhGE/Dpu32pPytgY=
+			fhnvg+LNxTK5tPnkLPygHQU1iG2fd5A4uj6rsWTzyDA=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			maGwSJYUeF3eqgkeUe3AgRNMRRB46NgqNd9VllqUytU=
+			A/SYySJULI4Zz9TVv1FhzWmqMZoQ0o2hDq/auEGmaus=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZskhO8tWn9l94+81Nrv4n8AS/rj1yK/8WqLXBlSSORI=
+			2KZmfm2Bw0mykYUqOAiyzMDiCEw8hojAOfDO6sigZ9o=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -2794,14 +2640,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZskhO8tWn9l94+81Nrv4n8AS/rj1yK/8WqLXBlSSORI=
+			2KZmfm2Bw0mykYUqOAiyzMDiCEw8hojAOfDO6sigZ9o=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N+uQN9bY7AwfC7OoH4W0H5DVu4YnepaLPK/NSwLb/FY=
+			qw4jLNOc0dHZ2f/qYdxT81d8rCNP/4XWyOubV2Kb8yI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

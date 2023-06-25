@@ -11,6 +11,8 @@ import CommonCrypto
 import Contacts
 import CoreGraphics
 import CoreLocation
+import Firebase
+import FirebaseCore
 import Foundation
 import IQKeyboardManagerSwift
 import Kingfisher
