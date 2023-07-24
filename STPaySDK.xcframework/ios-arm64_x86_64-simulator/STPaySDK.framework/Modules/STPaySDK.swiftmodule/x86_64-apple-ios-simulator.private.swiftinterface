@@ -11,8 +11,6 @@ import CommonCrypto
 import Contacts
 import CoreGraphics
 import CoreLocation
-import Firebase
-import FirebaseCore
 import Foundation
 import IQKeyboardManagerSwift
 import Kingfisher
@@ -219,6 +217,11 @@ public struct ToastConfiguration {
   @_Concurrency.MainActor(unsafe) public init(child: UIKit.UIView, minHeight: CoreFoundation.CGFloat = 58, minWidth: CoreFoundation.CGFloat = 150, darkBackgroundColor: UIKit.UIColor = UIColor(red: 0.13, green: 0.13, blue: 0.13, alpha: 1.00), lightBackgroundColor: UIKit.UIColor = UIColor(red: 0.99, green: 0.99, blue: 0.99, alpha: 1.00))
   @_Concurrency.MainActor(unsafe) public func createView(for toast: STPaySDK.Toast)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class NotificationManager : ObjectiveC.NSObject {
+  public static let shared: STPaySDK.NotificationManager
+  public func setPush(_ token: Swift.String)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) open class CustomTextfield : STPaySDK.TextFieldEffects {

@@ -34,7 +34,7 @@
 		</data>
 		<key>AddMoney.storyboardc/Nfg-TO-1Kn-view-9yn-la-vBJ.nib</key>
 		<data>
-		uZ3BiXtvXh3iiyjfyTB8yiv/vVA=
+		P24zJccbCki8WpYuMs6yjXqCgMk=
 		</data>
 		<key>AddMoney.storyboardc/WII-YA-iXU-view-N8X-El-3Ro.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		0rVYlRWOnVan/M1me9qVCqQt644=
+		03AAR/NMXuwmtXZEsHyCdRINpMQ=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -324,10 +324,6 @@
 		<data>
 		0YnPz/tbhQJBP/lCGQIdzdXGFuc=
 		</data>
-		<key>CheckBoxFooterView.nib</key>
-		<data>
-		uCZUa+0EB5D5WGrUdVGWmzEMTP8=
-		</data>
 		<key>ContactTableViewCell.nib</key>
 		<data>
 		nY3Mu0AlddbFrOOfGAPl2SUXVOM=
@@ -354,7 +350,7 @@
 		</data>
 		<key>ExploreView.nib</key>
 		<data>
-		OeNDYjfLBtZ8MDAWZypVqg8VpAs=
+		oSZURs7aserSacAlwrmSxqoVW3A=
 		</data>
 		<key>FailedView.nib</key>
 		<data>
@@ -362,7 +358,7 @@
 		</data>
 		<key>Headers/STPaySDK-Swift.h</key>
 		<data>
-		0rTsM303WenPVnX4fpMUFfrGjdc=
+		riMqUdFVQVGGvMgPd+2Aaaoyf3k=
 		</data>
 		<key>Headers/STPaySDK.h</key>
 		<data>
@@ -718,11 +714,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		XkDYgHrp8Ggfo2QwxD211v7JfKI=
+		bIHWgxPFWVc3Q1DWxkdU419cfZc=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RT5UcOXV6REwgnh+PDY6InCwCkM=
+		yMTwDG2k7x8Vh6W8mx1YC4m+/3E=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -730,19 +726,19 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RT5UcOXV6REwgnh+PDY6InCwCkM=
+		yMTwDG2k7x8Vh6W8mx1YC4m+/3E=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DsNiCreDoBCwvGSUCoc6AHbt3b0=
+		0Tg43VX7GE/ScROQd2bFPinoal0=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		XkDYgHrp8Ggfo2QwxD211v7JfKI=
+		bIHWgxPFWVc3Q1DWxkdU419cfZc=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ULeX4CSo6twr7MRdxi15JZkfbHs=
+		PwLZrNm7nTvZZHxKIdfAuHvCY5s=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -750,11 +746,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ULeX4CSo6twr7MRdxi15JZkfbHs=
+		PwLZrNm7nTvZZHxKIdfAuHvCY5s=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QYyPZC6E7j/F8meDPYpyIBjfNds=
+		Nlm1VaNMcrLY1RTr1s6hJMwVmaA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -811,10 +807,6 @@
 		<key>OptionTableViewCell.nib</key>
 		<data>
 		UKW5WGnEQSRTimkQrLDB6J0HnH4=
-		</data>
-		<key>PinRuleTableViewCell.nib</key>
-		<data>
-		QwQg8s99psCfQU1uYKnKCEc0gxo=
 		</data>
 		<key>PinTableViewCell.nib</key>
 		<data>
@@ -1086,11 +1078,11 @@
 		</data>
 		<key>ScanPay.storyboardc/feD-tH-aYx-view-sTw-HF-fwS.nib/objects-14.0+.nib</key>
 		<data>
-		BH3iE3gxgSmpyH1myWw0RkOjlJk=
+		iv9LarzqcOzVuj2Bohn9PUQbsT4=
 		</data>
 		<key>ScanPay.storyboardc/feD-tH-aYx-view-sTw-HF-fwS.nib/runtime.nib</key>
 		<data>
-		x0U0f2/U6rIp5kPzfLC4XtadGgk=
+		oZZT7kFQC17mAb7dz5fvgLGtbWM=
 		</data>
 		<key>SearchTableViewCell.nib</key>
 		<data>
@@ -1211,10 +1203,6 @@
 		<key>TitleEmbeddedTextFieldTableViewCell.nib</key>
 		<data>
 		qZtiXaLk3RMmV7PMYEJalh3Ujas=
-		</data>
-		<key>TitleSubTitleHeaderView.nib</key>
-		<data>
-		rMUsoqhEnW+o+FBE6SRyTqirzYc=
 		</data>
 		<key>TitleTextFieldView.nib</key>
 		<data>
@@ -1394,7 +1382,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUaIRfrDT1xGr5rHPKodALlsex5gqUvuMX75NZfKiq8=
+			uM5d5X5ixdbJf82YYSJ72yDGZ0ubMTmi9qHe3TMxOik=
 			</data>
 		</dict>
 		<key>AddMoney.storyboardc/WII-YA-iXU-view-N8X-El-3Ro.nib</key>
@@ -1443,7 +1431,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pOqLmZGw6/CZlglqS007HNRuAj8C0nv66i0FuzpvI6c=
+			hkU7JnlWMfHSvWIU3wRDeMAoZxJWefQGO+PM93pC22Q=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -1901,13 +1889,6 @@
 			HEmB+k0NDn6k1TeDJplf63fh78hKuky2OCv8bWcEqhI=
 			</data>
 		</dict>
-		<key>CheckBoxFooterView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HSuQSE6u3DZmGt79QNV+VUYx1JHgJL+mD+xq+3NntS8=
-			</data>
-		</dict>
 		<key>ContactTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1954,7 +1935,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1gCustKgZCe1C8RV059Gc4k/EiuV5+o10QTHuCOBUT0=
+			+AaVZBC1ZmVG2PgvkaMyhWVUkOP1tTdo1hsID+OOOc8=
 			</data>
 		</dict>
 		<key>FailedView.nib</key>
@@ -1968,7 +1949,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4xcGcDnkIqkDMC+n4W1kn6Ghl91bvIcvlcuN3tLxO0E=
+			kO6S6iLury0yIHxFM5goCYGQIwGKhfu0oiyvubdqaww=
 			</data>
 		</dict>
 		<key>Headers/STPaySDK.h</key>
@@ -2584,14 +2565,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FtiQriuUkLjLNaAeP/wL6eIDsGZa7NfDIz2VZ+ohi6Q=
+			lh2jyOhGqFBfoPx4UZRHfHtjHPc4MuGaSUiNfM+shis=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dZJIthHuynU0ZOTblWDhV5kVr9mLDt7KtuKN35Pb6Zc=
+			Y1WbrhfqTXcn9tT078zScdrgK4ru2FOqepbFCddtqes=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -2605,28 +2586,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dZJIthHuynU0ZOTblWDhV5kVr9mLDt7KtuKN35Pb6Zc=
+			Y1WbrhfqTXcn9tT078zScdrgK4ru2FOqepbFCddtqes=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KUUXe/0f0LxcqBGNcunKfUGKN1qqLXPjls6lN+7NEhg=
+			d7Y5Ng2ig3VCv95joFfHpXJ00Akwc02x7EXeew7sH6I=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FtiQriuUkLjLNaAeP/wL6eIDsGZa7NfDIz2VZ+ohi6Q=
+			lh2jyOhGqFBfoPx4UZRHfHtjHPc4MuGaSUiNfM+shis=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2KZmfm2Bw0mykYUqOAiyzMDiCEw8hojAOfDO6sigZ9o=
+			xb522pjdl42rGnK3VejU5r2HdWXb+Q7W/k3SNVqzOsE=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -2640,14 +2621,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2KZmfm2Bw0mykYUqOAiyzMDiCEw8hojAOfDO6sigZ9o=
+			xb522pjdl42rGnK3VejU5r2HdWXb+Q7W/k3SNVqzOsE=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CbE+NJA0xYd4H68Xx79hsWk4nde2cV5VKQFy/rMrjY4=
+			2tfxPdnWM9t80gJB6pBqaIBmR0OEXH2Is1lDwLlNlDo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2746,13 +2727,6 @@
 			<key>hash2</key>
 			<data>
 			PlPN4ojy3pyXJibuR3l9myRDUGEsv2qtUF3wIKKlQVw=
-			</data>
-		</dict>
-		<key>PinRuleTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			flb17bhX0df4GIyLg5dA5he8cvbas3Ysp3SF32OYZmk=
 			</data>
 		</dict>
 		<key>PinTableViewCell.nib</key>
@@ -3228,14 +3202,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hq+M2AoHiGNc1PMV/QUqZS3/IjwXZpQmSiQDzjabrzc=
+			fg5jvbvKHuOXMFAh51db1t+U9trHOsI/9nVDwJeJCcg=
 			</data>
 		</dict>
 		<key>ScanPay.storyboardc/feD-tH-aYx-view-sTw-HF-fwS.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wJ0pRF84UG4OvG7/TV7KrCoQQ7ehfxiOHWPPO/RBTBU=
+			QCbaFxkdRp+j+dJEzs/DimD6jAFvj3jvmMqDx4agC4M=
 			</data>
 		</dict>
 		<key>SearchTableViewCell.nib</key>
@@ -3446,13 +3420,6 @@
 			<key>hash2</key>
 			<data>
 			91Ybe4aJ4hP5tbr8IXp8NLFFF3TOtvcFBIIimTtJquM=
-			</data>
-		</dict>
-		<key>TitleSubTitleHeaderView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tlRei+ucxUeG2G9jPqqK7CVS+JFawEHlVOicaQZY2DU=
 			</data>
 		</dict>
 		<key>TitleTextFieldView.nib</key>

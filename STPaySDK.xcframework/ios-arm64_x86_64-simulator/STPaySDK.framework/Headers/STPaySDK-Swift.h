@@ -383,6 +383,13 @@ SWIFT_CLASS("_TtC8STPaySDK18IconAppleToastView")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
+
+SWIFT_CLASS("_TtC8STPaySDK19NotificationManager")
+@interface NotificationManager : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 @class UITouch;
 @class UIEvent;
 
@@ -504,12 +511,12 @@ SWIFT_CLASS("_TtC8STPaySDK9STPayView")
 
 
 
+
 SWIFT_CLASS("_TtC8STPaySDK13TextToastView")
 @interface TextToastView : UIStackView
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
-
 
 
 
@@ -968,6 +975,13 @@ SWIFT_CLASS("_TtC8STPaySDK18IconAppleToastView")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
+
+SWIFT_CLASS("_TtC8STPaySDK19NotificationManager")
+@interface NotificationManager : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 @class UITouch;
 @class UIEvent;
 
@@ -1089,12 +1103,12 @@ SWIFT_CLASS("_TtC8STPaySDK9STPayView")
 
 
 
+
 SWIFT_CLASS("_TtC8STPaySDK13TextToastView")
 @interface TextToastView : UIStackView
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
-
 
 
 
