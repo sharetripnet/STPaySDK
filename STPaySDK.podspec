@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     s.license           = 'MIT'
     s.requires_arc      = true
     s.platform          = :ios, "13.0"
-    s.vendored_frameworks = 'STPaySDK.xcframework'
+    s.vendored_frameworks = 'STPaySDK.xcframework', 'PaymentSDK.xcframework'
 end
