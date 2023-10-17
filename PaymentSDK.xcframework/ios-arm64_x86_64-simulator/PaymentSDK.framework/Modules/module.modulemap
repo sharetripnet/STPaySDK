@@ -1,0 +1,4 @@
+framework module PaymentSDK {
+  header "PaymentSDK-Swift.h"
+  requires objc
+}

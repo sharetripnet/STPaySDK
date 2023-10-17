@@ -1,0 +1,90 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name PaymentSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CommonCrypto
+import CoreGraphics
+import Foundation
+import QuartzCore
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+public protocol PaymentSDKDelegate {
+  func saveSuccess(_ data: PaymentSDK.SaveCardResponse)
+  func userCancelled(_ userBack: Swift.String)
+  func errorOccured(_ error: Swift.String)
+  func userTimeOut(_ timeOutErrorMsg: Swift.String)
+}
+public class PaymentSDKRoot {
+  public init(inViewController: UIKit.UIViewController, sdkType: PaymentSDK.PaymentSDKType, cardType: PaymentSDK.PaymentSource, userToken: Swift.String, clientToken: Swift.String, lang: PaymentSDK.PaymentLanguage, delegate: PaymentSDK.PaymentSDKDelegate?)
+  public func launch()
+  @objc deinit
+}
+public class SaveCardResponse : Swift.Codable {
+  final public let cardToken: Swift.String?, maskedCardNo: Swift.String?, scheme: Swift.String?, cardId: Swift.String?
+  final public let rememberMe: Swift.Int?
+  public enum CodingKeys : Swift.String, Swift.CodingKey {
+    case cardToken
+    case maskedCardNo
+    case scheme
+    case rememberMe
+    case cardId
+    public init?(rawValue: Swift.String)
+    public init?(stringValue: Swift.String)
+    public init?(intValue: Swift.Int)
+    public typealias RawValue = Swift.String
+    public var intValue: Swift.Int? {
+      get
+    }
+    public var rawValue: Swift.String {
+      get
+    }
+    public var stringValue: Swift.String {
+      get
+    }
+  }
+  public init(cardToken: Swift.String?, maskedCardNo: Swift.String?, scheme: Swift.String?, rememberMe: Swift.Int?, cardId: Swift.String?)
+  required public init(from decoder: Swift.Decoder) throws
+  @objc deinit
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public enum PaymentLanguage {
+  case English
+  case Bangla
+  public static func == (a: PaymentSDK.PaymentLanguage, b: PaymentSDK.PaymentLanguage) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum PaymentSDKType {
+  case TESTBOX
+  case LIVE
+  public static func == (a: PaymentSDK.PaymentSDKType, b: PaymentSDK.PaymentSDKType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum PaymentSource : Swift.Int {
+  case VISA
+  case MasterCard
+  case VISADEBIT
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension PaymentSDK.SaveCardResponse.CodingKeys : Swift.Equatable {}
+extension PaymentSDK.SaveCardResponse.CodingKeys : Swift.Hashable {}
+extension PaymentSDK.SaveCardResponse.CodingKeys : Swift.RawRepresentable {}
+extension PaymentSDK.PaymentLanguage : Swift.Equatable {}
+extension PaymentSDK.PaymentLanguage : Swift.Hashable {}
+extension PaymentSDK.PaymentSDKType : Swift.Equatable {}
+extension PaymentSDK.PaymentSDKType : Swift.Hashable {}
+extension PaymentSDK.PaymentSource : Swift.Equatable {}
+extension PaymentSDK.PaymentSource : Swift.Hashable {}
+extension PaymentSDK.PaymentSource : Swift.RawRepresentable {}
