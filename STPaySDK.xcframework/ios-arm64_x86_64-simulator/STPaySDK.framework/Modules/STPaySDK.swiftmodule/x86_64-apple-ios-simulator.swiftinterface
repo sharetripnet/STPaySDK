@@ -39,6 +39,10 @@ import _SwiftConcurrencyShims
     @objc get
     @objc set
   }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) open var isDebug: Swift.Bool {
+    @objc get
+    @objc set
+  }
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)

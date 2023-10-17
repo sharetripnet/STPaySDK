@@ -512,6 +512,7 @@ IB_DESIGNABLE
 SWIFT_CLASS("_TtC8STPaySDK9STPayView")
 @interface STPayView : UIView
 @property (nonatomic, copy) IBInspectable NSString * _Nullable text;
+@property (nonatomic) IBInspectable BOOL isDebug;
 - (void)awakeFromNib;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
