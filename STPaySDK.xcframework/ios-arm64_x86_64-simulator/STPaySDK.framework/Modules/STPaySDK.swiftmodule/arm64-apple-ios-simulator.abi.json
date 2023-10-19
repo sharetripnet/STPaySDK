@@ -1796,13 +1796,6 @@
       },
       {
         "kind": "Import",
-        "name": "PaymentSDK",
-        "printedName": "PaymentSDK",
-        "declKind": "Import",
-        "moduleName": "STPaySDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -10834,13 +10827,6 @@
       },
       {
         "kind": "Import",
-        "name": "PaymentSDK",
-        "printedName": "PaymentSDK",
-        "declKind": "Import",
-        "moduleName": "STPaySDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -11192,13 +11178,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "PaymentSDK",
-        "printedName": "PaymentSDK",
-        "declKind": "Import",
-        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -19329,6 +19308,53 @@
         "printedName": "IconAppleToastView",
         "children": [
           {
+            "kind": "Var",
+            "name": "defaultImageTint",
+            "printedName": "defaultImageTint",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvpZ",
+            "mangledName": "$s8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvpZ",
+            "moduleName": "STPaySDK",
+            "static": true,
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvgZ",
+                "mangledName": "$s8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvgZ",
+                "moduleName": "STPaySDK",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(image:imageTint:title:subtitle:)",
@@ -19388,8 +19414,7 @@
             "moduleName": "STPaySDK",
             "declAttributes": [
               "Custom",
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "init_kind": "Designated"
           },
@@ -20967,126 +20992,126 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12745,
+      "offset": 12866,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13465,
+      "offset": 13586,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13618,
+      "offset": 13739,
       "length": 4,
       "value": "-100"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13635,
+      "offset": 13756,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13712,
+      "offset": 13833,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13772,
+      "offset": 13893,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13788,
+      "offset": 13909,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13849,
+      "offset": 13970,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13864,
+      "offset": 13985,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 14028,
+      "offset": 14149,
       "length": 8,
       "value": "\"Logout\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "FloatLiteral",
-      "offset": 14440,
+      "offset": 14561,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 14622,
+      "offset": 14743,
       "length": 23,
       "value": "\"Back to Explore State\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "FloatLiteral",
-      "offset": 14704,
+      "offset": 14825,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 14906,
+      "offset": 15027,
       "length": 14,
       "value": "\"Back to main\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 15027,
+      "offset": 15148,
       "length": 23,
       "value": "\"ChangedAuthentication\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 15675,
+      "offset": 15796,
       "length": 13,
       "value": "\"app_primary\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15793,
+      "offset": 15914,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15876,
+      "offset": 15997,
       "length": 1,
       "value": "0"
     },
@@ -25363,93 +25388,51 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 512,
+      "offset": 514,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 518,
+      "offset": 520,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 559,
+      "offset": 561,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "StringLiteral",
-      "offset": 756,
+      "offset": 758,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1094,
+      "offset": 1096,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1621,
+      "offset": 1623,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1930,
+      "offset": 1932,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3038,
-      "length": 50,
-      "value": "\"Oops!\nCredit card Bill payment is unsuccessful.\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3159,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3252,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3291,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3324,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Card Bill\/Controller\/CardBillViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3906,
-      "length": 6,
-      "value": "\"VISA\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/KYC\/Controllers\/NIDScannerVC.swift",
@@ -44312,7 +44295,7 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Auth\/Managers\/NotificationManager.swift",
       "kind": "StringLiteral",
-      "offset": 3236,
+      "offset": 3238,
       "length": 2,
       "value": "\"\""
     },
@@ -44690,147 +44673,56 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 464,
+      "offset": 466,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 470,
+      "offset": 472,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 511,
+      "offset": 513,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 720,
       "length": 18,
       "value": "\"Instant Transfer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1087,
+      "offset": 1089,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "StringLiteral",
-      "offset": 2932,
-      "length": 56,
-      "value": "\"Oops!\nVisa credit card fund transfer is unsuccessful.\""
+      "offset": 2195,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3059,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3152,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3191,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3224,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3452,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3462,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3478,
-      "length": 18,
-      "value": "\"Congratulations!\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3498,
-      "length": 87,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3511,
-      "length": 6,
-      "value": "\"VISA\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3520,
-      "length": 6,
-      "value": "\"Visa\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3529,
-      "length": 12,
-      "value": "\"Mastercard\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "StringLiteral",
-      "offset": 3543,
-      "length": 6,
-      "value": "\" credit card fund transfer is successful.\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3661,
+      "offset": 4414,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 4369,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4482,
+      "offset": 4527,
       "length": 4,
       "value": "true"
     },
@@ -47000,35 +46892,35 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 330,
+      "offset": 332,
       "length": 48,
       "value": "\"https:\/\/dev-apigw-personal.deshipay.com\/api\/v1\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 411,
+      "offset": 413,
       "length": 48,
       "value": "\"https:\/\/dev-apigw-personal.deshipay.com\/api\/v2\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 491,
+      "offset": 493,
       "length": 44,
       "value": "\"https:\/\/apigw-personal.deshipay.com\/api\/v1\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 569,
+      "offset": 571,
       "length": 44,
       "value": "\"https:\/\/apigw-personal.deshipay.com\/api\/v2\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 651,
+      "offset": 653,
       "length": 41,
       "value": "\"https:\/\/dev-invoice.deshipay.com\/api\/v1\""
     },
@@ -50409,35 +50301,28 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Root\/MoneyTransferRootVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 851,
+      "offset": 875,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Root\/MoneyTransferRootVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1135,
+      "offset": 1159,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Root\/MoneyTransferRootVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2265,
+      "offset": 3117,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Root\/MoneyTransferRootVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2878,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Root\/MoneyTransferRootVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2991,
+      "offset": 3230,
       "length": 4,
       "value": "true"
     },
@@ -55610,28 +55495,28 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2146,
+      "offset": 2152,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2427,
+      "offset": 2433,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "StringLiteral",
-      "offset": 2768,
+      "offset": 2774,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2897,
+      "offset": 2903,
       "length": 2,
       "value": "15"
     },
