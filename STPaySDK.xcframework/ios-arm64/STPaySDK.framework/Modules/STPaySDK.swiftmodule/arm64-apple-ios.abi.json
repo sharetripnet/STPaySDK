@@ -19308,53 +19308,6 @@
         "printedName": "IconAppleToastView",
         "children": [
           {
-            "kind": "Var",
-            "name": "defaultImageTint",
-            "printedName": "defaultImageTint",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIColor",
-                "printedName": "UIKit.UIColor",
-                "usr": "c:objc(cs)UIColor"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvpZ",
-            "mangledName": "$s8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvpZ",
-            "moduleName": "STPaySDK",
-            "static": true,
-            "declAttributes": [
-              "Custom",
-              "Final",
-              "AccessControl"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvgZ",
-                "mangledName": "$s8STPaySDK18IconAppleToastViewC16defaultImageTintSo7UIColorCvgZ",
-                "moduleName": "STPaySDK",
-                "static": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(image:imageTint:title:subtitle:)",
@@ -19414,7 +19367,8 @@
             "moduleName": "STPaySDK",
             "declAttributes": [
               "Custom",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "init_kind": "Designated"
           },
@@ -55495,28 +55449,28 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2152,
+      "offset": 2146,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2433,
+      "offset": 2427,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "StringLiteral",
-      "offset": 2774,
+      "offset": 2768,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastViews\/AppleToastView\/IconAppleToastView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2903,
+      "offset": 2897,
       "length": 2,
       "value": "15"
     },

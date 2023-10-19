@@ -782,11 +782,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		wGIVlhUcunZDALzhRBBrSwSwVak=
+		EC3XInIZd+e2I5XcY30JtAS3y3Q=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Qdoguy9jZc0lvRL18z333rr9GSc=
+		nB4fnNBgaHjPfG8cW3phRdig5EI=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -794,11 +794,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Qdoguy9jZc0lvRL18z333rr9GSc=
+		nB4fnNBgaHjPfG8cW3phRdig5EI=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5kHKGBWH3YGFUiT1MEupWp82+e4=
+		tTRD27lBMfudKVY0y2TTisyKvnM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2732,14 +2732,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qIUUFimTfSEk2lPJQehnfPNL7+KQm1HUk7gg5TC0Y5w=
+			GkSWx0KPYz2EkIPRZ8Vfpi8ZSUvbz6NO/5wYSeRLSrM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9BtfvpQ/scKAdi98uhv8MLKbPo1vYcGRM/dI2pO00Rc=
+			cI+GApDlSHKrvPOGXgQIt0+BDDhRVL7pRxskqkVz2Uw=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -2753,14 +2753,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9BtfvpQ/scKAdi98uhv8MLKbPo1vYcGRM/dI2pO00Rc=
+			cI+GApDlSHKrvPOGXgQIt0+BDDhRVL7pRxskqkVz2Uw=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BSiaJJ9cXFo0Ehw7FqgGl8o3AdZIRr5LANDf0NVQ+Aw=
+			mDao2q8XQJzqWLbFEsCL2qyhaSaBWnOunh7NVj9AnlI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

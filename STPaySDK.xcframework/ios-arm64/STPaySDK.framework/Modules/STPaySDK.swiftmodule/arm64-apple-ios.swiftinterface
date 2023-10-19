@@ -421,11 +421,8 @@ extension STPaySDK.PinCodeTextField : UIKit.UIKeyInput {
   @objc deinit
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class IconAppleToastView : UIKit.UIStackView {
-  @_Concurrency.MainActor(unsafe) public static var defaultImageTint: UIKit.UIColor {
-    get
-  }
-  @_Concurrency.MainActor(unsafe) public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil)
-  @_Concurrency.MainActor(unsafe) public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Swift.String, subtitle: Swift.String? = nil)
+  @_Concurrency.MainActor(unsafe) public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = .label, title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil)
+  @_Concurrency.MainActor(unsafe) public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = .label, title: Swift.String, subtitle: Swift.String? = nil)
   @objc deinit
 }
 extension STPaySDK.PinRequiredRule : Swift.Equatable {}
