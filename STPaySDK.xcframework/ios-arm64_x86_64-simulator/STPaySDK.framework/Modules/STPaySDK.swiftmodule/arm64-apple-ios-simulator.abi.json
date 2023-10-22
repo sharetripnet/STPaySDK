@@ -20952,120 +20952,127 @@
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
+      "kind": "StringLiteral",
+      "offset": 13328,
+      "length": 16,
+      "value": "\"Money Transfer\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13586,
+      "offset": 13767,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13739,
+      "offset": 13920,
       "length": 4,
       "value": "-100"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13756,
+      "offset": 13937,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13833,
+      "offset": 14014,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13893,
+      "offset": 14074,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13909,
+      "offset": 14090,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13970,
+      "offset": 14151,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13985,
+      "offset": 14166,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 14149,
+      "offset": 14330,
       "length": 8,
       "value": "\"Logout\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "FloatLiteral",
-      "offset": 14561,
+      "offset": 14742,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 14743,
+      "offset": 14924,
       "length": 23,
       "value": "\"Back to Explore State\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "FloatLiteral",
-      "offset": 14825,
+      "offset": 15006,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 15027,
+      "offset": 15208,
       "length": 14,
       "value": "\"Back to main\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 15148,
+      "offset": 15329,
       "length": 23,
       "value": "\"ChangedAuthentication\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 15796,
+      "offset": 15977,
       "length": 13,
       "value": "\"app_primary\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15914,
+      "offset": 16095,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15997,
+      "offset": 16178,
       "length": 1,
       "value": "0"
     },
@@ -52320,112 +52327,119 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2447,
+      "offset": 2435,
       "length": 27,
       "value": "\"Hello from the other side\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2519,
+      "offset": 2507,
       "length": 35,
       "value": "\"This feature we will be live soon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2606,
+      "offset": 2594,
       "length": 39,
       "value": "\"There is no current voucher available\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2694,
+      "offset": 2682,
       "length": 36,
       "value": "\"There is no past voucher available\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2780,
+      "offset": 2775,
+      "length": 35,
+      "value": "\"There is no money request history\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
+      "kind": "StringLiteral",
+      "offset": 2860,
       "length": 40,
       "value": "\"There is no pay bill invoice available\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2873,
+      "offset": 2953,
       "length": 30,
       "value": "\"There is no \""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2893,
+      "offset": 2973,
       "length": 8,
       "value": "\" invoices\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 2945,
+      "offset": 3025,
       "length": 36,
       "value": "\"You haven't added any bank account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3022,
+      "offset": 3102,
       "length": 41,
       "value": "\"You don't have any Added mobile account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3109,
+      "offset": 3189,
       "length": 41,
       "value": "\"You don’t have added any bank account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3187,
+      "offset": 3267,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3303,
+      "offset": 3383,
       "length": 18,
       "value": "\"Add Bank Account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3362,
+      "offset": 3442,
       "length": 17,
       "value": "\"Add MFS Account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3424,
+      "offset": 3504,
       "length": 35,
       "value": "\"This feature we will be live soon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3505,
+      "offset": 3585,
       "length": 18,
       "value": "\"Add Bank Account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Empty View\/EmptyStateView.swift",
       "kind": "StringLiteral",
-      "offset": 3560,
+      "offset": 3640,
       "length": 2,
       "value": "\"\""
     },
