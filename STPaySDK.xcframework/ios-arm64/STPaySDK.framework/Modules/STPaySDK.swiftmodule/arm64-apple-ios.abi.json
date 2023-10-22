@@ -57003,210 +57003,217 @@
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19467,
+      "offset": 19482,
+      "length": 18,
+      "value": "\"sharetrip_texure\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 19626,
       "length": 10,
       "value": "\"shopIcon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19615,
+      "offset": 19774,
       "length": 17,
       "value": "\"shop_icon_dummy\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19760,
+      "offset": 19919,
       "length": 11,
       "value": "\"shopdummy\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19889,
+      "offset": 20048,
       "length": 6,
       "value": "\"show\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20025,
+      "offset": 20184,
       "length": 15,
       "value": "\"sliding_image\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20184,
+      "offset": 20343,
       "length": 20,
       "value": "\"st_biometric_popup\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20331,
+      "offset": 20490,
       "length": 11,
       "value": "\"st_camera\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20469,
+      "offset": 20628,
       "length": 11,
       "value": "\"st_cancel\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20614,
+      "offset": 20773,
       "length": 15,
       "value": "\"st_email_icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20754,
+      "offset": 20913,
       "length": 10,
       "value": "\"st_error\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20891,
+      "offset": 21050,
       "length": 11,
       "value": "\"st_faceId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21032,
+      "offset": 21191,
       "length": 13,
       "value": "\"st_pin_info\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21174,
+      "offset": 21333,
       "length": 12,
       "value": "\"st_touchId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21313,
+      "offset": 21472,
       "length": 11,
       "value": "\"st_wallet\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21457,
+      "offset": 21616,
       "length": 14,
       "value": "\"start-search\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21619,
+      "offset": 21778,
       "length": 22,
       "value": "\"start-search-product\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21774,
+      "offset": 21933,
       "length": 14,
       "value": "\"success-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21930,
+      "offset": 22089,
       "length": 19,
       "value": "\"success-icon-prev\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22069,
+      "offset": 22228,
       "length": 7,
       "value": "\"topup\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22200,
+      "offset": 22359,
       "length": 9,
       "value": "\"touchId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22341,
+      "offset": 22500,
       "length": 13,
       "value": "\"transaction\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22480,
+      "offset": 22639,
       "length": 10,
       "value": "\"transfer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22621,
+      "offset": 22780,
       "length": 13,
       "value": "\"user-avater\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22765,
+      "offset": 22924,
       "length": 13,
       "value": "\"user-moneys\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22911,
+      "offset": 23070,
       "length": 14,
       "value": "\"user-profile\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23056,
+      "offset": 23215,
       "length": 13,
       "value": "\"user-square\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23202,
+      "offset": 23361,
       "length": 14,
       "value": "\"view_invoice\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23342,
+      "offset": 23501,
       "length": 10,
       "value": "\"visacard\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23476,
+      "offset": 23635,
       "length": 9,
       "value": "\"voucher\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphoneos\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23616,
+      "offset": 23775,
       "length": 13,
       "value": "\"wallet-icon\""
     }
