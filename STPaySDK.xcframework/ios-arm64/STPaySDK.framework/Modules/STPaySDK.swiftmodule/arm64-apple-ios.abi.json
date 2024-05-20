@@ -32627,57 +32627,57 @@
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
       "offset": 1529,
-      "length": 12,
-      "value": "\"send_money\""
+      "length": 16,
+      "value": "\"send_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 1571,
-      "length": 11,
-      "value": "\"add_money\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1616,
+      "offset": 1575,
       "length": 15,
-      "value": "\"bank_transfer\""
+      "value": "\"add_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 1665,
-      "length": 15,
-      "value": "\"request_money\""
+      "offset": 1624,
+      "length": 19,
+      "value": "\"bank_transfer_max\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
+      "kind": "StringLiteral",
+      "offset": 1677,
+      "length": 19,
+      "value": "\"request_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
       "offset": 1529,
-      "length": 12,
-      "value": "\"send_money\""
+      "length": 16,
+      "value": "\"send_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 1571,
-      "length": 11,
-      "value": "\"add_money\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
-      "kind": "StringLiteral",
-      "offset": 1616,
+      "offset": 1575,
       "length": 15,
-      "value": "\"bank_transfer\""
+      "value": "\"add_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 1665,
-      "length": 15,
-      "value": "\"request_money\""
+      "offset": 1624,
+      "length": 19,
+      "value": "\"bank_transfer_max\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
+      "kind": "StringLiteral",
+      "offset": 1677,
+      "length": 19,
+      "value": "\"request_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Send Money\/Client\/ProfileExistence.swift",
