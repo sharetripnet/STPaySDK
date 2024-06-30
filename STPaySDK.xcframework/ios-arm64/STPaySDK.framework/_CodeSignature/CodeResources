@@ -376,6 +376,10 @@
 		<data>
 		GnRQYCi7ct1tPLlTfdVpbq+82RA=
 		</data>
+		<key>CardCollectionViewCell.nib</key>
+		<data>
+		5uS95dk3K63HDu2IVW8DjBKWtlM=
+		</data>
 		<key>CardNameTableViewCell.nib</key>
 		<data>
 		A7W5uhbkFC/blHmY1FSylSClwsU=
@@ -418,7 +422,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rgZWKypf7tBkGic2CoNDJlxGJCw=
+		WxJGel1ocXqcMC3W4NNItctIcow=
 		</data>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib/objects-14.0+.nib</key>
 		<data>
@@ -782,7 +786,7 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		CLMPSkpEUXW08sUqsVEIUoZxIaA=
+		Gm2nQzCjHNxa0rp9QqAzwywzNeo=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -798,7 +802,7 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		q+RrAaKwKhwncUzt6EC/CTXc3zY=
+		f/rFBI0Zlpe57wNyc07UUPog1UI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2036,6 +2040,13 @@
 			Pgob7KtCuKVJGwFQIHQD6tzaJeKd/0VxNMMWnvqrY/Y=
 			</data>
 		</dict>
+		<key>CardCollectionViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7kQUPki2RDp3pYCpSLiIKQuCkVl+NdK3x8CNwU1txK0=
+			</data>
+		</dict>
 		<key>CardNameTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2740,7 +2751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m4tSUCziDapyjZfZkfhpYnXmzxvrJAAEDWbA3j0rLlo=
+			qzPzsnmrSyU6lhwUlSqP4z1NAE8lRV7X7m4ufqXNVr8=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2768,7 +2779,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yWDwD486XmXfsJdSCUGZ1ysIzql6lycQ9v4f7wYkUI4=
+			ezD5xzdYjVPZWpeS50vH5CMxmtiexcmca+BswErxXQE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

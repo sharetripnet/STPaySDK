@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'STPaySDK'
-    s.version           = '0.0.7'
+    s.version           = '0.0.8'
     s.summary           = 'STPaySDK'
     s.homepage          = 'https://github.com/sharetripnet/STPaySDK.git'
     s.source            = { :git => 'https://github.com/sharetripnet/STPaySDK.git', :tag => s.version.to_s }
