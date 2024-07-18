@@ -851,6 +851,26 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -905,6 +925,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -1183,6 +1220,16 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -2918,6 +2965,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "PinRequiredRule",
         "printedName": "PinRequiredRule",
@@ -3294,6 +3351,16 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -3723,6 +3790,33 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -3750,6 +3844,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Kingfisher",
+        "printedName": "Kingfisher",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -4148,6 +4249,16 @@
         "sugared_genericSig": "<Self : AnyObject>",
         "declAttributes": [
           "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -6997,6 +7108,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -7108,6 +7226,13 @@
       },
       {
         "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -7120,6 +7245,26 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK",
         "declAttributes": [
@@ -8560,6 +8705,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -8800,6 +8955,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -8937,6 +9102,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK",
         "declAttributes": [
@@ -9440,6 +9615,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -9477,6 +9662,20 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Kingfisher",
+        "printedName": "Kingfisher",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -9646,6 +9845,33 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "QuartzCore",
+        "printedName": "QuartzCore",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -10298,6 +10524,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK",
         "declAttributes": [
@@ -11121,6 +11357,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "BetterSegmentedControl",
         "printedName": "BetterSegmentedControl",
         "declKind": "Import",
@@ -11375,6 +11621,33 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -13433,6 +13706,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -13658,6 +13941,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -13781,6 +14074,16 @@
         "kind": "Import",
         "name": "Alamofire",
         "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "STPaySDK",
         "declAttributes": [
@@ -18734,6 +19037,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -19027,6 +19337,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK",
         "declAttributes": [
@@ -19725,6 +20045,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -19843,8 +20173,862 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "CALayer",
+        "printedName": "CALayer",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "addZeplinShadow",
+            "printedName": "addZeplinShadow(color:alpha:x:y:blur:spread:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "hasDefaultArg": true,
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So7CALayerC8STPaySDKE15addZeplinShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf14CoreFoundation7CGFloatVA3OtF",
+            "mangledName": "$sSo7CALayerC8STPaySDKE15addZeplinShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf12CoreGraphics7CGFloatVA3OtF",
+            "moduleName": "STPaySDK",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)CALayer",
+        "moduleName": "QuartzCore",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "CALayer",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "UIView",
         "printedName": "UIView",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "addBottomShadow",
+            "printedName": "addBottomShadow(color:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE15addBottomShadow5colorySo7UIColorC_tF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE15addBottomShadow5colorySo7UIColorC_tF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "roundRightCorners",
+            "printedName": "roundRightCorners(radius:frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreFoundation.CGRect?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGRect",
+                    "printedName": "CoreFoundation.CGRect",
+                    "usr": "c:@S@CGRect"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE17roundRightCorners6radius5framey14CoreFoundation7CGFloatV_So6CGRectVSgtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE17roundRightCorners6radius5framey12CoreGraphics7CGFloatV_So6CGRectVSgtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "roundTopLeftAndBottomRightCorners",
+            "printedName": "roundTopLeftAndBottomRightCorners(radius:frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreFoundation.CGRect?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGRect",
+                    "printedName": "CoreFoundation.CGRect",
+                    "usr": "c:@S@CGRect"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE33roundTopLeftAndBottomRightCorners6radius5framey14CoreFoundation7CGFloatV_So6CGRectVSgtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE33roundTopLeftAndBottomRightCorners6radius5framey12CoreGraphics7CGFloatV_So6CGRectVSgtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "roundLefttCorners",
+            "printedName": "roundLefttCorners(radius:frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreFoundation.CGRect?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGRect",
+                    "printedName": "CoreFoundation.CGRect",
+                    "usr": "c:@S@CGRect"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE17roundLefttCorners6radius5framey14CoreFoundation7CGFloatV_So6CGRectVSgtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE17roundLefttCorners6radius5framey12CoreGraphics7CGFloatV_So6CGRectVSgtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rotate",
+            "printedName": "rotate(_:duration:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE6rotate_8durationy14CoreFoundation7CGFloatV_SdtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE6rotate_8durationy12CoreGraphics7CGFloatV_SdtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setShadowWithColor",
+            "printedName": "setShadowWithColor(color:opacity:offset:radius:viewCornerRadius:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Float?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreFoundation.CGSize?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGSize",
+                    "printedName": "CoreFoundation.CGSize",
+                    "usr": "c:@S@CGSize"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE18setShadowWithColor5color7opacity6offset6radius16viewCornerRadiusySo7UIColorCSg_SfSgSo6CGSizeVSg14CoreFoundation7CGFloatVASSgtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE18setShadowWithColor5color7opacity6offset6radius16viewCornerRadiusySo7UIColorCSg_SfSgSo6CGSizeVSg12CoreGraphics7CGFloatVASSgtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDropShadow",
+            "printedName": "setDropShadow(shadowOpacity:shadowRadius:shadowOffset:shadowColor:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGColor",
+                "printedName": "CoreGraphics.CGColor",
+                "usr": "c:@T@CGColorRef"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE13setDropShadow13shadowOpacity0G6Radius0G6Offset0G5ColorySf_14CoreFoundation7CGFloatVSo6CGSizeVSo10CGColorRefatF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE13setDropShadow13shadowOpacity0G6Radius0G6Offset0G5ColorySf_12CoreGraphics7CGFloatVSo6CGSizeVSo10CGColorRefatF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "subviewsRecursive",
+            "printedName": "subviewsRecursive()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIView]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE17subviewsRecursiveSayABGyF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE17subviewsRecursiveSayABGyF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addDashedBorder",
+            "printedName": "addDashedBorder(with:width:radius:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE15addDashedBorder4with5width6radiusySo7UIColorC_14CoreFoundation7CGFloatVALtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE15addDashedBorder4with5width6radiusySo7UIColorC_12CoreGraphics7CGFloatVALtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "addZeplinShadow",
+            "printedName": "addZeplinShadow(color:alpha:x:y:blur:spread:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "hasDefaultArg": true,
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE15addZeplinShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf14CoreFoundation7CGFloatVA3OtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE15addZeplinShadow5color5alpha1x1y4blur6spreadySo7UIColorC_Sf12CoreGraphics7CGFloatVA3OtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "parentViewController",
+            "printedName": "parentViewController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So6UIViewC8STPaySDKE20parentViewControllerSo0aF0CSgvp",
+            "mangledName": "$sSo6UIViewC8STPaySDKE20parentViewControllerSo0aF0CSgvp",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So6UIViewC8STPaySDKE20parentViewControllerSo0aF0CSgvg",
+                "mangledName": "$sSo6UIViewC8STPaySDKE20parentViewControllerSo0aF0CSgvg",
+                "moduleName": "STPaySDK",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "applyGradient",
+            "printedName": "applyGradient(colours:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CAGradientLayer",
+                "printedName": "QuartzCore.CAGradientLayer",
+                "usr": "c:objc(cs)CAGradientLayer"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIColor]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE13applyGradient7coloursSo15CAGradientLayerCSaySo7UIColorCG_tF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE13applyGradient7coloursSo15CAGradientLayerCSaySo7UIColorCG_tF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom",
+              "DiscardableResult"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "applyGradient",
+            "printedName": "applyGradient(colours:locations:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CAGradientLayer",
+                "printedName": "QuartzCore.CAGradientLayer",
+                "usr": "c:objc(cs)CAGradientLayer"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIColor]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Foundation.NSNumber]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Foundation.NSNumber]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NSNumber",
+                        "printedName": "Foundation.NSNumber",
+                        "usr": "c:objc(cs)NSNumber"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE13applyGradient7colours9locationsSo15CAGradientLayerCSaySo7UIColorCG_SaySo8NSNumberCGSgtF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE13applyGradient7colours9locationsSo15CAGradientLayerCSaySo7UIColorCG_SaySo8NSNumberCGSgtF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom",
+              "DiscardableResult"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "loadNib",
+            "printedName": "loadNib(name:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE7loadNib4nameABSgSS_tF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE7loadNib4nameABSgSS_tF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "initFromNib",
+            "printedName": "initFromNib()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE11initFromNibxyABRbzlFZ",
+            "mangledName": "$sSo6UIViewC8STPaySDKE11initFromNibxyABRbzlFZ",
+            "moduleName": "STPaySDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : UIKit.UIView>",
+            "sugared_genericSig": "<T where T : UIKit.UIView>",
+            "static": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pathCurvedForView",
+            "printedName": "pathCurvedForView(curvedPercent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIBezierPath",
+                "printedName": "UIKit.UIBezierPath",
+                "usr": "c:objc(cs)UIBezierPath"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE17pathCurvedForView13curvedPercentSo12UIBezierPathC14CoreFoundation7CGFloatV_tF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE17pathCurvedForView13curvedPercentSo12UIBezierPathC12CoreGraphics7CGFloatV_tF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "applyCurvedPath",
+            "printedName": "applyCurvedPath(curvedPercent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So6UIViewC8STPaySDKE15applyCurvedPath13curvedPercenty14CoreFoundation7CGFloatV_tF",
+            "mangledName": "$sSo6UIViewC8STPaySDKE15applyCurvedPath13curvedPercenty12CoreGraphics7CGFloatV_tF",
+            "moduleName": "STPaySDK",
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
         "declKind": "Class",
         "usr": "c:objc(cs)UIView",
         "moduleName": "UIKit",
@@ -20920,6 +22104,20 @@
       "value": "true"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewModels\/InternetBankingAmountViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1031,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewModels\/InternetBankingAmountViewModel.swift",
+      "kind": "Array",
+      "offset": 1178,
+      "length": 2,
+      "value": "[]"
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/Limit\/Client\/TransactionLimitClient.swift",
       "kind": "StringLiteral",
       "offset": 251,
@@ -20932,6 +22130,34 @@
       "offset": 949,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/AddBankBenificiaryVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 455,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/AddBankBenificiaryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 648,
+      "length": 18,
+      "value": "\"Add Bank Account\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/AddBankBenificiaryVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 725,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/AddBankBenificiaryVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1002,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/MFSTransfer\/SelectMFSOperatorVC.swift",
@@ -22483,7 +23709,7 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/Views\/AmountInputView.swift",
       "kind": "BooleanLiteral",
-      "offset": 487,
+      "offset": 2197,
       "length": 4,
       "value": "true"
     },
@@ -22640,6 +23866,76 @@
       "offset": 1770,
       "length": 11,
       "value": "\"push_imei\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 630,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "StringLiteral",
+      "offset": 651,
+      "length": 15,
+      "value": "\"Select Branch\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 723,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 778,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 819,
+      "length": 8,
+      "value": "0x9BA6B2"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1054,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1171,
+      "length": 8,
+      "value": "0x9BA6B2"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1365,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1407,
+      "length": 8,
+      "value": "0x1A2B3D"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInputView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1455,
+      "length": 2,
+      "value": "14"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Profile\/Model\/ProfileResponse.swift",
@@ -23680,42 +24976,42 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/TransationList\/ViewController\/TransactionHistoryListViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 11940,
+      "offset": 11971,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/TransationList\/ViewController\/TransactionHistoryListViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11966,
+      "offset": 11997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/TransationList\/ViewController\/TransactionHistoryListViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11990,
+      "offset": 12021,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/TransationList\/ViewController\/TransactionHistoryListViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12017,
+      "offset": 12048,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/TransationList\/ViewController\/TransactionHistoryListViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12046,
+      "offset": 12077,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/TransationList\/ViewController\/TransactionHistoryListViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12086,
+      "offset": 12117,
       "length": 1,
       "value": "0"
     },
@@ -23753,6 +25049,13 @@
       "offset": 1472,
       "length": 2,
       "value": "11"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/Views\/MoreFooterView.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Send Money\/Model\/ProfileModel.swift",
@@ -24665,6 +25968,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/ViewModels\/MoreViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 219,
+      "length": 6,
+      "value": "\"More\""
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Button Views\/SlideActionView.swift",
       "kind": "FloatLiteral",
       "offset": 237,
@@ -25374,44 +26684,156 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
       "kind": "StringLiteral",
-      "offset": 423,
+      "offset": 428,
+      "length": 5,
+      "value": "\"mfs\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 456,
+      "length": 9,
+      "value": "\"notices\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 428,
+      "length": 5,
+      "value": "\"mfs\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 456,
+      "length": 9,
+      "value": "\"notices\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 716,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
       "kind": "StringLiteral",
-      "offset": 423,
+      "offset": 716,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
       "kind": "StringLiteral",
-      "offset": 960,
+      "offset": 1253,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
       "kind": "StringLiteral",
-      "offset": 960,
+      "offset": 1253,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
       "kind": "StringLiteral",
-      "offset": 1403,
+      "offset": 1713,
+      "length": 7,
+      "value": "\"cards\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 1743,
+      "length": 9,
+      "value": "\"notices\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 1713,
+      "length": 7,
+      "value": "\"cards\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 1743,
+      "length": 9,
+      "value": "\"notices\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2021,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
       "kind": "StringLiteral",
-      "offset": 1403,
+      "offset": 2021,
       "length": 9,
       "value": "\"name_bn\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2291,
+      "length": 17,
+      "value": "\"non_beneficiary\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2336,
+      "length": 13,
+      "value": "\"beneficiary\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2376,
+      "length": 13,
+      "value": "\"daily_limit\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2418,
+      "length": 15,
+      "value": "\"monthly_limit\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2291,
+      "length": 17,
+      "value": "\"non_beneficiary\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2336,
+      "length": 13,
+      "value": "\"beneficiary\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2376,
+      "length": 13,
+      "value": "\"daily_limit\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/Model\/MFSOperatorList.swift",
+      "kind": "StringLiteral",
+      "offset": 2418,
+      "length": 15,
+      "value": "\"monthly_limit\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/ViewModels\/MFSTransfer\/MFSOperatorViewModel.swift",
@@ -25610,6 +27032,146 @@
       "value": "0"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 286,
+      "length": 41,
+      "value": "\"\/private\/transaction\/add-money\/ib\/lists\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 923,
+      "length": 12,
+      "value": "\"account_no\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 923,
+      "length": 12,
+      "value": "\"account_no\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 2331,
+      "length": 41,
+      "value": "\"\/private\/transaction\/add-money\/response\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4082,
+      "length": 12,
+      "value": "\"invoice_id\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4133,
+      "length": 6,
+      "value": "\"date\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4178,
+      "length": 6,
+      "value": "\"time\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4221,
+      "length": 15,
+      "value": "\"total_payable\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4271,
+      "length": 13,
+      "value": "\"new_balance\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4312,
+      "length": 5,
+      "value": "\"fee\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4348,
+      "length": 8,
+      "value": "\"amount\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4388,
+      "length": 9,
+      "value": "\"remarks\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4082,
+      "length": 12,
+      "value": "\"invoice_id\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4133,
+      "length": 6,
+      "value": "\"date\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4178,
+      "length": 6,
+      "value": "\"time\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4221,
+      "length": 15,
+      "value": "\"total_payable\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4271,
+      "length": 13,
+      "value": "\"new_balance\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4312,
+      "length": 5,
+      "value": "\"fee\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4348,
+      "length": 8,
+      "value": "\"amount\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Client\/AddMoneyByInternetBankingClient.swift",
+      "kind": "StringLiteral",
+      "offset": 4388,
+      "length": 9,
+      "value": "\"remarks\""
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/OTPResponseModel.swift",
       "kind": "StringLiteral",
       "offset": 307,
@@ -25741,6 +27303,41 @@
       "offset": 272,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewModels\/BankListViewModel.swift",
+      "kind": "Array",
+      "offset": 187,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewModels\/BankListViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 220,
+      "length": 18,
+      "value": "\"Bank Beneficiary\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewModels\/BankListViewModel.swift",
+      "kind": "Array",
+      "offset": 369,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewModels\/BankListViewModel.swift",
+      "kind": "Array",
+      "offset": 428,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewModels\/BankListViewModel.swift",
+      "kind": "Array",
+      "offset": 480,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Auth\/Managers\/LoginManager.swift",
@@ -26429,6 +28026,76 @@
       "value": "0.8"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 179,
+      "length": 5,
+      "value": "0.103"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 193,
+      "length": 5,
+      "value": "0.167"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 206,
+      "length": 4,
+      "value": "0.24"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 219,
+      "length": 4,
+      "value": "0.08"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 1993,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 4081,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4099,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4115,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4134,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIViewExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4155,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Request Money\/ViewModel\/RequestMoneyAmountViewModel.swift",
       "kind": "StringLiteral",
       "offset": 403,
@@ -26644,6 +28311,41 @@
       "offset": 2666,
       "length": 1,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Root\/Views\/AddMoneyNoticeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1244,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Root\/Views\/AddMoneyNoticeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1294,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Root\/Views\/AddMoneyNoticeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1342,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Root\/Views\/AddMoneyNoticeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1377,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Root\/Views\/AddMoneyNoticeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1722,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Auth\/OTP\/Controller\/AuthOTPVC.swift",
@@ -28333,6 +30035,90 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 7,
+      "value": "\"lists\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 452,
+      "length": 9,
+      "value": "\"notices\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 7,
+      "value": "\"lists\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 452,
+      "length": 9,
+      "value": "\"notices\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 818,
+      "length": 9,
+      "value": "\"name_bn\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 12,
+      "value": "\"account_no\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 927,
+      "length": 12,
+      "value": "\"end_points\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 971,
+      "length": 21,
+      "value": "\"is_account_required\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 818,
+      "length": 9,
+      "value": "\"name_bn\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 12,
+      "value": "\"account_no\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 927,
+      "length": 12,
+      "value": "\"end_points\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
+      "kind": "StringLiteral",
+      "offset": 971,
+      "length": 21,
+      "value": "\"is_account_required\""
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Request Money\/ViewController\/Request Money\/RequestMoneySuccessViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 398,
@@ -28436,6 +30222,13 @@
       "offset": 1355,
       "length": 8,
       "value": "\"top_up\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/Views\/ProfileInfoCollectionCell.swift",
+      "kind": "StringLiteral",
+      "offset": 675,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/UIColorExtension.swift",
@@ -28760,6 +30553,76 @@
       "value": "16"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/CALayerExt.swift",
+      "kind": "FloatLiteral",
+      "offset": 205,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/CALayerExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 223,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/CALayerExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/CALayerExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 258,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/UIKitExt\/CALayerExt.swift",
+      "kind": "IntegerLiteral",
+      "offset": 279,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/BankListVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 438,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/BankListVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 488,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/BankListVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 761,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/BankListVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 809,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/ViewControllers\/BankListVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 913,
+      "length": 8,
+      "value": "0xE7EEF3"
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Models\/Language.swift",
       "kind": "StringLiteral",
       "offset": 165,
@@ -28786,6 +30649,27 @@
       "offset": 194,
       "length": 8,
       "value": "\"Bangla\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyCardWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 380,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyCardWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 609,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyCardWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 834,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/Toast\/ToastConfiguration.swift",
@@ -29089,9 +30973,44 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/ViewController\/MoreVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 406,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/ViewController\/MoreVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 456,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/ViewController\/MoreVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 725,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/ViewController\/MoreVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 773,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/More\/ViewController\/MoreVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 876,
+      "length": 8,
+      "value": "0xE7EEF3"
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/UITableViewCell\/Amount TableView Cell\/AmountTableViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 880,
+      "offset": 881,
       "length": 4,
       "value": "true"
     },
@@ -29119,161 +31038,252 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 273,
+      "offset": 285,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 452,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 656,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 320,
+      "offset": 703,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 360,
+      "offset": 743,
       "length": 37,
       "value": "\"Add Money from Debit or Credit Card\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 577,
+      "offset": 960,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 626,
+      "offset": 1009,
       "length": 9,
       "value": "\"#4C4C4C\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 692,
+      "offset": 1075,
       "length": 53,
       "value": "\"Please note:  For add money from debit\/credit card,\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 768,
+      "offset": 1151,
       "length": 53,
       "value": "\" any charge\/ fee may be imposed by the issuer bank.\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 844,
+      "offset": 1227,
       "length": 59,
       "value": "\" For details, please contact with your card's issuer bank\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 988,
+      "offset": 1371,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1245,
+      "offset": 1523,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1591,
+      "length": 9,
+      "value": "\"#121212\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1657,
+      "length": 23,
+      "value": "\"Select your Card Type\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1765,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2022,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1254,
+      "offset": 2031,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1266,
+      "offset": 2043,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1276,
+      "offset": 2053,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1436,
+      "offset": 2213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1486,
+      "offset": 2263,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1806,
+      "offset": 2588,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2019,
+      "offset": 2806,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2192,
+      "offset": 2984,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2239,
+      "offset": 3031,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
-      "kind": "StringLiteral",
-      "offset": 2391,
-      "length": 29,
-      "value": "\"Minimum Amount: ৳\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
-      "kind": "StringLiteral",
-      "offset": 2419,
-      "length": 1,
-      "value": "\"\""
+      "kind": "Array",
+      "offset": 3394,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2698,
+      "offset": 3458,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3496,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3548,
+      "length": 8,
+      "value": "0xFAFBFC"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3565,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3607,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3660,
+      "length": 8,
+      "value": "0xEBF0F5"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3677,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3726,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3960,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/ViewController\/AddMoneyAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 2724,
+      "offset": 3986,
       "length": 10,
       "value": "\"Continue\""
     },
@@ -29441,9 +31451,16 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewModel\/SelectMFSOperatorViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 915,
+      "offset": 1082,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewModel\/SelectMFSOperatorViewModel.swift",
+      "kind": "Array",
+      "offset": 2581,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Instant Transfer\/Controllers\/InstantTransferRootVC.swift",
@@ -29616,14 +31633,21 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/View Model\/AddMoneyAmountViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 885,
+      "offset": 1005,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/View Model\/AddMoneyAmountViewModel.swift",
       "kind": "Array",
-      "offset": 1029,
+      "offset": 1149,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/Card\/View Model\/AddMoneyAmountViewModel.swift",
+      "kind": "Array",
+      "offset": 1226,
       "length": 2,
       "value": "[]"
     },
@@ -29840,77 +31864,140 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 330,
+      "offset": 340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 507,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 711,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 377,
+      "offset": 758,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 417,
+      "offset": 798,
       "length": 17,
       "value": "\"Select Operator\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 915,
+      "offset": 1296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1298,
+      "offset": 1679,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1476,
+      "offset": 1857,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1523,
+      "offset": 1904,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
-      "kind": "StringLiteral",
-      "offset": 1563,
-      "length": 58,
-      "value": "\"Minimum Amount: ৳\""
-    },
-    {
-      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
-      "kind": "StringLiteral",
-      "offset": 1620,
-      "length": 1,
-      "value": "\"\""
+      "kind": "Array",
+      "offset": 2349,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1899,
+      "offset": 2413,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2451,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2503,
+      "length": 8,
+      "value": "0xFAFBFC"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 2520,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 2562,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2615,
+      "length": 8,
+      "value": "0xEBF0F5"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 2632,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 2681,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2915,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/MFS\/ViewController\/MFSOperatorAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 1925,
+      "offset": 2941,
       "length": 9,
       "value": "\"Confirm\""
     },
@@ -30636,6 +32723,13 @@
       "value": "true"
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Client\/AddBankApiClient.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 54,
+      "value": "\"\/private\/wallet\/withdraw-money-bank\/beneficiary-list\""
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/TextField Views\/CustomTextfield.swift",
       "kind": "FloatLiteral",
       "offset": 1823,
@@ -30963,6 +33057,209 @@
       "offset": 985,
       "length": 13,
       "value": "\"status_urls\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 288,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 335,
+      "length": 2,
+      "value": "26"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 33,
+      "value": "\"Add Money from Internet Banking\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 588,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 637,
+      "length": 9,
+      "value": "\"#4C4C4C\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 703,
+      "length": 146,
+      "value": "\"Note: For add money from internet banking, any charge\/ fee may be imposed by the issuer bank. For details, please contact with your  issuer bank\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 955,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1112,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1180,
+      "length": 9,
+      "value": "\"#121212\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1246,
+      "length": 18,
+      "value": "\"Select your bank\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1349,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1606,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1615,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1627,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1637,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1797,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1847,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2259,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2606,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2787,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2834,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3188,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3235,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3275,
+      "length": 74,
+      "value": "\"Please ensure your MTB account and ST Pay account mobile number are same\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 3526,
+      "length": 4,
+      "value": "13.0"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3633,
+      "length": 13,
+      "value": "\"MTB account\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3697,
+      "length": 16,
+      "value": "\"ST Pay account\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4208,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
+      "kind": "StringLiteral",
+      "offset": 4234,
+      "length": 10,
+      "value": "\"Continue\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/TransactionHistory\/Transaction Summary\/ViewModel\/TransactionSummaryViewModel.swift",
@@ -31423,6 +33720,27 @@
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Payments\/Merchant Payment\/Controllers\/MerchantPaymentSuccessVC.swift",
       "kind": "BooleanLiteral",
       "offset": 395,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInfoInputView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInfoInputView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 969,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/BenificiaryInfoInputView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1231,
       "length": 5,
       "value": "false"
     },
@@ -32120,6 +34438,104 @@
       "value": "\"accept\""
     },
     {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 398,
+      "length": 22,
+      "value": "\"beneficiaries_active\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 24,
+      "value": "\"beneficiaries_inactive\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 513,
+      "length": 17,
+      "value": "\"remaining_banks\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 398,
+      "length": 22,
+      "value": "\"beneficiaries_active\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 24,
+      "value": "\"beneficiaries_inactive\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 513,
+      "length": 17,
+      "value": "\"remaining_banks\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1638,
+      "length": 9,
+      "value": "\"bank_id\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1668,
+      "length": 11,
+      "value": "\"bank_name\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1702,
+      "length": 14,
+      "value": "\"bank_name_bn\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1780,
+      "length": 16,
+      "value": "\"is_npsb_enable\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1638,
+      "length": 9,
+      "value": "\"bank_id\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1668,
+      "length": 11,
+      "value": "\"bank_name\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1702,
+      "length": 14,
+      "value": "\"bank_name_bn\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1780,
+      "length": 16,
+      "value": "\"is_npsb_enable\""
+    },
+    {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/ViewModels\/GenericOTPViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1233,
@@ -32710,154 +35126,154 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 233,
+      "offset": 246,
       "length": 24,
       "value": "\"\/private\/user\/balances\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 800,
+      "offset": 813,
       "length": 38,
       "value": "\"\/private\/user\/per-transaction-limits\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 2250,
       "length": 16,
       "value": "\"send_money_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2284,
+      "offset": 2297,
       "length": 16,
       "value": "\"send_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2333,
+      "offset": 2346,
       "length": 15,
       "value": "\"add_money_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2381,
+      "offset": 2394,
       "length": 15,
       "value": "\"add_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2433,
+      "offset": 2446,
       "length": 19,
       "value": "\"request_money_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2486,
+      "offset": 2499,
       "length": 19,
       "value": "\"request_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2547,
+      "offset": 2560,
       "length": 19,
       "value": "\"bank_transfer_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2607,
+      "offset": 2620,
       "length": 19,
       "value": "\"bank_transfer_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2676,
+      "offset": 2689,
       "length": 17,
       "value": "\"cc_bill_pay_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2743,
+      "offset": 2756,
       "length": 17,
       "value": "\"cc_bill_pay_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2237,
+      "offset": 2250,
       "length": 16,
       "value": "\"send_money_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2284,
+      "offset": 2297,
       "length": 16,
       "value": "\"send_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2333,
+      "offset": 2346,
       "length": 15,
       "value": "\"add_money_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2381,
+      "offset": 2394,
       "length": 15,
       "value": "\"add_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2433,
+      "offset": 2446,
       "length": 19,
       "value": "\"request_money_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2486,
+      "offset": 2499,
       "length": 19,
       "value": "\"request_money_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2547,
+      "offset": 2560,
       "length": 19,
       "value": "\"bank_transfer_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2607,
+      "offset": 2620,
       "length": 19,
       "value": "\"bank_transfer_max\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2676,
+      "offset": 2689,
       "length": 17,
       "value": "\"cc_bill_pay_min\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Managers\/Balance\/Client\/BalanceClient.swift",
       "kind": "StringLiteral",
-      "offset": 2743,
+      "offset": 2756,
       "length": 17,
       "value": "\"cc_bill_pay_max\""
     },
@@ -33774,226 +36190,240 @@
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 2569,
+      "offset": 2571,
+      "length": 23,
+      "value": "\"icon_internet_banking\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
+      "kind": "StringLiteral",
+      "offset": 2679,
       "length": 15,
       "value": "\"MoneyTransfer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 2663,
+      "offset": 2773,
       "length": 9,
       "value": "\"invoice\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 2763,
+      "offset": 2873,
       "length": 10,
       "value": "\"shopIcon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 2854,
+      "offset": 2964,
       "length": 12,
       "value": "\"send_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 2946,
+      "offset": 3056,
       "length": 11,
       "value": "\"add_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3036,
+      "offset": 3146,
       "length": 10,
       "value": "\"pay_bill\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3125,
+      "offset": 3235,
       "length": 15,
       "value": "\"payment_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3225,
+      "offset": 3335,
       "length": 16,
       "value": "\"received_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3318,
+      "offset": 3428,
       "length": 7,
       "value": "\"topup\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3411,
+      "offset": 3521,
       "length": 12,
       "value": "\"live_later\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3501,
+      "offset": 3611,
       "length": 8,
       "value": "\"filter\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3597,
+      "offset": 3707,
       "length": 14,
       "value": "\"start-search\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3693,
+      "offset": 3803,
       "length": 13,
       "value": "\"search-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3792,
+      "offset": 3902,
       "length": 12,
       "value": "\"percentage\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3891,
+      "offset": 4001,
       "length": 16,
       "value": "\"currenLocation\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 3993,
+      "offset": 4103,
       "length": 18,
       "value": "\"no-search-result\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4104,
+      "offset": 4214,
       "length": 24,
       "value": "\"noSearchResultProducts\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4218,
+      "offset": 4328,
       "length": 22,
       "value": "\"start-search-product\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4320,
+      "offset": 4430,
       "length": 11,
       "value": "\"icon_time\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4415,
+      "offset": 4525,
       "length": 15,
       "value": "\"icon_location\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4508,
+      "offset": 4618,
       "length": 9,
       "value": "\"no-bank\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4594,
+      "offset": 4704,
       "length": 8,
       "value": "\"no-mfs\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4688,
+      "offset": 4798,
       "length": 18,
       "value": "\"no-saved-account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4792,
+      "offset": 4902,
       "length": 30,
       "value": "\"no-notification-illustration\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 4913,
+      "offset": 5023,
       "length": 23,
       "value": "\"no-recent-transaction\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5017,
+      "offset": 5127,
       "length": 12,
       "value": "\"no-voucher\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5122,
+      "offset": 5232,
       "length": 26,
       "value": "\"no-request-money-history\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5226,
+      "offset": 5336,
       "length": 12,
       "value": "\"failedicon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5321,
+      "offset": 5431,
       "length": 18,
       "value": "\"icon_rule_passed\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5422,
+      "offset": 5532,
       "length": 18,
       "value": "\"icon_rule_normal\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5531,
+      "offset": 5641,
       "length": 10,
       "value": "\"eye.fill\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
       "kind": "StringLiteral",
-      "offset": 5661,
+      "offset": 5771,
       "length": 16,
       "value": "\"eye.slash.fill\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Extensions\/Named\/UIImage+Named.swift",
+      "kind": "StringLiteral",
+      "offset": 5907,
+      "length": 14,
+      "value": "\"arrow-bottom\""
     },
     {
       "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/Common\/Views\/UITableViewCell\/OTP Cell\/OTPExpirationCountingCell.swift",
@@ -34288,6 +36718,20 @@
       "offset": 615,
       "length": 9,
       "value": "\"qr_text\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/SearchCollectionCell.swift",
+      "kind": "StringLiteral",
+      "offset": 3017,
+      "length": 8,
+      "value": "\"Search\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/ios\/wallet-stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Views\/SearchCollectionCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3047,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
@@ -34665,796 +37109,929 @@
       "kind": "StringLiteral",
       "offset": 8442,
       "length": 16,
+      "value": "\"dashboard-back\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8595,
+      "length": 16,
       "value": "\"delete-account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8587,
+      "offset": 8740,
       "length": 12,
       "value": "\"deshi_logo\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8729,
+      "offset": 8882,
       "length": 12,
       "value": "\"disclaimer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8859,
+      "offset": 9012,
       "length": 6,
       "value": "\"disk\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8983,
+      "offset": 9136,
       "length": 6,
       "value": "\"edit\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9118,
+      "offset": 9271,
       "length": 12,
       "value": "\"eye-closed\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9255,
+      "offset": 9408,
       "length": 10,
       "value": "\"eye-open\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9387,
+      "offset": 9540,
       "length": 8,
       "value": "\"faceId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9526,
+      "offset": 9679,
       "length": 13,
       "value": "\"failed-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9679,
+      "offset": 9832,
       "length": 18,
       "value": "\"failed-icon-prev\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9827,
+      "offset": 9980,
       "length": 12,
       "value": "\"failedicon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9967,
+      "offset": 10120,
       "length": 11,
       "value": "\"favourite\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10100,
+      "offset": 10253,
       "length": 8,
       "value": "\"filter\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10237,
+      "offset": 10390,
       "length": 12,
       "value": "\"forgot-pin\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10389,
+      "offset": 10542,
       "length": 18,
       "value": "\"half_circle_left\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10549,
+      "offset": 10702,
       "length": 19,
       "value": "\"half_circle_right\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10686,
+      "offset": 10839,
       "length": 6,
       "value": "\"help\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10950,
+      "offset": 11122,
+      "length": 21,
+      "value": "\"icon_account_number\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11293,
+      "length": 23,
+      "value": "\"icon_benificiary_note\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11443,
       "length": 11,
       "value": "\"icon_copy\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11096,
+      "offset": 11603,
+      "length": 23,
+      "value": "\"icon_daily_limit_note\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 11761,
       "length": 15,
       "value": "\"icon_discount\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11242,
+      "offset": 11907,
       "length": 13,
       "value": "\"icon_failed\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11390,
+      "offset": 12056,
+      "length": 16,
+      "value": "\"icon_info_note\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12222,
+      "length": 23,
+      "value": "\"icon_internet_banking\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12380,
       "length": 15,
       "value": "\"icon_location\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11545,
+      "offset": 12548,
+      "length": 25,
+      "value": "\"icon_monthly_limit_note\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12700,
+      "length": 11,
+      "value": "\"icon_more\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 12847,
+      "length": 16,
+      "value": "\"icon_more_bank\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13020,
+      "length": 27,
+      "value": "\"icon_more_biometric_login\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13194,
+      "length": 22,
+      "value": "\"icon_more_contact_us\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13367,
+      "length": 24,
+      "value": "\"icon_more_edit_profile\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13529,
+      "length": 17,
+      "value": "\"icon_more_limit\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13686,
+      "length": 18,
+      "value": "\"icon_more_logout\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 13838,
+      "length": 15,
+      "value": "\"icon_more_mfs\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14002,
+      "length": 23,
+      "value": "\"icon_more_right_arrow\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14167,
+      "length": 19,
+      "value": "\"icon_more_summary\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14336,
+      "length": 23,
+      "value": "\"icon_more_transaction\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14516,
+      "length": 27,
+      "value": "\"icon_non_benificiary_note\""
+    },
+    {
+      "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 14683,
       "length": 18,
       "value": "\"icon_rule_normal\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11703,
+      "offset": 14841,
       "length": 18,
       "value": "\"icon_rule_passed\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11850,
+      "offset": 14988,
       "length": 12,
       "value": "\"icon_share\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12000,
+      "offset": 15138,
       "length": 17,
       "value": "\"icon_shop_dummy\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12144,
+      "offset": 15282,
       "length": 11,
       "value": "\"icon_star\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12288,
+      "offset": 15426,
       "length": 14,
       "value": "\"icon_success\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12429,
+      "offset": 15567,
       "length": 11,
       "value": "\"icon_time\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12581,
+      "offset": 15719,
       "length": 18,
       "value": "\"instant_transfer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12731,
+      "offset": 15869,
       "length": 13,
       "value": "\"instruction\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12868,
+      "offset": 16006,
       "length": 9,
       "value": "\"invoice\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13003,
+      "offset": 16141,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13142,
+      "offset": 16280,
       "length": 12,
       "value": "\"left_arrow\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13283,
+      "offset": 16421,
       "length": 12,
       "value": "\"live_later\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13421,
+      "offset": 16559,
       "length": 10,
       "value": "\"location\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13567,
+      "offset": 16705,
       "length": 15,
       "value": "\"locationsIcon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13705,
+      "offset": 16843,
       "length": 9,
       "value": "\"log-out\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13847,
+      "offset": 16985,
       "length": 14,
       "value": "\"make_payment\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13993,
+      "offset": 17131,
       "length": 14,
       "value": "\"map-pin-mono\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14137,
+      "offset": 17275,
       "length": 12,
       "value": "\"mastercard\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14279,
+      "offset": 17417,
       "length": 12,
       "value": "\"mfsToDeshi\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14418,
+      "offset": 17556,
       "length": 11,
       "value": "\"more-dots\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14564,
+      "offset": 17702,
       "length": 15,
       "value": "\"more-vertical\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14704,
+      "offset": 17842,
       "length": 10,
       "value": "\"nid-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14837,
+      "offset": 17975,
       "length": 9,
       "value": "\"no-bank\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14967,
+      "offset": 18105,
       "length": 8,
       "value": "\"no-mfs\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15139,
+      "offset": 18277,
       "length": 30,
       "value": "\"no-notification-illustration\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15319,
+      "offset": 18457,
       "length": 23,
       "value": "\"no-recent-transaction\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15497,
+      "offset": 18635,
       "length": 26,
       "value": "\"no-request-money-history\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15663,
+      "offset": 18801,
       "length": 18,
       "value": "\"no-saved-account\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15821,
+      "offset": 18959,
       "length": 18,
       "value": "\"no-search-result\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15968,
+      "offset": 19106,
       "length": 12,
       "value": "\"no-voucher\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16134,
+      "offset": 19272,
       "length": 24,
       "value": "\"noSearchResultProducts\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16292,
+      "offset": 19430,
       "length": 14,
       "value": "\"notification\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16449,
+      "offset": 19587,
       "length": 19,
       "value": "\"notification_icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16603,
+      "offset": 19741,
       "length": 18,
       "value": "\"offer-test-image\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16767,
+      "offset": 19905,
       "length": 21,
       "value": "\"onboarding_page_one\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16938,
+      "offset": 20076,
       "length": 23,
       "value": "\"onboarding_page_three\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17107,
+      "offset": 20245,
       "length": 21,
       "value": "\"onboarding_page_two\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17248,
+      "offset": 20386,
       "length": 7,
       "value": "\"order\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17381,
+      "offset": 20519,
       "length": 10,
       "value": "\"password\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17516,
+      "offset": 20654,
       "length": 10,
       "value": "\"pay_bill\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17650,
+      "offset": 20788,
       "length": 9,
       "value": "\"payment\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17794,
+      "offset": 20932,
       "length": 15,
       "value": "\"payment_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17939,
+      "offset": 21077,
       "length": 12,
       "value": "\"percentage\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18067,
+      "offset": 21205,
       "length": 5,
       "value": "\"pin\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18190,
+      "offset": 21328,
       "length": 6,
       "value": "\"plus\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18330,
+      "offset": 21468,
       "length": 14,
       "value": "\"popupsuccess\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18466,
+      "offset": 21604,
       "length": 8,
       "value": "\"qrcode\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18611,
+      "offset": 21749,
       "length": 16,
       "value": "\"radiobox-blank\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18770,
+      "offset": 21908,
       "length": 19,
       "value": "\"radiobox-selected\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18943,
+      "offset": 22081,
       "length": 25,
       "value": "\"radiobox-selected-green\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19105,
+      "offset": 22243,
       "length": 16,
       "value": "\"received_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19241,
+      "offset": 22379,
       "length": 7,
       "value": "\"refer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19372,
+      "offset": 22510,
       "length": 9,
       "value": "\"request\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19516,
+      "offset": 22654,
       "length": 15,
       "value": "\"request_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19668,
+      "offset": 22806,
       "length": 16,
       "value": "\"saved_accounts\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19815,
+      "offset": 22953,
       "length": 13,
       "value": "\"search-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19961,
+      "offset": 23099,
       "length": 14,
       "value": "\"search_round\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20106,
+      "offset": 23244,
       "length": 13,
       "value": "\"selfie-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20237,
+      "offset": 23375,
       "length": 6,
       "value": "\"send\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20370,
+      "offset": 23508,
       "length": 11,
       "value": "\"send-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20510,
+      "offset": 23648,
       "length": 12,
       "value": "\"send_money\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20663,
+      "offset": 23801,
       "length": 18,
       "value": "\"sharetrip_texure\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20807,
+      "offset": 23945,
       "length": 10,
       "value": "\"shopIcon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20955,
+      "offset": 24093,
       "length": 17,
       "value": "\"shop_icon_dummy\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21100,
+      "offset": 24238,
       "length": 11,
       "value": "\"shopdummy\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21229,
+      "offset": 24367,
       "length": 6,
       "value": "\"show\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21365,
+      "offset": 24503,
       "length": 15,
       "value": "\"sliding_image\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21524,
+      "offset": 24662,
       "length": 20,
       "value": "\"st_biometric_popup\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21671,
+      "offset": 24809,
       "length": 11,
       "value": "\"st_camera\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21809,
+      "offset": 24947,
       "length": 11,
       "value": "\"st_cancel\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21954,
+      "offset": 25092,
       "length": 15,
       "value": "\"st_email_icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22094,
+      "offset": 25232,
       "length": 10,
       "value": "\"st_error\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22231,
+      "offset": 25369,
       "length": 11,
       "value": "\"st_faceId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22372,
+      "offset": 25510,
       "length": 13,
       "value": "\"st_pin_info\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22514,
+      "offset": 25652,
       "length": 12,
       "value": "\"st_touchId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22653,
+      "offset": 25791,
       "length": 11,
       "value": "\"st_wallet\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22797,
+      "offset": 25935,
       "length": 14,
       "value": "\"start-search\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22959,
+      "offset": 26097,
       "length": 22,
       "value": "\"start-search-product\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23114,
+      "offset": 26252,
       "length": 14,
       "value": "\"success-icon\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23270,
+      "offset": 26408,
       "length": 19,
       "value": "\"success-icon-prev\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23409,
+      "offset": 26547,
       "length": 7,
       "value": "\"topup\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23540,
+      "offset": 26678,
       "length": 9,
       "value": "\"touchId\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23681,
+      "offset": 26819,
       "length": 13,
       "value": "\"transaction\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23820,
+      "offset": 26958,
       "length": 10,
       "value": "\"transfer\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23961,
+      "offset": 27099,
       "length": 13,
       "value": "\"user-avater\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24105,
+      "offset": 27243,
       "length": 13,
       "value": "\"user-moneys\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24251,
+      "offset": 27389,
       "length": 14,
       "value": "\"user-profile\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24396,
+      "offset": 27534,
       "length": 13,
       "value": "\"user-square\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24542,
+      "offset": 27680,
       "length": 14,
       "value": "\"view_invoice\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24682,
+      "offset": 27820,
       "length": 10,
       "value": "\"visacard\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24816,
+      "offset": 27954,
       "length": 9,
       "value": "\"voucher\""
     },
     {
       "filePath": "\/Users\/nafis0001\/Library\/Developer\/Xcode\/DerivedData\/STPay-gaswizlauhkxavhhpgobfyfqzjek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/STPaySDK.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24956,
+      "offset": 28094,
       "length": 13,
       "value": "\"wallet-icon\""
     }

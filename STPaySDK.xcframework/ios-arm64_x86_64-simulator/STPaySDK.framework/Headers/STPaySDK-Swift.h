@@ -336,6 +336,7 @@ SWIFT_CLASS("_TtC8STPaySDK14AppleToastView")
 
 
 
+
 @class NSString;
 
 /// A TextFieldEffects object is a control that displays editable text and contains the boilerplates to setup unique animations for text entry and display. You typically use this class the same way you use UITextField.
@@ -535,6 +536,9 @@ SWIFT_CLASS("_TtC8STPaySDK13TextToastView")
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
+
+
+
 
 
 
@@ -949,6 +953,7 @@ SWIFT_CLASS("_TtC8STPaySDK14AppleToastView")
 
 
 
+
 @class NSString;
 
 /// A TextFieldEffects object is a control that displays editable text and contains the boilerplates to setup unique animations for text entry and display. You typically use this class the same way you use UITextField.
@@ -1148,6 +1153,9 @@ SWIFT_CLASS("_TtC8STPaySDK13TextToastView")
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
+
+
+
 
 
 

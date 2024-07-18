@@ -18,6 +18,7 @@ import LocalAuthentication
 import MBProgressHUD
 import PanModal
 import PhotosUI
+import QuartzCore
 @_exported import STPaySDK
 import SVPinView
 import Swift
@@ -200,6 +201,31 @@ public enum VerticalAlignment {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func layoutAttributesForElements(in rect: CoreFoundation.CGRect) -> [UIKit.UICollectionViewLayoutAttributes]?
   @objc deinit
 }
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public func addBottomShadow(color: UIKit.UIColor = UIColor(red: 0.103, green: 0.167, blue: 0.24, alpha: 0.08))
+  @_Concurrency.MainActor(unsafe) public func roundRightCorners(radius: CoreFoundation.CGFloat, frame: CoreFoundation.CGRect? = nil)
+  @_Concurrency.MainActor(unsafe) public func roundTopLeftAndBottomRightCorners(radius: CoreFoundation.CGFloat, frame: CoreFoundation.CGRect? = nil)
+  @_Concurrency.MainActor(unsafe) public func roundLefttCorners(radius: CoreFoundation.CGFloat, frame: CoreFoundation.CGRect? = nil)
+  @_Concurrency.MainActor(unsafe) public func rotate(_ toValue: CoreFoundation.CGFloat, duration: CoreFoundation.CFTimeInterval = 0.2)
+  @_Concurrency.MainActor(unsafe) public func setShadowWithColor(color: UIKit.UIColor?, opacity: Swift.Float?, offset: CoreFoundation.CGSize?, radius: CoreFoundation.CGFloat, viewCornerRadius: CoreFoundation.CGFloat?)
+  @_Concurrency.MainActor(unsafe) public func setDropShadow(shadowOpacity: Swift.Float, shadowRadius: CoreFoundation.CGFloat, shadowOffset: CoreFoundation.CGSize, shadowColor: CoreGraphics.CGColor)
+  @_Concurrency.MainActor(unsafe) public func subviewsRecursive() -> [UIKit.UIView]
+  @_Concurrency.MainActor(unsafe) public func addDashedBorder(with color: UIKit.UIColor, width: CoreFoundation.CGFloat, radius: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor(unsafe) public func addZeplinShadow(color: UIKit.UIColor = .black, alpha: Swift.Float = 0.5, x: CoreFoundation.CGFloat = 0, y: CoreFoundation.CGFloat = 3, blur: CoreFoundation.CGFloat = 6, spread: CoreFoundation.CGFloat = 0)
+  @_Concurrency.MainActor(unsafe) public var parentViewController: UIKit.UIViewController? {
+    get
+  }
+  @discardableResult
+  @_Concurrency.MainActor(unsafe) public func applyGradient(colours: [UIKit.UIColor]) -> QuartzCore.CAGradientLayer
+  @discardableResult
+  @_Concurrency.MainActor(unsafe) public func applyGradient(colours: [UIKit.UIColor], locations: [Foundation.NSNumber]?) -> QuartzCore.CAGradientLayer
+}
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public func loadNib(name: Swift.String) -> UIKit.UIView?
+  @_Concurrency.MainActor(unsafe) public class func initFromNib<T>() -> T where T : UIKit.UIView
+  @_Concurrency.MainActor(unsafe) public func pathCurvedForView(curvedPercent: CoreFoundation.CGFloat) -> UIKit.UIBezierPath
+  @_Concurrency.MainActor(unsafe) public func applyCurvedPath(curvedPercent: CoreFoundation.CGFloat)
+}
 extension UIKit.UIImage {
   public func rounded(radius: CoreFoundation.CGFloat) -> UIKit.UIImage
 }
@@ -207,6 +233,9 @@ extension Foundation.URL {
   public var queryParameters: [Swift.String : Swift.String]? {
     get
   }
+}
+extension QuartzCore.CALayer {
+  public func addZeplinShadow(color: UIKit.UIColor = .black, alpha: Swift.Float = 0.5, x: CoreFoundation.CGFloat = 0, y: CoreFoundation.CGFloat = 3, blur: CoreFoundation.CGFloat = 6, spread: CoreFoundation.CGFloat = 0)
 }
 public struct ToastConfiguration {
   public let direction: STPaySDK.Toast.Direction
