@@ -337,6 +337,26 @@ SWIFT_CLASS("_TtC8STPaySDK14AppleToastView")
 
 
 
+
+SWIFT_CLASS("_TtC8STPaySDK20CustomInputTextField")
+@interface CustomInputTextField : UITextField
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (CGRect)textRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)editingRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)placeholderRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)clearButtonRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+@end
+
+
+@interface CustomInputTextField (SWIFT_EXTENSION(STPaySDK)) <UITextFieldDelegate>
+- (void)textFieldDidBeginEditing:(UITextField * _Nonnull)textField;
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
+@end
+
+
 @class NSString;
 
 /// A TextFieldEffects object is a control that displays editable text and contains the boilerplates to setup unique animations for text entry and display. You typically use this class the same way you use UITextField.
@@ -509,6 +529,26 @@ SWIFT_CLASS("_TtC8STPaySDK16QRScannerOverlay")
 @end
 
 
+SWIFT_CLASS("_TtC8STPaySDK14RoundTextField")
+@interface RoundTextField : UITextField
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (CGRect)textRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)editingRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)placeholderRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)clearButtonRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+@end
+
+
+
+@interface RoundTextField (SWIFT_EXTENSION(STPaySDK)) <UITextFieldDelegate>
+- (void)textFieldDidBeginEditing:(UITextField * _Nonnull)textField;
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
+@end
+
+
 IB_DESIGNABLE
 SWIFT_CLASS("_TtC8STPaySDK9STPayView")
 @interface STPayView : UIView
@@ -536,6 +576,9 @@ SWIFT_CLASS("_TtC8STPaySDK13TextToastView")
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
+
+
+
 
 
 
@@ -954,6 +997,26 @@ SWIFT_CLASS("_TtC8STPaySDK14AppleToastView")
 
 
 
+
+SWIFT_CLASS("_TtC8STPaySDK20CustomInputTextField")
+@interface CustomInputTextField : UITextField
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (CGRect)textRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)editingRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)placeholderRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)clearButtonRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+@end
+
+
+@interface CustomInputTextField (SWIFT_EXTENSION(STPaySDK)) <UITextFieldDelegate>
+- (void)textFieldDidBeginEditing:(UITextField * _Nonnull)textField;
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
+@end
+
+
 @class NSString;
 
 /// A TextFieldEffects object is a control that displays editable text and contains the boilerplates to setup unique animations for text entry and display. You typically use this class the same way you use UITextField.
@@ -1126,6 +1189,26 @@ SWIFT_CLASS("_TtC8STPaySDK16QRScannerOverlay")
 @end
 
 
+SWIFT_CLASS("_TtC8STPaySDK14RoundTextField")
+@interface RoundTextField : UITextField
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (CGRect)textRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)editingRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)placeholderRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+- (CGRect)clearButtonRectForBounds:(CGRect)bounds SWIFT_WARN_UNUSED_RESULT;
+@end
+
+
+
+@interface RoundTextField (SWIFT_EXTENSION(STPaySDK)) <UITextFieldDelegate>
+- (void)textFieldDidBeginEditing:(UITextField * _Nonnull)textField;
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
+@end
+
+
 IB_DESIGNABLE
 SWIFT_CLASS("_TtC8STPaySDK9STPayView")
 @interface STPayView : UIView
@@ -1153,6 +1236,9 @@ SWIFT_CLASS("_TtC8STPaySDK13TextToastView")
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
+
+
+
 
 
 

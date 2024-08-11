@@ -15,13 +15,16 @@ import Foundation
 import IQKeyboardManagerSwift
 import Kingfisher
 import LocalAuthentication
+import Lottie
 import MBProgressHUD
 import PanModal
 import PhotosUI
 import QuartzCore
 @_exported import STPaySDK
 import SVPinView
+import SkeletonView
 import Swift
+import SwiftEntryKit
 import SwiftKeychainWrapper
 import SwiftUI
 import SwiftyUserDefaults
@@ -109,6 +112,23 @@ public enum PinRequiredRule : Swift.CaseIterable {
   public var hashValue: Swift.Int {
     get
   }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class CustomInputTextField : UIKit.UITextField {
+  @_Concurrency.MainActor(unsafe) public var textInsets: UIKit.UIEdgeInsets {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func textRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func editingRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func placeholderRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func clearButtonRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @objc deinit
+}
+extension STPaySDK.CustomInputTextField : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
 }
 public protocol PinCodeTextFieldDelegate : AnyObject {
   func textFieldShouldBeginEditing(_ textField: STPaySDK.PinCodeTextField) -> Swift.Bool
@@ -435,6 +455,23 @@ extension STPaySDK.PinCodeTextField : UIKit.UIKeyInput {
   }
   @_Concurrency.MainActor(unsafe) @objc dynamic public func insertText(_ charToInsert: Swift.String)
   @_Concurrency.MainActor(unsafe) @objc dynamic public func deleteBackward()
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class RoundTextField : UIKit.UITextField {
+  @_Concurrency.MainActor(unsafe) public var textInsets: UIKit.UIEdgeInsets {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func textRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func editingRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func placeholderRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func clearButtonRect(forBounds bounds: CoreFoundation.CGRect) -> CoreFoundation.CGRect
+  @objc deinit
+}
+extension STPaySDK.RoundTextField : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
 }
 @_hasMissingDesignatedInitializers public class TimeManager {
   public static let shared: STPaySDK.TimeManager
