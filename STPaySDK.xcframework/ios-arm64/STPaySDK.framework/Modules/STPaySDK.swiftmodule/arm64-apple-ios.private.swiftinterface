@@ -21,7 +21,6 @@ import MBProgressHUD
 import MapKit
 import MessageUI
 import PanModal
-import PaymentSDK
 import PhotosUI
 import QuartzCore
 @_exported import STPaySDK
