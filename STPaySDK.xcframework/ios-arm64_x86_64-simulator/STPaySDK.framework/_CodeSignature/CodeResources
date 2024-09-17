@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		bZkZylwANz4xwjIrf1Qv5I1tX1w=
+		hWmlYgvGL1FHHvUEx2rkIPRzUx8=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -466,7 +466,7 @@
 		</data>
 		<key>Headers/STPaySDK-Swift.h</key>
 		<data>
-		uXenBJFEGoIYYuen7ounuYg4eWo=
+		ftK5umf2on3V5xN6OxRwrsrAH8U=
 		</data>
 		<key>Headers/STPaySDK.h</key>
 		<data>
@@ -474,15 +474,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pJNbiNPi8Azna5LAGgNTNHe/o+U=
+		S7HuMjpahXuWMl9K52GhrJxSUNs=
 		</data>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib/objects-14.0+.nib</key>
 		<data>
-		2dFRK01LLRM13clNTsbv/EYjTwI=
+		GWlYCByzrYD3MF0E857w/SyMMgk=
 		</data>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib/runtime.nib</key>
 		<data>
-		DUDqL4QL6e6nDWUP7JWL3qjuAfM=
+		jCAHd158t+yNMbMO0NcMubFbL4k=
 		</data>
 		<key>InstantTransfer.storyboardc/AddNPSBBankAccountVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -518,11 +518,11 @@
 		</data>
 		<key>InstantTransfer.storyboardc/GPU-XZ-lfM-view-3cy-se-RuK.nib/objects-14.0+.nib</key>
 		<data>
-		UQiiAS2/QsR99sPQ5jkYQF932Ws=
+		JFu/PtEYBESDjf33HICD0Vbhl48=
 		</data>
 		<key>InstantTransfer.storyboardc/GPU-XZ-lfM-view-3cy-se-RuK.nib/runtime.nib</key>
 		<data>
-		UQiiAS2/QsR99sPQ5jkYQF932Ws=
+		JFu/PtEYBESDjf33HICD0Vbhl48=
 		</data>
 		<key>InstantTransfer.storyboardc/Info.plist</key>
 		<data>
@@ -538,19 +538,19 @@
 		</data>
 		<key>InstantTransfer.storyboardc/J0h-SB-UKx-view-LCL-Ol-wi9.nib/objects-14.0+.nib</key>
 		<data>
-		C8S3ZIFnJPjqFthMvgh9QvHGH84=
+		h6FO0uS8R41z7fra3CcBXRVWTDg=
 		</data>
 		<key>InstantTransfer.storyboardc/J0h-SB-UKx-view-LCL-Ol-wi9.nib/runtime.nib</key>
 		<data>
-		C8S3ZIFnJPjqFthMvgh9QvHGH84=
+		h6FO0uS8R41z7fra3CcBXRVWTDg=
 		</data>
 		<key>InstantTransfer.storyboardc/LDv-so-84Z-view-XYh-uD-2He.nib/objects-14.0+.nib</key>
 		<data>
-		Cgg/LTaqEmxLibru8zO/RTIiijs=
+		t5l7HseUkyNeIg+5/XmuEBoA+3w=
 		</data>
 		<key>InstantTransfer.storyboardc/LDv-so-84Z-view-XYh-uD-2He.nib/runtime.nib</key>
 		<data>
-		Cgg/LTaqEmxLibru8zO/RTIiijs=
+		t5l7HseUkyNeIg+5/XmuEBoA+3w=
 		</data>
 		<key>InstantTransfer.storyboardc/NPSBBankTranferredPinVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -586,11 +586,11 @@
 		</data>
 		<key>InstantTransfer.storyboardc/NRM-di-4Ec-view-LSU-kl-n0K.nib/objects-14.0+.nib</key>
 		<data>
-		tcf4NYBlICSsM6Urr63MAwm/5+s=
+		gZInGdKoLaJ/pYyBMnGIQ729COo=
 		</data>
 		<key>InstantTransfer.storyboardc/NRM-di-4Ec-view-LSU-kl-n0K.nib/runtime.nib</key>
 		<data>
-		26vgl2WPXJlkUwQAiN8cNIRwlrg=
+		BF3Pl5WdCvk2v7fMM5mI5PafEoc=
 		</data>
 		<key>InstantTransfer.storyboardc/SelectNPSBBankVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -610,11 +610,11 @@
 		</data>
 		<key>InstantTransfer.storyboardc/TPd-WY-E7e-view-3Lv-sf-Qho.nib/objects-14.0+.nib</key>
 		<data>
-		xiUG3+hJnT/Y3HlVxpSa9thdLOQ=
+		ac+8knQl8mJ5fZbfarQ/DgAqtk4=
 		</data>
 		<key>InstantTransfer.storyboardc/TPd-WY-E7e-view-3Lv-sf-Qho.nib/runtime.nib</key>
 		<data>
-		xiUG3+hJnT/Y3HlVxpSa9thdLOQ=
+		ac+8knQl8mJ5fZbfarQ/DgAqtk4=
 		</data>
 		<key>InstantTransfer.storyboardc/TermsConditionsViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -634,67 +634,67 @@
 		</data>
 		<key>InstantTransfer.storyboardc/aFw-Ah-XOv-view-MON-pl-fRW.nib/objects-14.0+.nib</key>
 		<data>
-		IS2aOAwDIq2+cMvn2yxfWmPp8c8=
+		5cc/gRZxPi90+0oSi5SMpaFsXxU=
 		</data>
 		<key>InstantTransfer.storyboardc/aFw-Ah-XOv-view-MON-pl-fRW.nib/runtime.nib</key>
 		<data>
-		IS2aOAwDIq2+cMvn2yxfWmPp8c8=
+		5cc/gRZxPi90+0oSi5SMpaFsXxU=
 		</data>
 		<key>InstantTransfer.storyboardc/jXw-k5-EeJ-view-Jhf-Mx-xFq.nib/objects-14.0+.nib</key>
 		<data>
-		KTECN+LTw59ddzC2WzPgW+3yBas=
+		1Ukb8eCuvg6sPbq+X9hvSDiyefc=
 		</data>
 		<key>InstantTransfer.storyboardc/jXw-k5-EeJ-view-Jhf-Mx-xFq.nib/runtime.nib</key>
 		<data>
-		KTECN+LTw59ddzC2WzPgW+3yBas=
+		1Ukb8eCuvg6sPbq+X9hvSDiyefc=
 		</data>
 		<key>InstantTransfer.storyboardc/pHO-iK-kyH-view-pcl-ra-FYa.nib/objects-14.0+.nib</key>
 		<data>
-		lHttB1bmn08BAeQkQA5gSZXbk90=
+		wKI6/q/Eu04i8at+dDeClBL/8fI=
 		</data>
 		<key>InstantTransfer.storyboardc/pHO-iK-kyH-view-pcl-ra-FYa.nib/runtime.nib</key>
 		<data>
-		lHttB1bmn08BAeQkQA5gSZXbk90=
+		wKI6/q/Eu04i8at+dDeClBL/8fI=
 		</data>
 		<key>InstantTransfer.storyboardc/rnl-K6-1er-view-ucz-Vz-FQf.nib/objects-14.0+.nib</key>
 		<data>
-		Fm+AFVInHbN1Jgfyy9Pcw8o3eKI=
+		SyImE8RikJzmnZrFxRGOty4Mo9I=
 		</data>
 		<key>InstantTransfer.storyboardc/rnl-K6-1er-view-ucz-Vz-FQf.nib/runtime.nib</key>
 		<data>
-		Fm+AFVInHbN1Jgfyy9Pcw8o3eKI=
+		SyImE8RikJzmnZrFxRGOty4Mo9I=
 		</data>
 		<key>InstantTransfer.storyboardc/t3i-U0-x04-view-ccY-XH-4IQ.nib/objects-14.0+.nib</key>
 		<data>
-		pH9OzjR2bgRP8HewEn56HI/T7vg=
+		bo53Pw5gREhd5quIKId0dBFT41c=
 		</data>
 		<key>InstantTransfer.storyboardc/t3i-U0-x04-view-ccY-XH-4IQ.nib/runtime.nib</key>
 		<data>
-		pH9OzjR2bgRP8HewEn56HI/T7vg=
+		bo53Pw5gREhd5quIKId0dBFT41c=
 		</data>
 		<key>InstantTransfer.storyboardc/uBq-M4-5gy-view-6ZQ-63-QgJ.nib/objects-14.0+.nib</key>
 		<data>
-		u5s5jE5TgXisMmFXvzfkMB64ipc=
+		HF5idiwnwUk55fHCNapUEdC52ms=
 		</data>
 		<key>InstantTransfer.storyboardc/uBq-M4-5gy-view-6ZQ-63-QgJ.nib/runtime.nib</key>
 		<data>
-		u5s5jE5TgXisMmFXvzfkMB64ipc=
+		HF5idiwnwUk55fHCNapUEdC52ms=
 		</data>
 		<key>InstantTransfer.storyboardc/yXY-md-xlT-view-OpB-yw-vRR.nib/objects-14.0+.nib</key>
 		<data>
-		hKWa/UtErYyPkostAcczwa1B9RU=
+		3TTlE7wMJhrFxbn29SzpxgYVAus=
 		</data>
 		<key>InstantTransfer.storyboardc/yXY-md-xlT-view-OpB-yw-vRR.nib/runtime.nib</key>
 		<data>
-		hKWa/UtErYyPkostAcczwa1B9RU=
+		3TTlE7wMJhrFxbn29SzpxgYVAus=
 		</data>
 		<key>InstantTransfer0.storyboardc/1XZ-4a-sYk-view-cjt-jx-Rhz.nib</key>
 		<data>
-		OmkjPFg6d0W83i67heSBC0OomdE=
+		wlsN0pZGmcr3ehzPy+d8bLCWvn4=
 		</data>
 		<key>InstantTransfer0.storyboardc/CAR-mn-JFe-view-ci2-kh-MXP.nib</key>
 		<data>
-		0TjEA81bJKwhtLVgTVRVxJbKgVs=
+		IZuOF8Llsogw8XhiPtSZK0teoKA=
 		</data>
 		<key>InstantTransfer0.storyboardc/Info.plist</key>
 		<data>
@@ -854,43 +854,43 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		mzXZps7a6lUxDKLW5WreWqgHf0g=
+		j/VeD3VEu4MvAxhuYqNhGi2PpGs=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		C21EC1Z+VMJEQP9HRrKhFCgQ66I=
+		maCTYMGRGVzTvG/8nTOARC+CmZ4=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ipVg1gzq1d7Gx4PDrjert/042B8=
+		XZ9BjDL1969Y0I3L8g8djqPswiA=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		C21EC1Z+VMJEQP9HRrKhFCgQ66I=
+		maCTYMGRGVzTvG/8nTOARC+CmZ4=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Phf9VY+vhP1OAGvFIbOOqS6RCc8=
+		tztWzPOmaBIIOObFq3Pu7RGD9QY=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mzXZps7a6lUxDKLW5WreWqgHf0g=
+		j/VeD3VEu4MvAxhuYqNhGi2PpGs=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P3gTkvZJAN7N71XUbEWO3ARZsU4=
+		vNLuNTi7ALjyQ440B9ow31kvJGI=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RJxyDeYwiA7wWVRSqHO6aHvq0Vg=
+		f/CycElvr5RB6pfabX30AT03SoM=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P3gTkvZJAN7N71XUbEWO3ARZsU4=
+		vNLuNTi7ALjyQ440B9ow31kvJGI=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hfl1quxjHO07z+PQS8cg+YVb0u8=
+		JOpjil7tsJ26of2G+JoxQPAFYwc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1639,7 +1639,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rONCplcEg52yJwhXtPxUuDE75ZwvAHcwiR4gisl3NKU=
+			S8X4kKVk1CXYp50c/VXev9g4X0MA5E47FrfCs+PvHq0=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -2346,7 +2346,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O/1YbyZbMmdrxSVEywJMmkchzwNjTg7AGdOmGIuDgRw=
+			DOyKFYgGmP28cBePD23fQNcONGeEq2584tZEIb+gwEE=
 			</data>
 		</dict>
 		<key>Headers/STPaySDK.h</key>
@@ -2360,14 +2360,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d3Rg1TRrIYrlQ6SaZ2CgOUcOt+ddoT/3BVTuxxDiAbY=
+			a0waAUGc8a/Oy6aMSJEJqkDoMFsmPc5uHBPuubeRTBE=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d7Y3sHfg/tOCpjqMxS7WnvTEyEVpYKAhrFSAFKpWfUU=
+			L42STkT3VvEQFdAZoV3QzVT2cqz2K778pfxMKhe4SAg=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/AddNPSBBankAccountVC.nib/objects-14.0+.nib</key>
@@ -2430,14 +2430,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fPElWbv4OAmwoxm5j+stEvkuJhdwl6LLsktozSO55iE=
+			wArS2/NyqifjsLeMgwa3QbYtRjPY49y0YQ7By4T6do8=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/GPU-XZ-lfM-view-3cy-se-RuK.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fPElWbv4OAmwoxm5j+stEvkuJhdwl6LLsktozSO55iE=
+			wArS2/NyqifjsLeMgwa3QbYtRjPY49y0YQ7By4T6do8=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/Info.plist</key>
@@ -2465,28 +2465,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HHIz3Y2zhBl6hhsARE6UNV3PnbcXwMSSD/nzWwH0mBE=
+			ozCbzBafpLd9VGpNNz9W5NakisQoGIEcbsTjwNbyGFI=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/J0h-SB-UKx-view-LCL-Ol-wi9.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HHIz3Y2zhBl6hhsARE6UNV3PnbcXwMSSD/nzWwH0mBE=
+			ozCbzBafpLd9VGpNNz9W5NakisQoGIEcbsTjwNbyGFI=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/LDv-so-84Z-view-XYh-uD-2He.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+z6f2hvbkMt4g1ZStg50hTB0dgYlBbOnnMyxJf3mJto=
+			C1NkyOpDXFur+aYjTyHXkGRZOHPFHlNze1zj0/Zhn5k=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/LDv-so-84Z-view-XYh-uD-2He.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+z6f2hvbkMt4g1ZStg50hTB0dgYlBbOnnMyxJf3mJto=
+			C1NkyOpDXFur+aYjTyHXkGRZOHPFHlNze1zj0/Zhn5k=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/NPSBBankTranferredPinVC.nib/objects-14.0+.nib</key>
@@ -2549,14 +2549,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ws9XcXWonYebCunXZyBiYEPzYmuti5xEE5/m5LSwtBE=
+			sZmmcZHYaRj6P2/rPKLq6RCfJuIOGDNGcomU0luxOz4=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/NRM-di-4Ec-view-LSU-kl-n0K.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HKaODaAtDUskDZOEUSdQ2Jlr0WovLMfkr8XYGngI1z0=
+			MTtDc6qCJOKVK6G13N/CPxZbk3aCTPIkNxYTafLMwf0=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/SelectNPSBBankVC.nib/objects-14.0+.nib</key>
@@ -2591,14 +2591,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+fs/1kEiLy8Zfl1SPYJ5EOlsA6kEq//3DMXSFwxIQ4=
+			IL6zzIB+FMyfLU+hUH3balu8RRxhm2RxfSd/b5ESwGw=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/TPd-WY-E7e-view-3Lv-sf-Qho.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+fs/1kEiLy8Zfl1SPYJ5EOlsA6kEq//3DMXSFwxIQ4=
+			IL6zzIB+FMyfLU+hUH3balu8RRxhm2RxfSd/b5ESwGw=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/TermsConditionsViewController.nib/objects-14.0+.nib</key>
@@ -2633,112 +2633,112 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CEDRsx2+2c+MPb+XKi4XRehcB+RoXflRh4zDAPaMX/4=
+			4PiIFAvRcWGH5tKYN0MOtqe4tAowXKtBVHZ5b7gs/CQ=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/aFw-Ah-XOv-view-MON-pl-fRW.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CEDRsx2+2c+MPb+XKi4XRehcB+RoXflRh4zDAPaMX/4=
+			4PiIFAvRcWGH5tKYN0MOtqe4tAowXKtBVHZ5b7gs/CQ=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/jXw-k5-EeJ-view-Jhf-Mx-xFq.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i7/wfAKAvitBmD6/9EUrXjkJdmAq8/UMCjB87ER+m/c=
+			AJZFVhG/nLrH4hR6nR5RBNTmvGtUB8MNQZGVzTl2d8o=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/jXw-k5-EeJ-view-Jhf-Mx-xFq.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i7/wfAKAvitBmD6/9EUrXjkJdmAq8/UMCjB87ER+m/c=
+			AJZFVhG/nLrH4hR6nR5RBNTmvGtUB8MNQZGVzTl2d8o=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/pHO-iK-kyH-view-pcl-ra-FYa.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cUph0UGQ9LBAXjJdbUQB6BkHAJeOVsmr6PVKLuboU0Q=
+			ojYcMVkqTKOCn7c2Uc9fub1zUoGSOjZgXf5+89XXFG0=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/pHO-iK-kyH-view-pcl-ra-FYa.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cUph0UGQ9LBAXjJdbUQB6BkHAJeOVsmr6PVKLuboU0Q=
+			ojYcMVkqTKOCn7c2Uc9fub1zUoGSOjZgXf5+89XXFG0=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/rnl-K6-1er-view-ucz-Vz-FQf.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cr2ab3dlTS1bS5I2+G+TS0lbjkTSQ03sFvJ6j69B2WQ=
+			poKM67qoa4OwhalXMc67gSS9TkYBWMnt35KmtQe8JXQ=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/rnl-K6-1er-view-ucz-Vz-FQf.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cr2ab3dlTS1bS5I2+G+TS0lbjkTSQ03sFvJ6j69B2WQ=
+			poKM67qoa4OwhalXMc67gSS9TkYBWMnt35KmtQe8JXQ=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/t3i-U0-x04-view-ccY-XH-4IQ.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MCtti9PLTsXqcf2q3vGci8fiwo56cmud6M5QnY1DwSU=
+			CjMUUrT+TBjHdsMBUbD16SbhfWnagntwtzLlZdKMBiE=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/t3i-U0-x04-view-ccY-XH-4IQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MCtti9PLTsXqcf2q3vGci8fiwo56cmud6M5QnY1DwSU=
+			CjMUUrT+TBjHdsMBUbD16SbhfWnagntwtzLlZdKMBiE=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/uBq-M4-5gy-view-6ZQ-63-QgJ.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMwyLiqIz3qbdGIhfoHQR3PhohUhqLOSsjdOmKuQ2gk=
+			6LAvVO+QsMkDyM2hymgA27mH0a0WPiZOro4+PN/LN+4=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/uBq-M4-5gy-view-6ZQ-63-QgJ.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMwyLiqIz3qbdGIhfoHQR3PhohUhqLOSsjdOmKuQ2gk=
+			6LAvVO+QsMkDyM2hymgA27mH0a0WPiZOro4+PN/LN+4=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/yXY-md-xlT-view-OpB-yw-vRR.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BDaFuwJP2AkwKGYlbEPSdcz34v9yskbN+A/GuaObW8U=
+			wHG6vkGbqtiHmNPlBmws6h+tUsobQuHu3e0mwfGIDBo=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/yXY-md-xlT-view-OpB-yw-vRR.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BDaFuwJP2AkwKGYlbEPSdcz34v9yskbN+A/GuaObW8U=
+			wHG6vkGbqtiHmNPlBmws6h+tUsobQuHu3e0mwfGIDBo=
 			</data>
 		</dict>
 		<key>InstantTransfer0.storyboardc/1XZ-4a-sYk-view-cjt-jx-Rhz.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OuU2ZY7WlzgEXbk7Iizzwf2U7+GgiUh8ikIVGaQgFq4=
+			vuMmMTWLzOEgA6mF6qF5RKHAciUgPwo6bhveTOZeHb0=
 			</data>
 		</dict>
 		<key>InstantTransfer0.storyboardc/CAR-mn-JFe-view-ci2-kh-MXP.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0heRNkMOSNSghCOuW8xR4bBmF6qd7Rx5m0E6+QazMh0=
+			H8RpuhQ/LLrkLC9KDkRA96uZwSZgivrKDhil827c8sY=
 			</data>
 		</dict>
 		<key>InstantTransfer0.storyboardc/Info.plist</key>
@@ -3018,70 +3018,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			13mh8DuAw0a6JR6V7aU6IrDFj2Mw7gXaA9GonVK8hHc=
+			1ioYoqUQZoOL9OBAkpX9Navb8pphAz+WbeNCLHDfHkM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L+O6TUrHV563O5ExXeUXiwEoVVNzV8RGFy6mFIuUgzY=
+			nZpYNWvRqDk+KiHAwybGhrxp2M84ODYwQ1/sh7pDrrg=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZTJEEdsyCF4bYVNGq+uLLnbXcaaPqylGV9hh9/7TW88=
+			80ExbrV7jKASzoOkviMrY0eYvOGL3hFZQiQAtEunrxA=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L+O6TUrHV563O5ExXeUXiwEoVVNzV8RGFy6mFIuUgzY=
+			nZpYNWvRqDk+KiHAwybGhrxp2M84ODYwQ1/sh7pDrrg=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xUYYVO3BPS7jz15BpbhnR3S4ZMRGb+rBOE6v5h/zpJ0=
+			8rpmc/Prh39exfj3FqnlKwF9VQK84ZLVnw4537WdCZY=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			13mh8DuAw0a6JR6V7aU6IrDFj2Mw7gXaA9GonVK8hHc=
+			1ioYoqUQZoOL9OBAkpX9Navb8pphAz+WbeNCLHDfHkM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lg9/n5+n1ZjRtBXj+aZ5+VHFRwJe6JE5TlS3Oy3ZHmQ=
+			lJN64i+KoLA29T8IpTGZJXrxN/38seXdbuZS+iS9PdE=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ce1o298fPmwuuQqysl4FOvmksQKpZ2I4kC0HxWYcB9Y=
+			eM6GFFn1YsG6lNscFsHgSndGpda+MRX3heCS3UVMyEw=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lg9/n5+n1ZjRtBXj+aZ5+VHFRwJe6JE5TlS3Oy3ZHmQ=
+			lJN64i+KoLA29T8IpTGZJXrxN/38seXdbuZS+iS9PdE=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ej2Cjj9P6pHlvjcATXy7r+cKPTxTE7C2/rYE8zElse4=
+			9AxagBW464vrju2/0RUFbnvepPK2V0zDFDVSbxJLDgI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
