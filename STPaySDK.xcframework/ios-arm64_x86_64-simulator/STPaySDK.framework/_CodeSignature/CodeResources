@@ -60,9 +60,13 @@
 		<data>
 		rEMsdg/zAlZcVT3Xr8eHNCpbELQ=
 		</data>
+		<key>AppliedFiltersCVCell.nib</key>
+		<data>
+		h97WXfkDf97a7gSGjnwRghhy/xo=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		hWmlYgvGL1FHHvUEx2rkIPRzUx8=
+		Dju11nqs3FYX0AgNa+iaab42D9I=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -406,11 +410,15 @@
 		</data>
 		<key>CardCollectionViewCell.nib</key>
 		<data>
-		5uS95dk3K63HDu2IVW8DjBKWtlM=
+		jY8Gqq9tad6LSKMIELXPzVg4bi4=
 		</data>
 		<key>CardNameTableViewCell.nib</key>
 		<data>
 		DLPOy7Iz39ZhaMCzQAjrdeyFku4=
+		</data>
+		<key>CellView.nib</key>
+		<data>
+		F6YMtWyWqMNzhXvRyP5lSMSVop8=
 		</data>
 		<key>Contact.json</key>
 		<data>
@@ -448,17 +456,41 @@
 		<data>
 		ZMnLTrl8pxLgxwxsLGzVzx7kH9I=
 		</data>
+		<key>FilterActionView.nib</key>
+		<data>
+		RnCf1nBz9PxSu8PiYUFFQZ/cDEI=
+		</data>
+		<key>Frameworks/PaymentSDK.framework/Assets.car</key>
+		<data>
+		IXgVIlGugBM32juClubaBXxcK0w=
+		</data>
+		<key>Frameworks/PaymentSDK.framework/Info.plist</key>
+		<data>
+		Hlb+tE3eCcb2mZtCDY/7dhuso0E=
+		</data>
+		<key>Frameworks/PaymentSDK.framework/PaymentSDK</key>
+		<data>
+		UQnLtzg3oAZPIoDl/y7lTr6Z8eA=
+		</data>
+		<key>Frameworks/PaymentSDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		TtFEX49qAO4I9G4Hgv4ShYgG74M=
+		</data>
 		<key>Headers/STPaySDK-Swift.h</key>
 		<data>
-		ftK5umf2on3V5xN6OxRwrsrAH8U=
+		rprxUlyNPDad0+sqUSxBLiYhj3w=
 		</data>
 		<key>Headers/STPaySDK.h</key>
 		<data>
 		ZqxRXtaeWKTJmdLEIKxhb55RBlU=
 		</data>
+		<key>ImageSourceView.nib</key>
+		<data>
+		AtVUPLRNHY2gFCnMhdYdrnGCGYk=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		S7HuMjpahXuWMl9K52GhrJxSUNs=
+		mtdQzVejpKZwggXDEHNfwj28AsI=
 		</data>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib/objects-14.0+.nib</key>
 		<data>
@@ -704,6 +736,18 @@
 		<data>
 		+ZdlNCK6HC0WVKQMo4Aa/HXGHIg=
 		</data>
+		<key>JTCalendarHeader.nib</key>
+		<data>
+		4wM33R2AodgUpIdFm7byOA8i7JU=
+		</data>
+		<key>JTCalendarView.nib</key>
+		<data>
+		MtlTbl0I3J3HkUTo22Qw/OWeMb4=
+		</data>
+		<key>JTDateCell.nib</key>
+		<data>
+		7r8F1rkzYMbaymupAc8+AFcg74o=
+		</data>
 		<key>KYC.storyboardc/3Je-Wk-FZQ-view-77s-8F-wVw.nib</key>
 		<data>
 		vb+Tt9VmEpgR8RxOhEqMEOP14DA=
@@ -766,7 +810,7 @@
 		</data>
 		<key>LimitNameCell.nib</key>
 		<data>
-		Nbo1qgwhkZGumcqmwX4zwpP6WpY=
+		YBWK6i3gt/liroAK4pMhx6rCdlA=
 		</data>
 		<key>LimitValueCell.nib</key>
 		<data>
@@ -838,43 +882,43 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		j/VeD3VEu4MvAxhuYqNhGi2PpGs=
+		P9lSZ6fKqsOBT/09WGZAaR61jVE=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		maCTYMGRGVzTvG/8nTOARC+CmZ4=
+		i45SM47T3voVP0Ng6vM7vMbbe4c=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		XZ9BjDL1969Y0I3L8g8djqPswiA=
+		ytB0mnNilVlfEXWTN/v09P1ZTws=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		maCTYMGRGVzTvG/8nTOARC+CmZ4=
+		i45SM47T3voVP0Ng6vM7vMbbe4c=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tztWzPOmaBIIOObFq3Pu7RGD9QY=
+		71xj3sPMM64OIHiEKQ2Vo0oRelo=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		j/VeD3VEu4MvAxhuYqNhGi2PpGs=
+		P9lSZ6fKqsOBT/09WGZAaR61jVE=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vNLuNTi7ALjyQ440B9ow31kvJGI=
+		nK+taiM2TTfcyoaRoQynuQ2RH3U=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		f/CycElvr5RB6pfabX30AT03SoM=
+		4MXTjfktrzUxv/OPqEQ0NE0Fwfk=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vNLuNTi7ALjyQ440B9ow31kvJGI=
+		nK+taiM2TTfcyoaRoQynuQ2RH3U=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JOpjil7tsJ26of2G+JoxQPAFYwc=
+		XdnEq/M8rth3TlTa0O6TNuAKk2Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -886,7 +930,7 @@
 		</data>
 		<key>MoreCollectionCell.nib</key>
 		<data>
-		ZXgHs+8sDHTcSQciw64vRqCUQFQ=
+		EOHhTKTF6skKH5ryrqCszyfwGNI=
 		</data>
 		<key>MoreFooterView.nib</key>
 		<data>
@@ -894,7 +938,7 @@
 		</data>
 		<key>MoreHeaderView.nib</key>
 		<data>
-		nXDkMLVV4UGZeoZE8OvhB8p+VQU=
+		u2OHtoePJu/azgl+vBlmTzh1PCk=
 		</data>
 		<key>NPSBBankInfoCell.nib</key>
 		<data>
@@ -1156,6 +1200,10 @@
 		<data>
 		gT3zKadSb3YK3m8WoPVh8pOIZlI=
 		</data>
+		<key>STBottomActionView.nib</key>
+		<data>
+		jm+ttiPua/S5yvxl18Xa7yXLL+w=
+		</data>
 		<key>STLoaderPopupView.nib</key>
 		<data>
 		aaJEzyTyRoCFLnBCY60JiK5UWqM=
@@ -1388,6 +1436,10 @@
 		<data>
 		HasKM3c4g/gYNXFjFFZ+g30GjNA=
 		</data>
+		<key>TitleTopView.nib</key>
+		<data>
+		r7X/h4n5Cae6bYs5tHdwO06nAP0=
+		</data>
 		<key>Transaction.storyboardc/Info.plist</key>
 		<data>
 		GAeiTMjhbnGiiGco15txwmEuwqg=
@@ -1444,6 +1496,18 @@
 		<data>
 		S0w/VyRAmmu/j1x6qsO0b/mRnEs=
 		</data>
+		<key>TransactionCollectionCell.nib</key>
+		<data>
+		9CK8haDoxWcHI7kXAauPUErZfZ4=
+		</data>
+		<key>TransactionDateContainerView.nib</key>
+		<data>
+		CZKj0QCh5V+ogmqmXIIHserdTKs=
+		</data>
+		<key>TransactionDateSelectionView.nib</key>
+		<data>
+		QY5UqhrgmenScMxwRsrI82gUQ3M=
+		</data>
 		<key>TransactionDetailsDescTableViewCell.nib</key>
 		<data>
 		RUYreq5jxzkgRkMqb1fPpOgqM+Q=
@@ -1456,17 +1520,41 @@
 		<data>
 		qFeYrS6wm7vfztj6jp5ep59uoMs=
 		</data>
+		<key>TransactionHistoryShimmerCell.nib</key>
+		<data>
+		V7iGhFupvsj6AA6ury+Z/QLxH/Y=
+		</data>
 		<key>TransactionHistoryView.nib</key>
 		<data>
 		UTsD4/yD1xFEzBajgDPPAqHzYaw=
+		</data>
+		<key>TransactionInfoView.nib</key>
+		<data>
+		tSm4XD4xkbRCXfOYjls92LbEIHY=
 		</data>
 		<key>TransactionListTableViewCell.nib</key>
 		<data>
 		Wt10cZSheODfL/0Wun3UPzhgkJM=
 		</data>
+		<key>TransactionRemarksView.nib</key>
+		<data>
+		1a+YJV6lgEG8bugXi/QZsIMLX/M=
+		</data>
 		<key>TransactionSuccessView.nib</key>
 		<data>
 		rFAU2Q4b/y79GJmA4KTP/dQZKCM=
+		</data>
+		<key>TransactionSummaryCollectionCell.nib</key>
+		<data>
+		VEvFmxqkr8e9ci0d16ED8cESUfc=
+		</data>
+		<key>TransactionSummaryHeaderCell.nib/objects-14.0+.nib</key>
+		<data>
+		BYETuatTqGSWYV/7JZjv7FinXPQ=
+		</data>
+		<key>TransactionSummaryHeaderCell.nib/runtime.nib</key>
+		<data>
+		krLbVIImLmBLhQoaCFHgJDWCNtA=
 		</data>
 		<key>VerifiedView.nib</key>
 		<data>
@@ -1619,11 +1707,18 @@
 			P2incYBWBvLkMeI8qHnmyS5Fx+3mX3+ikkfeR2x/h5o=
 			</data>
 		</dict>
+		<key>AppliedFiltersCVCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p4RgqgxtLI4ldJNnYhY2O/ArnSyR3fsKAL0AFxsa930=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S8X4kKVk1CXYp50c/VXev9g4X0MA5E47FrfCs+PvHq0=
+			eGHQ42H8JCg1UBJhh3mR1UMv5FSL7zYK8hAwk6H0Hm4=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -2225,7 +2320,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7kQUPki2RDp3pYCpSLiIKQuCkVl+NdK3x8CNwU1txK0=
+			OrSE3oLMZ+G15uRrvd+6YMr4OXe14Ksc0aml5/GXfOU=
 			</data>
 		</dict>
 		<key>CardNameTableViewCell.nib</key>
@@ -2233,6 +2328,13 @@
 			<key>hash2</key>
 			<data>
 			/hYtJU2/BVrAUgV3lyKPuUzvWckRGQcsUoD3Q7TdD6I=
+			</data>
+		</dict>
+		<key>CellView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dfTgoJhm0y4TRu64iFbKpN4uClE1l+6N9ZghcuhdAnI=
 			</data>
 		</dict>
 		<key>Contact.json</key>
@@ -2298,11 +2400,46 @@
 			1LRnb/5kcvw0jpYXYFMQr1n77i+9yC3iBUkeHDk2abQ=
 			</data>
 		</dict>
+		<key>FilterActionView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			66T81sda9gahYwwcnCuLraOgNky68zlU8YmLBSVByn8=
+			</data>
+		</dict>
+		<key>Frameworks/PaymentSDK.framework/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HeBIzIYXu6+Tj21vmxzv2E1k+mloj+/l4jInbV0snd8=
+			</data>
+		</dict>
+		<key>Frameworks/PaymentSDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SzMFyTNt/UnAO9V/y6UrsKkDu2EEykN18csQkO5FYOE=
+			</data>
+		</dict>
+		<key>Frameworks/PaymentSDK.framework/PaymentSDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mhl57ptd3tKepROBRyzvX7r+toiDe9gpYpYhR7F45uA=
+			</data>
+		</dict>
+		<key>Frameworks/PaymentSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4wRX48QOi4KJwK+4S7k1L1EwyUxhZCG15nhLD99NWQc=
+			</data>
+		</dict>
 		<key>Headers/STPaySDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DOyKFYgGmP28cBePD23fQNcONGeEq2584tZEIb+gwEE=
+			ahTOrKqxABCmLZSlIevmMvVYuFVEHyyaGc5nRy7rPfM=
 			</data>
 		</dict>
 		<key>Headers/STPaySDK.h</key>
@@ -2310,6 +2447,13 @@
 			<key>hash2</key>
 			<data>
 			DFALzIqjHQ2K/LzqC5JbkV3BLUKi1yDvrS+0OTDBhvg=
+			</data>
+		</dict>
+		<key>ImageSourceView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6rH1tcgY8xsthjYsiIgsSadZbylAljDcArvzpTmFNz0=
 			</data>
 		</dict>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib/objects-14.0+.nib</key>
@@ -2739,6 +2883,27 @@
 			BPdzEtM9k+pWl+QbfOK4swRAtgh2JjHloKfV/Vx/lDE=
 			</data>
 		</dict>
+		<key>JTCalendarHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tTLnji8zANOE2VuN9pJSsUWzQ5mzQrvPUq06VITQu8Y=
+			</data>
+		</dict>
+		<key>JTCalendarView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lsayMLiep1W4+In8OehbMiBsj7nZZ91/NeHgTfpGp+Q=
+			</data>
+		</dict>
+		<key>JTDateCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			63AW4tdTvBlKynR43AOY/9Nrr+RnoD6ifYpGiDKP2oc=
+			</data>
+		</dict>
 		<key>KYC.storyboardc/3Je-Wk-FZQ-view-77s-8F-wVw.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2848,7 +3013,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LoR7XLivrThnjmZgrCXZhmIIpYs+8ZtYC5aHEcSqRMM=
+			azqFFgNYrjLhUQ2aE5l25hEvOviCiAQ+4UiP+x7EtTI=
 			</data>
 		</dict>
 		<key>LimitValueCell.nib</key>
@@ -2974,70 +3139,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ioYoqUQZoOL9OBAkpX9Navb8pphAz+WbeNCLHDfHkM=
+			om7T0vlEzCclU3mrDi/5lMzhLY1qW7eEPzFKSH8CrxM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZpYNWvRqDk+KiHAwybGhrxp2M84ODYwQ1/sh7pDrrg=
+			L5ZWu6YPG1oe8Xdp1qGDyu+fPxZJ1+jNKNPcZyP5/QQ=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			80ExbrV7jKASzoOkviMrY0eYvOGL3hFZQiQAtEunrxA=
+			yITs+walVz01fe396dqW1K3SY8WD7wpGwz/CR8zA94A=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZpYNWvRqDk+KiHAwybGhrxp2M84ODYwQ1/sh7pDrrg=
+			L5ZWu6YPG1oe8Xdp1qGDyu+fPxZJ1+jNKNPcZyP5/QQ=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8rpmc/Prh39exfj3FqnlKwF9VQK84ZLVnw4537WdCZY=
+			pNVSJbzWDZyTXIcRS2QzqYYXjaXGl6bq1/zqZjTLtt0=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ioYoqUQZoOL9OBAkpX9Navb8pphAz+WbeNCLHDfHkM=
+			om7T0vlEzCclU3mrDi/5lMzhLY1qW7eEPzFKSH8CrxM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJN64i+KoLA29T8IpTGZJXrxN/38seXdbuZS+iS9PdE=
+			Vwn2/rT6zMW16nF2rQXHpeyzvNyzdymwqsiXieYgcvQ=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eM6GFFn1YsG6lNscFsHgSndGpda+MRX3heCS3UVMyEw=
+			4Fp7xxu0ZGZB81m2T7kJIuDowhzmZ+Gy6epxQn03rFc=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJN64i+KoLA29T8IpTGZJXrxN/38seXdbuZS+iS9PdE=
+			Vwn2/rT6zMW16nF2rQXHpeyzvNyzdymwqsiXieYgcvQ=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9AxagBW464vrju2/0RUFbnvepPK2V0zDFDVSbxJLDgI=
+			GYyeyWnyGfhT4KwLnfqCQvT56yxBJVpGHw8nabh4w9w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3058,7 +3223,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iv62W/yeFz09wCCy+H7aKFVLiaqN1zgceEi+NBk5SgQ=
+			HwGTGDm7VOG5ZXG67nbgvheStOUua9yi7S0rfKdUJrk=
 			</data>
 		</dict>
 		<key>MoreFooterView.nib</key>
@@ -3072,7 +3237,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dFHS7Rtm1EoUsHg2+vhBa6xl/HuyTyPlc4Wixr89dCo=
+			sqApW13e1E7uwzBPjmTr9TOEbnJUJGTpKN9JLtH+j1k=
 			</data>
 		</dict>
 		<key>NPSBBankInfoCell.nib</key>
@@ -3530,6 +3695,13 @@
 			h62VQzBw2qN61U4/Iu7bevovuf/qkLkOoXHbeWNtDfw=
 			</data>
 		</dict>
+		<key>STBottomActionView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PcfXdPyKnlITGWY7EO8jMNmqZpIxHoAPhdwcmcmglHk=
+			</data>
+		</dict>
 		<key>STLoaderPopupView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3936,6 +4108,13 @@
 			hUcJRj18vO66ucWd7GdGS0sAnHfBZOmZd53LchQYcyE=
 			</data>
 		</dict>
+		<key>TitleTopView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zPP4PIygXf1XzQv3zo+haKMmukV/z3Qlga2mYDr6V14=
+			</data>
+		</dict>
 		<key>Transaction.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -4034,6 +4213,27 @@
 			Ldgt6vaDHfBkKIymQhtZfLgjdCLtLQ2QqnqkMb3+NEY=
 			</data>
 		</dict>
+		<key>TransactionCollectionCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hv36RozFyVlZj51DF6hJa9HdPOM99CvRrNzflbLXdW0=
+			</data>
+		</dict>
+		<key>TransactionDateContainerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+uhOeHP75KMeA+JMqmuZca0VkIy84TZJixCGzx+7P/E=
+			</data>
+		</dict>
+		<key>TransactionDateSelectionView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PGvTgHBy6ZJ527bhrtP/BBxqWyvzSO+BPOPAYk89ymY=
+			</data>
+		</dict>
 		<key>TransactionDetailsDescTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -4055,11 +4255,25 @@
 			e1gNFDr9kQB/nDa0YienF7k+YNizx3BVyohY7bF6oFQ=
 			</data>
 		</dict>
+		<key>TransactionHistoryShimmerCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MiscX1nKHzN0TSie7m5cdEN2FKGNmeMuWXAkDO23iEI=
+			</data>
+		</dict>
 		<key>TransactionHistoryView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			8iKD+mOzMRCnX2BJlks7iolLeiToNrw0AjBWEGyn3zw=
+			</data>
+		</dict>
+		<key>TransactionInfoView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7MW5qNhEdRNGHiQum8NnDGGZrMgr3XSZ69mTmS6zMPs=
 			</data>
 		</dict>
 		<key>TransactionListTableViewCell.nib</key>
@@ -4069,11 +4283,39 @@
 			aUMASlWzZELkKNItiXKyz4OrgF7vaRI/WtmOWvWdELw=
 			</data>
 		</dict>
+		<key>TransactionRemarksView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			COKtA84+prcp6NYEvvm6dCvomQZHxrRIs91N4N+Qi4I=
+			</data>
+		</dict>
 		<key>TransactionSuccessView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			wb7GAqqzT+6/guB5GgJ5bNt8keTmAi3pVQy5ig38QRE=
+			</data>
+		</dict>
+		<key>TransactionSummaryCollectionCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0tFfpmQ6UUWWKf4s6X+5GMR0BeBbtYuIkBW+JxJZWz0=
+			</data>
+		</dict>
+		<key>TransactionSummaryHeaderCell.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5f5XA6HLZIqcjeQMYIGpRjAKxZHt1bJTVIUgXQruNhE=
+			</data>
+		</dict>
+		<key>TransactionSummaryHeaderCell.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZMGLxg2pARxTXvuOpphNP2qf2O4AJaPQ0j0gfaGCFTY=
 			</data>
 		</dict>
 		<key>VerifiedView.nib</key>

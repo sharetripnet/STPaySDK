@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name STPaySDK
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
@@ -14,6 +14,7 @@ import CoreLocation
 import DeveloperToolsSupport
 import Foundation
 import IQKeyboardManagerSwift
+import JTAppleCalendar
 import Kingfisher
 import LocalAuthentication
 import Lottie
@@ -64,6 +65,103 @@ public protocol ToastDelegate : AnyObject {
   func didShowToast(_ toast: STPaySDK.Toast)
   func willCloseToast(_ toast: STPaySDK.Toast)
   func didCloseToast(_ toast: STPaySDK.Toast)
+}
+public enum DateFormatType : Swift.CaseIterable {
+  public static var allCases: [STPaySDK.DateFormatType] {
+    get
+  }
+  public typealias AllCases = [STPaySDK.DateFormatType]
+  case isoYear
+  case isoYearMonth
+  case isoDateWithSlash
+  case isoDate
+  case isoDateTime
+  case isoDateTimeSec
+  case isoDateTimeMilliSec
+  case isoDateCustomTimeMilliSec
+  case dotNet
+  case rss
+  case altRSS
+  case httpHeader
+  case standard
+  case shortDate
+  case shortDateWithYearQuote
+  case shortDateWithdatequote
+  case shortDateFullYear
+  case isoDateTimeWithoutOffset
+  case timeIn12Hr
+  case hotelDateSearch
+  case custom(Swift.String)
+  public var stringFormat: Swift.String {
+    get
+  }
+}
+extension STPaySDK.DateFormatType : Swift.Equatable {
+  public static func == (lhs: STPaySDK.DateFormatType, rhs: STPaySDK.DateFormatType) -> Swift.Bool
+}
+public enum TimeZoneType {
+  case local, `default`, utc, bd, custom(Swift.Int)
+}
+public enum RelativeTimeStringType {
+  case nowPast, nowFuture, secondsPast, secondsFuture, oneMinutePast, oneMinuteFuture, minutesPast, minutesFuture, oneHourPast, oneHourFuture, hoursPast, hoursFuture, oneDayPast, oneDayFuture, daysPast, daysFuture, oneWeekPast, oneWeekFuture, weeksPast, weeksFuture, oneMonthPast, oneMonthFuture, monthsPast, monthsFuture, oneYearPast, oneYearFuture, yearsPast, yearsFuture
+  public static func == (a: STPaySDK.RelativeTimeStringType, b: STPaySDK.RelativeTimeStringType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum DateComparisonType {
+  case isToday
+  case isTomorrow
+  case isYesterday
+  case isSameDay(as: Foundation.Date)
+  case isThisWeek
+  case isNextWeek
+  case isLastWeek
+  case isSameWeek(as: Foundation.Date)
+  case isThisMonth
+  case isNextMonth
+  case isLastMonth
+  case isSameMonth(as: Foundation.Date)
+  case isThisYear
+  case isNextYear
+  case isLastYear
+  case isSameYear(as: Foundation.Date)
+  case isInTheFuture
+  case isInThePast
+  case isEarlier(than: Foundation.Date)
+  case isLater(than: Foundation.Date)
+  case isWeekday
+  case isWeekend
+}
+public enum DateComponentType {
+  case second, minute, hour, day, weekday, nthWeekday, week, month, year
+  public static func == (a: STPaySDK.DateComponentType, b: STPaySDK.DateComponentType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum DateForType {
+  case startOfDay, endOfDay, startOfWeek, endOfWeek, startOfMonth, endOfMonth, tomorrow, yesterday, nearestMinute(minute: Swift.Int), nearestHour(hour: Swift.Int)
+}
+public enum DateStyleType {
+  case short
+  case medium
+  case long
+  case full
+  case ordinalDay
+  case weekday
+  case shortWeekday
+  case veryShortWeekday
+  case month
+  case shortMonth
+  case veryShortMonth
+  public static func == (a: STPaySDK.DateStyleType, b: STPaySDK.DateStyleType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
 }
 final public class ObjectAssociation<T> where T : AnyObject {
   public init(policy: ObjectiveC.objc_AssociationPolicy = .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
@@ -270,6 +368,17 @@ public struct ToastConfiguration {
   public let exitingAnimation: STPaySDK.Toast.AnimationType
   public let view: UIKit.UIView?
   public init(direction: STPaySDK.Toast.Direction = .top, autoHide: Swift.Bool = true, enablePanToClose: Swift.Bool = true, displayTime: Foundation.TimeInterval = 4, animationTime: Foundation.TimeInterval = 0.2, enteringAnimation: STPaySDK.Toast.AnimationType = .default, exitingAnimation: STPaySDK.Toast.AnimationType = .default, attachTo view: UIKit.UIView? = nil)
+}
+public struct Stack<Element> {
+  public init()
+  public mutating func push(_ element: Element)
+  @discardableResult
+  public mutating func pop() -> Element?
+}
+extension STPaySDK.Stack : Swift.CustomDebugStringConvertible {
+  public var debugDescription: Swift.String {
+    get
+  }
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class AppleToastView : UIKit.UIView, STPaySDK.ToastView {
   @_Concurrency.MainActor @preconcurrency public init(child: UIKit.UIView, minHeight: CoreFoundation.CGFloat = 58, minWidth: CoreFoundation.CGFloat = 150, darkBackgroundColor: UIKit.UIColor = UIColor(red: 0.13, green: 0.13, blue: 0.13, alpha: 1.00), lightBackgroundColor: UIKit.UIColor = UIColor(red: 0.99, green: 0.99, blue: 0.99, alpha: 1.00))
@@ -493,6 +602,12 @@ extension STPaySDK.RoundTextField : UIKit.UITextFieldDelegate {
   @_Concurrency.MainActor @preconcurrency public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = .label, title: Swift.String, subtitle: Swift.String? = nil)
   @objc deinit
 }
+extension STPaySDK.RelativeTimeStringType : Swift.Equatable {}
+extension STPaySDK.RelativeTimeStringType : Swift.Hashable {}
+extension STPaySDK.DateComponentType : Swift.Equatable {}
+extension STPaySDK.DateComponentType : Swift.Hashable {}
+extension STPaySDK.DateStyleType : Swift.Equatable {}
+extension STPaySDK.DateStyleType : Swift.Hashable {}
 extension STPaySDK.PinRequiredRule : Swift.Equatable {}
 extension STPaySDK.PinRequiredRule : Swift.Hashable {}
 extension STPaySDK.HorizontalAlignment : Swift.Equatable {}
