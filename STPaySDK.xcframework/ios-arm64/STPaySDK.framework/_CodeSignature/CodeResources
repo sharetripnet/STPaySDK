@@ -460,22 +460,6 @@
 		<data>
 		RnCf1nBz9PxSu8PiYUFFQZ/cDEI=
 		</data>
-		<key>Frameworks/PaymentSDK.framework/Assets.car</key>
-		<data>
-		IXgVIlGugBM32juClubaBXxcK0w=
-		</data>
-		<key>Frameworks/PaymentSDK.framework/Info.plist</key>
-		<data>
-		Jgdzl/BtWgqiT1YcqHGXOQGpF1Q=
-		</data>
-		<key>Frameworks/PaymentSDK.framework/PaymentSDK</key>
-		<data>
-		IIDRYIR9bcWh4uxwOwWGe2Y551s=
-		</data>
-		<key>Frameworks/PaymentSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		L/WxpfVEu6a6fJUHhajmB+d+kqw=
-		</data>
 		<key>Headers/STPaySDK-Swift.h</key>
 		<data>
 		/9aqjwvkGrIPNpmbOgrhbnU4zAI=
@@ -2385,34 +2369,6 @@
 			<key>hash2</key>
 			<data>
 			66T81sda9gahYwwcnCuLraOgNky68zlU8YmLBSVByn8=
-			</data>
-		</dict>
-		<key>Frameworks/PaymentSDK.framework/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HeBIzIYXu6+Tj21vmxzv2E1k+mloj+/l4jInbV0snd8=
-			</data>
-		</dict>
-		<key>Frameworks/PaymentSDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MA3UoElgjf06WMsN3Gwk1Ak6X+KK9viDJeYIYO9Iyl0=
-			</data>
-		</dict>
-		<key>Frameworks/PaymentSDK.framework/PaymentSDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PmpLgXCZnV2g2Gq60uwYN9jMs7kvLA2kfGML0NwbB9s=
-			</data>
-		</dict>
-		<key>Frameworks/PaymentSDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QUZG8rHkE2ma/4gPUjsaUFyuswFwR4+HxHit9ZcCzCQ=
 			</data>
 		</dict>
 		<key>Headers/STPaySDK-Swift.h</key>
