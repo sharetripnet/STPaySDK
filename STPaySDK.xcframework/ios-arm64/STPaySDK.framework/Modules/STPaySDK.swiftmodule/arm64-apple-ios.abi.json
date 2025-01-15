@@ -30170,7 +30170,7 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4965,
+      "offset": 4963,
       "length": 5,
       "value": "false"
     },
@@ -39221,56 +39221,63 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 1679,
+      "offset": 1707,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 1718,
+      "offset": 1746,
       "length": 12,
       "value": "\"account_no\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 1777,
+      "offset": 1805,
       "length": 13,
       "value": "\"status_text\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 4683,
+      "offset": 1846,
+      "length": 14,
+      "value": "\"message_text\""
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4954,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 6475,
+      "offset": 6805,
       "length": 5,
       "value": "\"otp\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 6500,
+      "offset": 6830,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 6797,
+      "offset": 7127,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 6836,
+      "offset": 7166,
       "length": 18,
       "value": "\"otp_expired_time\""
     },
@@ -42049,112 +42056,119 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 387,
+      "offset": 440,
       "length": 22,
       "value": "\"beneficiaries_active\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 447,
+      "offset": 500,
       "length": 24,
       "value": "\"beneficiaries_inactive\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 502,
+      "offset": 555,
       "length": 17,
       "value": "\"remaining_banks\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1421,
+      "offset": 1474,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1441,
+      "offset": 1494,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1468,
+      "offset": 1521,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1488,
+      "offset": 1541,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2174,
+      "offset": 2247,
       "length": 7,
       "value": "\"ac_no\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2209,
+      "offset": 2282,
       "length": 16,
       "value": "\"is_npsb_enable\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2272,
+      "offset": 2345,
       "length": 13,
       "value": "\"status_text\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5130,
+      "offset": 2386,
+      "length": 14,
+      "value": "\"message_text\""
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5428,
       "length": 9,
       "value": "\"bank_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5160,
+      "offset": 5458,
       "length": 11,
       "value": "\"bank_name\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5194,
+      "offset": 5492,
       "length": 14,
       "value": "\"bank_name_bn\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5236,
+      "offset": 5534,
       "length": 16,
       "value": "\"is_npsb_enable\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 7364,
+      "offset": 7716,
       "length": 11,
       "value": "\"branch_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 7398,
+      "offset": 7750,
       "length": 9,
       "value": "\"bank_id\""
     },
