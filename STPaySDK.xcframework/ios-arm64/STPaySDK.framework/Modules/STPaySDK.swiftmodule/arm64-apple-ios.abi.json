@@ -605,6 +605,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -9635,6 +9657,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -9661,6 +9705,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQTextInputView",
+            "printedName": "IQTextInputView",
+            "usr": "c:@M@IQKeyboardCore@objc(pl)IQTextInputView",
+            "mangledName": "$s14IQKeyboardCore15IQTextInputViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQPlaceholderable",
+            "printedName": "IQPlaceholderable",
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -13300,6 +13358,28 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
           },
           {
             "kind": "Conformance",
@@ -17579,6 +17659,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -19512,6 +19614,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -19538,6 +19662,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQTextInputView",
+            "printedName": "IQTextInputView",
+            "usr": "c:@M@IQKeyboardCore@objc(pl)IQTextInputView",
+            "mangledName": "$s14IQKeyboardCore15IQTextInputViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQPlaceholderable",
+            "printedName": "IQPlaceholderable",
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -20552,6 +20690,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -20578,6 +20738,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQTextInputView",
+            "printedName": "IQTextInputView",
+            "usr": "c:@M@IQKeyboardCore@objc(pl)IQTextInputView",
+            "mangledName": "$s14IQKeyboardCore15IQTextInputViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQPlaceholderable",
+            "printedName": "IQPlaceholderable",
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -26012,6 +26186,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -26869,6 +27065,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -26895,6 +27113,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQTextInputView",
+            "printedName": "IQTextInputView",
+            "usr": "c:@M@IQKeyboardCore@objc(pl)IQTextInputView",
+            "mangledName": "$s14IQKeyboardCore15IQTextInputViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQPlaceholderable",
+            "printedName": "IQPlaceholderable",
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -27317,6 +27549,28 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
           },
           {
             "kind": "Conformance",
@@ -27771,6 +28025,28 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
           },
           {
             "kind": "Conformance",
@@ -28851,6 +29127,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -29292,6 +29590,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -29431,6 +29751,28 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
           },
           {
             "kind": "Conformance",
@@ -29576,6 +29918,28 @@
           },
           {
             "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SkeletonViewExtended",
             "printedName": "SkeletonViewExtended",
             "children": [
@@ -29708,6 +30072,28 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IQKeyboardExtended",
+            "printedName": "IQKeyboardExtended",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Base",
+                "printedName": "Base",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:14IQKeyboardCore0A8ExtendedP",
+            "mangledName": "$s14IQKeyboardCore0A8ExtendedP"
           },
           {
             "kind": "Conformance",
@@ -30170,7 +30556,7 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4963,
+      "offset": 4980,
       "length": 5,
       "value": "false"
     },
