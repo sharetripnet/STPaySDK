@@ -12,6 +12,7 @@ import CoreGraphics
 import DeveloperToolsSupport
 import Foundation
 import IQKeyboardManagerSwift
+import IQKeyboardToolbarManager
 import JTAppleCalendar
 import Kingfisher
 import LocalAuthentication

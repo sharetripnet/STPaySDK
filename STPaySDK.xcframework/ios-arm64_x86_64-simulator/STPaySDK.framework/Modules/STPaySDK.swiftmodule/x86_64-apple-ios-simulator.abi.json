@@ -3975,8 +3975,8 @@
             "kind": "Conformance",
             "name": "IQPlaceholderable",
             "printedName": "IQPlaceholderable",
-            "usr": "c:@M@IQKeyboardManagerSwift@objc(pl)IQPlaceholderable",
-            "mangledName": "$s22IQKeyboardManagerSwift17IQPlaceholderableP"
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -7861,8 +7861,8 @@
             "kind": "Conformance",
             "name": "IQPlaceholderable",
             "printedName": "IQPlaceholderable",
-            "usr": "c:@M@IQKeyboardManagerSwift@objc(pl)IQPlaceholderable",
-            "mangledName": "$s22IQKeyboardManagerSwift17IQPlaceholderableP"
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -9349,8 +9349,8 @@
             "kind": "Conformance",
             "name": "IQPlaceholderable",
             "printedName": "IQPlaceholderable",
-            "usr": "c:@M@IQKeyboardManagerSwift@objc(pl)IQPlaceholderable",
-            "mangledName": "$s22IQKeyboardManagerSwift17IQPlaceholderableP"
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -10425,8 +10425,8 @@
             "kind": "Conformance",
             "name": "IQPlaceholderable",
             "printedName": "IQPlaceholderable",
-            "usr": "c:@M@IQKeyboardManagerSwift@objc(pl)IQPlaceholderable",
-            "mangledName": "$s22IQKeyboardManagerSwift17IQPlaceholderableP"
+            "usr": "c:@M@IQKeyboardToolbar@objc(pl)IQPlaceholderable",
+            "mangledName": "$s17IQKeyboardToolbar17IQPlaceholderableP"
           }
         ]
       },
@@ -24375,6 +24375,13 @@
         "kind": "Import",
         "name": "IQKeyboardManagerSwift",
         "printedName": "IQKeyboardManagerSwift",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "IQKeyboardToolbarManager",
+        "printedName": "IQKeyboardToolbarManager",
         "declKind": "Import",
         "moduleName": "STPaySDK"
       },
@@ -38698,65 +38705,44 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 342,
+      "offset": 374,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 747,
+      "offset": 779,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 787,
+      "offset": 819,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 818,
+      "offset": 850,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 1074,
+      "offset": 1106,
       "length": 18,
       "value": "\"chevron.backward\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 1200,
+      "offset": 1232,
       "length": 6,
       "value": "\"Back\""
-    },
-    {
-      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1421,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1430,
-      "length": 3,
-      "value": "-16"
-    },
-    {
-      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1443,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
@@ -38768,35 +38754,56 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1507,
+      "offset": 1462,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1475,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1516,
+      "offset": 1485,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1539,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1548,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1528,
+      "offset": 1560,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1538,
+      "offset": 1570,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/wallet-dpay-ios-consumer\/STPaySDKFiles\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4191,
+      "offset": 4281,
       "length": 5,
       "value": "false"
     },
