@@ -1,6 +1,0 @@
-framework module STPaySDK {
-  umbrella header "STPaySDK.h"
-  export *
-
-  module * { export * }
-}

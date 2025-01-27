@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'STPaySDK'
-    s.version           = '0.3.0'
+    s.version           = '0.4.0'
     s.summary           = 'STPaySDK'
     s.homepage          = 'https://github.com/sharetripnet/STPaySDK.git'
     s.source            = { :git => 'https://github.com/sharetripnet/STPaySDK.git', :tag => s.version.to_s }
@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
     s.license           = 'MIT'
     s.requires_arc      = true
     s.platform          = :ios, "13.0"
-    s.vendored_frameworks = 'STPaySDK.framework'
+    s.vendored_frameworks = 'STPaySDK.xcframework'
 end
