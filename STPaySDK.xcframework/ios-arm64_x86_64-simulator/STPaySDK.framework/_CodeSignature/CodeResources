@@ -866,11 +866,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5wlszot3l7e4VOgl24YRHK4EnMI=
+		bSgc/zFkp6D9vHb57w4THc1M1pY=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		i45SM47T3voVP0Ng6vM7vMbbe4c=
+		R1qgUPhUTVGZY3Wfr/fhIFNs2O4=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -878,19 +878,19 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		i45SM47T3voVP0Ng6vM7vMbbe4c=
+		R1qgUPhUTVGZY3Wfr/fhIFNs2O4=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wuepWiPwhEZTL9T554cBlgq1urE=
+		NWPpyrD9lkTFUq77u+Fo5JrkhRw=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5wlszot3l7e4VOgl24YRHK4EnMI=
+		bSgc/zFkp6D9vHb57w4THc1M1pY=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nK+taiM2TTfcyoaRoQynuQ2RH3U=
+		4PnEMXb1bNzgpTt1oJ9T61mag0w=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -898,11 +898,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nK+taiM2TTfcyoaRoQynuQ2RH3U=
+		4PnEMXb1bNzgpTt1oJ9T61mag0w=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aLjBGnq2/y1xMBkPnSqLbRxgqtc=
+		Wg4KxBP8se+3UkavOFuhU5JjJaA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -999,6 +999,10 @@
 		<key>ProgressLoaderView.nib</key>
 		<data>
 		3hzXqyIWz7mxx71QPEDgP48cD+o=
+		</data>
+		<key>RadioOptionTableCell.nib</key>
+		<data>
+		qOpPMNPr0wJf/K3oPGFcuvSvk0I=
 		</data>
 		<key>RecentRecipientsCollectionViewCell.nib</key>
 		<data>
@@ -3095,14 +3099,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3MYkK8/K8fQdASNtfxsYVTHRhn+ySdcekjXdT0SglNI=
+			pDryumxggmQVNOSBNYFBIA+cgpDmTI2u0rVp6N3vFpE=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L5ZWu6YPG1oe8Xdp1qGDyu+fPxZJ1+jNKNPcZyP5/QQ=
+			1UOfcEK4bFklLkSCsoLoAM/hoH150XO9F/3ptRqUzbc=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -3116,28 +3120,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L5ZWu6YPG1oe8Xdp1qGDyu+fPxZJ1+jNKNPcZyP5/QQ=
+			1UOfcEK4bFklLkSCsoLoAM/hoH150XO9F/3ptRqUzbc=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PR2IgUj42HtpGn0T4CkhkpMQ8gHQn4TGSDhiv4p/TLU=
+			dxB4yp5Kyj+setJTrCoQRJS2PmxYJP5L+HPWSWJox3E=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3MYkK8/K8fQdASNtfxsYVTHRhn+ySdcekjXdT0SglNI=
+			pDryumxggmQVNOSBNYFBIA+cgpDmTI2u0rVp6N3vFpE=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vwn2/rT6zMW16nF2rQXHpeyzvNyzdymwqsiXieYgcvQ=
+			Q+vENRR93QAiOVyS6nCOktPrRwsNbOzDe4QHdlGXhPM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -3151,14 +3155,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vwn2/rT6zMW16nF2rQXHpeyzvNyzdymwqsiXieYgcvQ=
+			Q+vENRR93QAiOVyS6nCOktPrRwsNbOzDe4QHdlGXhPM=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TfIrNe4sNK+LdNDC9U06EglQzc63O98ZB2OV273pEHc=
+			f0M5FlGIRv1/wXa4HL51KXaB9vA/aS1fCk2NRtosqFA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3327,6 +3331,13 @@
 			<key>hash2</key>
 			<data>
 			k0GgQRs4ZhDyd5BQnr2eERxRksuPSlkR25rZhXy0vMo=
+			</data>
+		</dict>
+		<key>RadioOptionTableCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3W6hTkl4JkxmmU/Rs0PdkmXESMB7+3cIBEcUEz3NPAg=
 			</data>
 		</dict>
 		<key>RecentRecipientsCollectionViewCell.nib</key>

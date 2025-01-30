@@ -22,6 +22,13 @@
         "moduleName": "STPaySDK"
       },
       {
+        "kind": "Import",
+        "name": "IQKeyboardToolbarManager",
+        "printedName": "IQKeyboardToolbarManager",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "STPayView",
         "printedName": "STPayView",
@@ -15041,6 +15048,13 @@
       },
       {
         "kind": "Import",
+        "name": "IQKeyboardToolbarManager",
+        "printedName": "IQKeyboardToolbarManager",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -15527,6 +15541,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "STPaySDK"
       },
       {
         "kind": "Import",
@@ -20867,6 +20888,16 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "STPaySDK",
         "declAttributes": [
@@ -30458,65 +30489,44 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 364,
+      "offset": 396,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 895,
+      "offset": 927,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 935,
+      "offset": 967,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 966,
+      "offset": 998,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 1226,
+      "offset": 1258,
       "length": 18,
       "value": "\"chevron.backward\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "StringLiteral",
-      "offset": 1352,
+      "offset": 1384,
       "length": 6,
       "value": "\"Back\""
-    },
-    {
-      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1573,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1582,
-      "length": 3,
-      "value": "-16"
-    },
-    {
-      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1595,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
@@ -30528,35 +30538,56 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1659,
+      "offset": 1614,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1627,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1668,
+      "offset": 1637,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1691,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1700,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1680,
+      "offset": 1712,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1690,
+      "offset": 1722,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/STPayView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4980,
+      "offset": 4966,
       "length": 5,
       "value": "false"
     },
@@ -32768,14 +32799,14 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Views\/TVCell\/InstructionsTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 817,
+      "offset": 689,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Views\/TVCell\/InstructionsTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 931,
+      "offset": 803,
       "length": 2,
       "value": "14"
     },
@@ -35246,70 +35277,84 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 1380,
+      "offset": 1408,
       "length": 16,
       "value": "\"beneficiary_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 1645,
+      "offset": 1451,
+      "length": 9,
+      "value": "\"is_npsb\""
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
+      "kind": "StringLiteral",
+      "offset": 1709,
       "length": 58,
       "value": "\"\/private\/transaction\/withdraw-money-bank-request\/execute\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 2037,
+      "offset": 2128,
       "length": 16,
       "value": "\"beneficiary_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 2297,
+      "offset": 2171,
+      "length": 9,
+      "value": "\"is_npsb\""
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
+      "kind": "StringLiteral",
+      "offset": 2424,
       "length": 53,
       "value": "\"\/private\/wallet\/withdraw-money-bank\/beneficiary-add\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 2651,
+      "offset": 2778,
       "length": 9,
       "value": "\"bank_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 2693,
+      "offset": 2820,
       "length": 16,
       "value": "\"bank_branch_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 2741,
+      "offset": 2868,
       "length": 14,
       "value": "\"account_name\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 2789,
+      "offset": 2916,
       "length": 12,
       "value": "\"account_no\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 3052,
+      "offset": 3179,
       "length": 61,
       "value": "\"\/private\/wallet\/withdraw-money-bank\/beneficiary-list-update\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Services\/BankTransferService.swift",
       "kind": "StringLiteral",
-      "offset": 3563,
+      "offset": 3690,
       "length": 54,
       "value": "\"\/private\/wallet\/withdraw-money-bank\/beneficiary-list\""
     },
@@ -36331,7 +36376,7 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/ViewModels\/Transfer\/TransferredAmountViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 420,
+      "offset": 453,
       "length": 2,
       "value": "\"\""
     },
@@ -38172,42 +38217,42 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
       "kind": "StringLiteral",
-      "offset": 422,
+      "offset": 418,
       "length": 7,
       "value": "\"lists\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
       "kind": "StringLiteral",
-      "offset": 452,
+      "offset": 448,
       "length": 9,
       "value": "\"notices\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
       "kind": "StringLiteral",
-      "offset": 818,
+      "offset": 814,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
       "kind": "StringLiteral",
-      "offset": 889,
+      "offset": 885,
       "length": 12,
       "value": "\"account_no\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
       "kind": "StringLiteral",
-      "offset": 927,
+      "offset": 923,
       "length": 12,
       "value": "\"end_points\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/Model\/IBBankModel.swift",
       "kind": "StringLiteral",
-      "offset": 971,
+      "offset": 967,
       "length": 21,
       "value": "\"is_account_required\""
     },
@@ -39635,35 +39680,35 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 4954,
+      "offset": 5124,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 6805,
+      "offset": 7135,
       "length": 5,
       "value": "\"otp\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 6830,
+      "offset": 7160,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 7127,
+      "offset": 7457,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/MFSBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 7166,
+      "offset": 7496,
       "length": 18,
       "value": "\"otp_expired_time\""
     },
@@ -39887,21 +39932,28 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Transfer\/TransferredAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 409,
+      "offset": 405,
       "length": 6,
       "value": "1"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Transfer\/TransferredAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 417,
+      "offset": 413,
       "length": 12,
       "value": "2"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Transfer\/TransferredAmountVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 427,
+      "length": 12,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Bank Transfer\/Controllers\/Transfer\/TransferredAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1313,
+      "offset": 1713,
       "length": 5,
       "value": "false"
     },
@@ -41028,329 +41080,329 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 300,
+      "offset": 299,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 467,
+      "offset": 466,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 671,
+      "offset": 670,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 718,
+      "offset": 717,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 758,
-      "length": 33,
-      "value": "\"Add Money from Internet Banking\""
+      "offset": 757,
+      "length": 29,
+      "value": "\"Add Money from Bank Account\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 971,
+      "offset": 966,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 1020,
+      "offset": 1015,
       "length": 9,
       "value": "\"#4C4C4C\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 1086,
-      "length": 146,
-      "value": "\"Note: For add money from internet banking, any charge\/ fee may be imposed by the issuer bank. For details, please contact with your  issuer bank\""
+      "offset": 1081,
+      "length": 134,
+      "value": "\"Note: For add money from bank, any charge\/ fee may be imposed by the issuer bank. For details, please contact with your  issuer bank\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1338,
+      "offset": 1300,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1495,
+      "offset": 1457,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 1563,
+      "offset": 1525,
       "length": 9,
       "value": "\"#121212\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 1629,
+      "offset": 1591,
       "length": 18,
       "value": "\"Select your bank\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1732,
+      "offset": 1694,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1890,
+      "offset": 1852,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 1958,
+      "offset": 1920,
       "length": 9,
       "value": "\"#121212\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 2024,
+      "offset": 1986,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2111,
+      "offset": 2073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2368,
+      "offset": 2330,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2377,
+      "offset": 2339,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2389,
+      "offset": 2351,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 2399,
+      "offset": 2361,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2559,
+      "offset": 2521,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 2609,
+      "offset": 2571,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3021,
+      "offset": 2983,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3368,
+      "offset": 3330,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3549,
+      "offset": 3511,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3596,
+      "offset": 3558,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3950,
+      "offset": 3912,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3997,
+      "offset": 3959,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 4037,
-      "length": 74,
-      "value": "\"Please ensure your MTB account and ST Pay account mobile number are same\""
+      "offset": 3999,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "FloatLiteral",
-      "offset": 4288,
+      "offset": 4178,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 4395,
+      "offset": 4285,
       "length": 13,
       "value": "\"MTB account\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 4459,
+      "offset": 4349,
       "length": 16,
       "value": "\"ST Pay account\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "Array",
-      "offset": 4969,
+      "offset": 4859,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5033,
+      "offset": 4923,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5071,
+      "offset": 4961,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5123,
+      "offset": 5013,
       "length": 8,
       "value": "0xFAFBFC"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "FloatLiteral",
-      "offset": 5140,
+      "offset": 5030,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "FloatLiteral",
-      "offset": 5182,
+      "offset": 5072,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 5235,
+      "offset": 5125,
       "length": 8,
       "value": "0xEBF0F5"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "FloatLiteral",
-      "offset": 5252,
+      "offset": 5142,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "FloatLiteral",
-      "offset": 5301,
+      "offset": 5191,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5549,
+      "offset": 5487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 5778,
+      "offset": 5716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6003,
+      "offset": 5941,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6185,
+      "offset": 6123,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/Add Money \/InternetBanking\/ViewControllers\/InternetBankingAmountVC.swift",
       "kind": "StringLiteral",
-      "offset": 6211,
+      "offset": 6149,
       "length": 10,
       "value": "\"Continue\""
     },
@@ -42491,70 +42543,84 @@
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2247,
+      "offset": 2302,
       "length": 7,
       "value": "\"ac_no\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2282,
+      "offset": 2337,
       "length": 16,
       "value": "\"is_npsb_enable\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2345,
+      "offset": 2400,
       "length": 13,
       "value": "\"status_text\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 2386,
+      "offset": 2441,
       "length": 14,
       "value": "\"message_text\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5428,
+      "offset": 2480,
+      "length": 11,
+      "value": "\"npsb_note\""
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2517,
+      "length": 12,
+      "value": "\"beftn_note\""
+    },
+    {
+      "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
+      "kind": "StringLiteral",
+      "offset": 6284,
       "length": 9,
       "value": "\"bank_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5458,
+      "offset": 6314,
       "length": 11,
       "value": "\"bank_name\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5492,
+      "offset": 6348,
       "length": 14,
       "value": "\"bank_name_bn\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 5534,
+      "offset": 6390,
       "length": 16,
       "value": "\"is_npsb_enable\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 7716,
+      "offset": 8677,
       "length": 11,
       "value": "\"branch_id\""
     },
     {
       "filePath": "\/Users\/dulalhossain\/Work\/STPay\/stpay-sdk-ios\/STPaySDK\/STPaySDK\/BankManagement\/Models\/BankBenificiaryModel.swift",
       "kind": "StringLiteral",
-      "offset": 7750,
+      "offset": 8711,
       "length": 9,
       "value": "\"bank_id\""
     },

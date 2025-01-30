@@ -866,11 +866,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		778eGfGSXaQEJ/T5sEn2pVg24yo=
+		6w5a80H2+KLa6ChrcAh+lN6sMss=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		D3fwDrJFRyvowF657vkNE4wUEYQ=
+		eQ7/IPZu7KPTCrCRE3p1KHjEZQ0=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -878,11 +878,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		D3fwDrJFRyvowF657vkNE4wUEYQ=
+		eQ7/IPZu7KPTCrCRE3p1KHjEZQ0=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NdlSsfxkDojERBZVCfMO14yFUvc=
+		IOhNfl9XozV7SDN9GXRBYN7sIPg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -979,6 +979,10 @@
 		<key>ProgressLoaderView.nib</key>
 		<data>
 		3hzXqyIWz7mxx71QPEDgP48cD+o=
+		</data>
+		<key>RadioOptionTableCell.nib</key>
+		<data>
+		qOpPMNPr0wJf/K3oPGFcuvSvk0I=
 		</data>
 		<key>RecentRecipientsCollectionViewCell.nib</key>
 		<data>
@@ -3075,14 +3079,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/5o2lnYbSA7nDYApA9DQh2GUoQuttVXV9fwp9u0gw0=
+			wpNaDUYZkLLzzpnz9fBfYGzrh7jq1feSDgweJQ2XWhA=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t9QEIzYmkxB68FGsy+ElFZaaPi2aKIG3rM9ObnnDURs=
+			IMHU6beojkmRoVZ8JqVpFQZqsf2mvAKRocVUxdP3oKY=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -3096,14 +3100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t9QEIzYmkxB68FGsy+ElFZaaPi2aKIG3rM9ObnnDURs=
+			IMHU6beojkmRoVZ8JqVpFQZqsf2mvAKRocVUxdP3oKY=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			825+8uEFsOv9MVxRfhZBGoIiu0OvzmbFqLeA0vS/68A=
+			XFK819KHH+KKncmx7DoEfOm977d5M1NqjlwDHdOrYAE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3272,6 +3276,13 @@
 			<key>hash2</key>
 			<data>
 			k0GgQRs4ZhDyd5BQnr2eERxRksuPSlkR25rZhXy0vMo=
+			</data>
+		</dict>
+		<key>RadioOptionTableCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3W6hTkl4JkxmmU/Rs0PdkmXESMB7+3cIBEcUEz3NPAg=
 			</data>
 		</dict>
 		<key>RecentRecipientsCollectionViewCell.nib</key>
