@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		9uK8wUbg8QAFXvYMNpBKjZ+ZE5M=
+		MYNBAsOazuBc93QSq0Y7iapHkVE=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -566,7 +566,7 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JG/pOThK0E2OAz1ViuMbq7xh/v8=
+		vv+ERuBn958BCTpPeDJ//hjGhyQ=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -586,7 +586,7 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1c/6ju2kRnDEA2kdaBmnPvNaOQA=
+		anpJakYJ/Oglp5D7mZqkMrb/qug=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1353,7 +1353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qs+OOxu3ziMZF2Y8YxgdFS3p4piRBtR63LGL8pi1nzU=
+			bTRqioR986ookd0GPFAPLBMC0et2jGIIlB0vY6NdFyM=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -2214,7 +2214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C3T1DIkXBD+/jl841CVr9vW/7FWFVm3nXuoE3S5me88=
+			zxJRV0Z4+bfQVbtt62pnQVQrnmMLGYlo42m0GGpMOWI=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -2249,7 +2249,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQ94xJbWd7V+LWCNUGpHmgX8CRpSnP7qdNKF8hvv3FY=
+			BypIANIqf8wCuL/rs1sLIUjJpLDJ7mplb+5iNCLwxao=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
