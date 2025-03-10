@@ -31,7 +31,6 @@ import SkeletonView
 import Swift
 import SwiftKeychainWrapper
 import SwiftUI
-import SwiftUICore
 import SwiftyUserDefaults
 import UIKit
 import UserNotifications
@@ -41,12 +40,6 @@ import XLPagerTabStrip
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public typealias GradientColors = (top: UIKit.UIColor, bottom: UIKit.UIColor)
-extension UIKit.UIImageView {
-  @_Concurrency.MainActor @preconcurrency public func setImageForName(_ string: Swift.String, backgroundColor: UIKit.UIColor? = nil, circular: Swift.Bool, textAttributes: [Foundation.NSAttributedString.Key : Swift.AnyObject]?, gradient: Swift.Bool = false)
-  @_Concurrency.MainActor @preconcurrency public func setImageForName(_ string: Swift.String, gradientColors: STPaySDK.GradientColors, circular: Swift.Bool, textAttributes: [Foundation.NSAttributedString.Key : Swift.AnyObject]?)
-}
-
 final public class ObjectAssociation<T> where T : AnyObject {
   public init(policy: ObjectiveC.objc_AssociationPolicy = .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
   final public subscript(index: Swift.AnyObject) -> T? {
@@ -308,7 +301,6 @@ extension STPaySDK.PinCodeTextFieldDelegate {
   @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-
 @_hasMissingDesignatedInitializers public class Toast {
   public enum Direction {
     case top, bottom
@@ -319,9 +311,9 @@ extension STPaySDK.PinCodeTextFieldDelegate {
     }
   }
   public enum AnimationType {
-    case slide(currentX: CoreFoundation.CGFloat, currentY: CoreFoundation.CGFloat)
+    case slide(x: CoreFoundation.CGFloat, y: CoreFoundation.CGFloat)
     case fade(alphaValue: CoreFoundation.CGFloat)
-    case scaleAndSlide(scaleX: CoreFoundation.CGFloat, scaleY: CoreFoundation.CGFloat, currentX: CoreFoundation.CGFloat, currentY: CoreFoundation.CGFloat)
+    case scaleAndSlide(scaleX: CoreFoundation.CGFloat, scaleY: CoreFoundation.CGFloat, x: CoreFoundation.CGFloat, y: CoreFoundation.CGFloat)
     case scale(scaleX: CoreFoundation.CGFloat, scaleY: CoreFoundation.CGFloat)
     case custom(transformation: CoreFoundation.CGAffineTransform)
     case `default`
@@ -342,15 +334,19 @@ extension STPaySDK.PinCodeTextFieldDelegate {
   public func close(completion: (() -> Swift.Void)? = nil)
   @objc deinit
 }
+extension STPaySDK.Toast {
+  public func enableTapToClose()
+  @objc dynamic public func toastOnTap(_ gesture: UIKit.UITapGestureRecognizer)
+}
 public protocol ToastView : UIKit.UIView {
   func createView(for toast: STPaySDK.Toast)
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class IconAppleToastView : UIKit.UIStackView {
-  @_Concurrency.MainActor @preconcurrency public var defaultImageTint: UIKit.UIColor {
+  @_Concurrency.MainActor @preconcurrency public static var defaultImageTint: UIKit.UIColor {
     get
   }
-  @_Concurrency.MainActor @preconcurrency public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = .black, title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil)
-  @_Concurrency.MainActor @preconcurrency public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = .label, title: Swift.String, subtitle: Swift.String? = nil)
+  @_Concurrency.MainActor @preconcurrency public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Foundation.NSAttributedString, subtitle: Foundation.NSAttributedString? = nil)
+  @_Concurrency.MainActor @preconcurrency public init(image: UIKit.UIImage, imageTint: UIKit.UIColor? = defaultImageTint, title: Swift.String, subtitle: Swift.String? = nil)
   @objc deinit
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class AppleToastView : UIKit.UIView, STPaySDK.ToastView {
@@ -364,8 +360,6 @@ public protocol ToastView : UIKit.UIView {
   @_Concurrency.MainActor @preconcurrency public init(_ title: Swift.String, subtitle: Swift.String? = nil)
   @objc deinit
 }
-
-
 public struct ToastConfiguration {
   public let direction: STPaySDK.Toast.Direction
   public let autoHide: Swift.Bool
@@ -377,8 +371,6 @@ public struct ToastConfiguration {
   public let view: UIKit.UIView?
   public init(direction: STPaySDK.Toast.Direction = .top, autoHide: Swift.Bool = true, enablePanToClose: Swift.Bool = true, displayTime: Foundation.TimeInterval = 4, animationTime: Foundation.TimeInterval = 0.2, enteringAnimation: STPaySDK.Toast.AnimationType = .default, exitingAnimation: STPaySDK.Toast.AnimationType = .default, attachTo view: UIKit.UIView? = nil)
 }
-
-
 @_hasMissingDesignatedInitializers public class TimeManager {
   public static let shared: STPaySDK.TimeManager
   public func resetTimer()
@@ -483,10 +475,6 @@ public enum DateStyleType {
     get
   }
 }
-extension QuartzCore.CALayer {
-  public func addZeplinShadow(color: UIKit.UIColor = .black, alpha: Swift.Float = 0.5, x: CoreFoundation.CGFloat = 0, y: CoreFoundation.CGFloat = 3, blur: CoreFoundation.CGFloat = 6, spread: CoreFoundation.CGFloat = 0)
-}
-
 
 public enum HorizontalAlignment {
   case left
@@ -518,12 +506,6 @@ public enum VerticalAlignment {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func layoutAttributesForItem(at indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewLayoutAttributes?
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func layoutAttributesForElements(in rect: CoreFoundation.CGRect) -> [UIKit.UICollectionViewLayoutAttributes]?
   @objc deinit
-}
-@_Concurrency.MainActor @preconcurrency public struct OnFirstAppearModifier : SwiftUICore.ViewModifier {
-  @_Concurrency.MainActor @preconcurrency public init(_ onFirstAppearAction: @escaping () async -> Swift.Void)
-  @_Concurrency.MainActor @preconcurrency public func body(content: STPaySDK.OnFirstAppearModifier.Content) -> some SwiftUICore.View
-  
-  public typealias Body = @_opaqueReturnTypeOf("$s8STPaySDK21OnFirstAppearModifierV4body7contentQr7SwiftUI05_ViewF8_ContentVyACG_tF", 0) __
 }
 @objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor @preconcurrency open class STPayView : UIKit.UIView {
   @objc @IBInspectable @_Concurrency.MainActor @preconcurrency open var text: Swift.String? {
@@ -560,9 +542,9 @@ public protocol ToastDelegate : AnyObject {
   @_Concurrency.MainActor @preconcurrency public func hide()
   @objc deinit
 }
-
-
-
+extension QuartzCore.CALayer {
+  public func addZeplinShadow(color: UIKit.UIColor = .black, alpha: Swift.Float = 0.5, x: CoreFoundation.CGFloat = 0, y: CoreFoundation.CGFloat = 3, blur: CoreFoundation.CGFloat = 6, spread: CoreFoundation.CGFloat = 0)
+}
 public enum ValidationRequiredRule : Swift.CaseIterable {
   case minimumLength
   case lowerCase
@@ -615,7 +597,6 @@ extension STPaySDK.HorizontalAlignment : Swift.Equatable {}
 extension STPaySDK.HorizontalAlignment : Swift.Hashable {}
 extension STPaySDK.VerticalAlignment : Swift.Equatable {}
 extension STPaySDK.VerticalAlignment : Swift.Hashable {}
-extension STPaySDK.OnFirstAppearModifier : Swift.Sendable {}
 extension STPaySDK.ValidationRequiredRule : Swift.Equatable {}
 extension STPaySDK.ValidationRequiredRule : Swift.Hashable {}
 extension STPaySDK.PinRequiredRule : Swift.Equatable {}

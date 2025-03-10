@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AddImageTVCell.nib</key>
+		<data>
+		SxeB79IdyDg78BkNnsdT1MbT6ho=
+		</data>
 		<key>AddMoney.storyboardc/25O-1x-mzm-view-0Oq-Aq-CVI.nib</key>
 		<data>
 		rsDzOirzZ6e3V4yiRqTfAB3b01I=
@@ -66,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		bmfBLzLx7FrTC202LuQdZkTIpN4=
+		9uK8wUbg8QAFXvYMNpBKjZ+ZE5M=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -78,7 +82,7 @@
 		</data>
 		<key>BankCollectionViewCell.nib</key>
 		<data>
-		syR/FghUOP2/Mz7AROAh12OldEQ=
+		EfLJpmhLeWU3SjwYDZhDkAceZ8M=
 		</data>
 		<key>BankInfoCell.nib</key>
 		<data>
@@ -468,21 +472,9 @@
 		<data>
 		/fHy4Tsz/2U3b6Y8EQ8plv3Ss9U=
 		</data>
-		<key>LimitControlTableViewCell.nib</key>
-		<data>
-		b+qBEYIyJRveTfzkXdBRAQTxkYA=
-		</data>
-		<key>LimitDetailsTableViewCell.nib</key>
-		<data>
-		ycFclPetZlqUQR+7l7vS5htlgp0=
-		</data>
 		<key>LimitFailErrorView.nib</key>
 		<data>
 		odJhkFbd7WmLVbySK8ruswwepWk=
-		</data>
-		<key>LimitHeaderTableViewCell.nib</key>
-		<data>
-		nF8XDW0Or5bdT/f4faCqe0T7kxs=
 		</data>
 		<key>LimitNameCell.nib</key>
 		<data>
@@ -558,11 +550,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		G5Hnfat04aL0vI+JZ1VxmA3eCVQ=
+		yRczN7rr4chVuYlUu9Zz9PqY5Fg=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SUxDO1VrSuaByzI9cY6iFZAEjLw=
+		wCezre1VRNPoAqM2TgnC/ulw1KY=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -570,19 +562,19 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SUxDO1VrSuaByzI9cY6iFZAEjLw=
+		wCezre1VRNPoAqM2TgnC/ulw1KY=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JqXUEHZcsLc2sPeXBf1wExJphv4=
+		JG/pOThK0E2OAz1ViuMbq7xh/v8=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		G5Hnfat04aL0vI+JZ1VxmA3eCVQ=
+		yRczN7rr4chVuYlUu9Zz9PqY5Fg=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/PqLtOKf6T504MZIbM3ovCoOTA8=
+		3mYupzfon5Ix4F53HlkX/8m6I98=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -590,11 +582,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/PqLtOKf6T504MZIbM3ovCoOTA8=
+		3mYupzfon5Ix4F53HlkX/8m6I98=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		M3KAesflJpUfAjKR12GzXggF3Dg=
+		1c/6ju2kRnDEA2kdaBmnPvNaOQA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -604,37 +596,21 @@
 		<data>
 		9QPui3y+LtjscQVs3caOKso12Nc=
 		</data>
-		<key>More.storyboardc/ContactUsMapViewController.nib</key>
-		<data>
-		NogOFcrIRBIekUW99d4QlK0VaCE=
-		</data>
-		<key>More.storyboardc/ContactUsViewController.nib</key>
-		<data>
-		egJEei7bunvkl0aE7oxF+gKHbVM=
-		</data>
 		<key>More.storyboardc/Info.plist</key>
 		<data>
-		dlkk3juKXs4spzg7g7ZEnutLW00=
-		</data>
-		<key>More.storyboardc/Kak-tH-ZuO-view-u8G-8E-BZ8.nib</key>
-		<data>
-		pnBHQh/74cHQwJT2ONVwnFfGho0=
+		MvYT8PDDQKS/liqdL8sPtqwI+a4=
 		</data>
 		<key>More.storyboardc/UINavigationController-AtM-QA-C1N.nib</key>
 		<data>
-		e1QcG+f5e/2hXfZ+a6BcWyuqL2w=
+		29FW+zDKVHLjW6jYhnQgsmHebYg=
 		</data>
 		<key>More.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
 		iO6FhGbm7YVpaWc2NBA/7vQahXU=
 		</data>
-		<key>More.storyboardc/c52-YT-fVW-view-Mkt-hl-d48.nib</key>
-		<data>
-		NqyvpVQa6qzbko0qe6eltfnFxyQ=
-		</data>
 		<key>MoreCollectionCell.nib</key>
 		<data>
-		IjUJaSaUdOb39coA2KDgoQ6rbr0=
+		EOHhTKTF6skKH5ryrqCszyfwGNI=
 		</data>
 		<key>MoreFooterView.nib</key>
 		<data>
@@ -642,7 +618,7 @@
 		</data>
 		<key>MoreHeaderView.nib</key>
 		<data>
-		vS7JYtxc0ZPSgHiZhRdQBcGpcV4=
+		u2OHtoePJu/azgl+vBlmTzh1PCk=
 		</data>
 		<key>NPSBBankInfoCell.nib</key>
 		<data>
@@ -658,7 +634,7 @@
 		</data>
 		<key>NoticeCollectionHeaderView.nib</key>
 		<data>
-		tPn/PfDT+bbbjwsS5yfifOpPCpc=
+		dZmegN/5M3suQeyjL02qtOZ0aSc=
 		</data>
 		<key>NoticeCollectionViewCell.nib</key>
 		<data>
@@ -712,6 +688,10 @@
 		<data>
 		4YbECq88Ip80S++wx/KdbGLLWUk=
 		</data>
+		<key>OperatorCollectionViewCell.nib</key>
+		<data>
+		59yr/ic5UWGaKazXQhXEsybh0AI=
+		</data>
 		<key>OptionTableViewCell.nib</key>
 		<data>
 		YyQHohpGp2icBo1WjYoOpS5bMWQ=
@@ -732,6 +712,102 @@
 		<data>
 		mhZL6v6hmiwuE+TYZz4ya0R4b0c=
 		</data>
+		<key>Profile.storyboardc/ChangePasswordSuccessViewController.nib</key>
+		<data>
+		M4TS/1/BisgO5ZKsPi6omalP6tk=
+		</data>
+		<key>Profile.storyboardc/ChangePasswordViewController.nib</key>
+		<data>
+		3qZOo81JQL+psQNvxrMd1Ryrkv8=
+		</data>
+		<key>Profile.storyboardc/ConfirmSecurityPinViewController.nib</key>
+		<data>
+		/oPJlEOgQGSdCdiWKuguBNNVEjk=
+		</data>
+		<key>Profile.storyboardc/ContactUsMapViewController.nib</key>
+		<data>
+		7fdf79jxbD2mjCWpQkEt5qQR+UQ=
+		</data>
+		<key>Profile.storyboardc/ContactUsViewController.nib</key>
+		<data>
+		tVuo6RGV9MGWeAp+YhmeRZ1yP7g=
+		</data>
+		<key>Profile.storyboardc/EditProfileVC.nib</key>
+		<data>
+		iHksYzfvT4F/gbufYGYwcMtLZBE=
+		</data>
+		<key>Profile.storyboardc/Info.plist</key>
+		<data>
+		aHCrVMDruA6YM/u6u8brp7XbipQ=
+		</data>
+		<key>Profile.storyboardc/KQc-GS-zqV-view-ZKQ-9F-qXu.nib</key>
+		<data>
+		7qw1xh29Jo09vdk03T8FS3m0omU=
+		</data>
+		<key>Profile.storyboardc/Nac-Q9-vLA-view-H8X-Ji-2qh.nib</key>
+		<data>
+		NqyvpVQa6qzbko0qe6eltfnFxyQ=
+		</data>
+		<key>Profile.storyboardc/OTPVerifySuccessViewController.nib</key>
+		<data>
+		4wPBSwy800cZrhv2fDiibkRRGxE=
+		</data>
+		<key>Profile.storyboardc/PD9-Jp-P2J-view-NSc-ns-3IT.nib</key>
+		<data>
+		zWU45aEwE1FXAY3lesxIdsNNrzk=
+		</data>
+		<key>Profile.storyboardc/ProfileSuccessVC.nib</key>
+		<data>
+		Weg6XFs0subqSCRvzTAykbKQdC0=
+		</data>
+		<key>Profile.storyboardc/ProfileVC.nib</key>
+		<data>
+		YR3+6AbuPYiK832UyXK6aPvdRwc=
+		</data>
+		<key>Profile.storyboardc/ReferFriendVC.nib</key>
+		<data>
+		LmPaJe9IuPRwY7MeS7/SinbeR4o=
+		</data>
+		<key>Profile.storyboardc/SetSecurityPinViewConroller.nib</key>
+		<data>
+		BRUBHkBQPmLoI+vrt1oj9w/5zZw=
+		</data>
+		<key>Profile.storyboardc/UZZ-3H-d2o-view-ETm-Yl-2z3.nib</key>
+		<data>
+		/BDQdV2evxR/ED7RBESzGFl91zc=
+		</data>
+		<key>Profile.storyboardc/VQh-Qz-3Vw-view-LLc-pO-tXL.nib</key>
+		<data>
+		7MX02yQJVK3tgbhTotY7wCTy+OA=
+		</data>
+		<key>Profile.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		zDWCq0atwOiIuqZXlGdWCLNKC4k=
+		</data>
+		<key>Profile.storyboardc/Z2h-uP-ai0-view-fnk-uF-gEY.nib</key>
+		<data>
+		r7dCIQcW3YsyrvoT2qMPT79oZAw=
+		</data>
+		<key>Profile.storyboardc/ajR-n3-Neu-view-Hx6-8j-3Qt.nib</key>
+		<data>
+		L3dl9fKOsBdYElY3WhpxzNmkGcY=
+		</data>
+		<key>Profile.storyboardc/atW-pb-PNZ-view-i8P-vD-Q3d.nib</key>
+		<data>
+		CmS55ysdjWjUOazX/GFJydObkKo=
+		</data>
+		<key>Profile.storyboardc/woQ-UR-jYb-view-ehB-gD-3dF.nib</key>
+		<data>
+		LBXCHqTxQb8eYvAV78Ve9L+RV5s=
+		</data>
+		<key>Profile.storyboardc/xqr-iK-SsO-view-cB7-bK-DHe.nib</key>
+		<data>
+		pnBHQh/74cHQwJT2ONVwnFfGho0=
+		</data>
+		<key>ProfileCell.nib</key>
+		<data>
+		mFe0sa5W3fJxrmqthgUzinJYqKA=
+		</data>
 		<key>ProfileInfoCollectionCell.nib</key>
 		<data>
 		5ODpKsswT1mCb85TEb5aO9PfaW8=
@@ -751,6 +827,10 @@
 		<key>RecentRecipientsTableViewCell.nib</key>
 		<data>
 		2YIedqCfQeyJWVJNQhpGEvOyD8k=
+		</data>
+		<key>ReferDetailCell.nib</key>
+		<data>
+		vI9++Du0PosWhYe8PzJspYue7Wg=
 		</data>
 		<key>RequestMoney.storyboardc/0rj-Ff-qNK-view-sKl-Qe-IcW.nib</key>
 		<data>
@@ -859,10 +939,6 @@
 		<key>STSearchView.nib</key>
 		<data>
 		sWlz9A7xeFt+tOLryhkFCQNiR28=
-		</data>
-		<key>SavedWalletRemoveView.nib</key>
-		<data>
-		EYATGFzqsrVov+XtQ3pYozba/+s=
 		</data>
 		<key>ScanPay.storyboardc/Info.plist</key>
 		<data>
@@ -1024,6 +1100,10 @@
 		<data>
 		DcGZw38OXbTORfn68PevVTMhRoc=
 		</data>
+		<key>TitleCheckBoxCell.nib</key>
+		<data>
+		u/uhjADrkjYotZG9eE62G5e4DeY=
+		</data>
 		<key>TitleEmbeddedTextFieldTableViewCell.nib</key>
 		<data>
 		vJbeYQTlTb8oqhSeIypChPGqgbE=
@@ -1031,6 +1111,10 @@
 		<key>TitleEmbeddedTextViewTableViewCell.nib</key>
 		<data>
 		VTAEjP69O7PNagAvIRQN9t79Ko0=
+		</data>
+		<key>TitleSwitchCell.nib</key>
+		<data>
+		CNstgkN2aC8LR0Ywn07SMYsO7Wg=
 		</data>
 		<key>TitleTextFieldView.nib</key>
 		<data>
@@ -1042,7 +1126,7 @@
 		</data>
 		<key>TransactionCollectionCell.nib</key>
 		<data>
-		976w1sxh26ph5Y9I+JPiFrDdNPk=
+		9CK8haDoxWcHI7kXAauPUErZfZ4=
 		</data>
 		<key>TransactionDateContainerView.nib</key>
 		<data>
@@ -1054,7 +1138,7 @@
 		</data>
 		<key>TransactionFailedView.nib</key>
 		<data>
-		kvaBaLwRCCgQhcHU/C6LtelCExo=
+		qFeYrS6wm7vfztj6jp5ep59uoMs=
 		</data>
 		<key>TransactionHistoryShimmerCell.nib</key>
 		<data>
@@ -1062,11 +1146,11 @@
 		</data>
 		<key>TransactionHistoryTableCell.nib</key>
 		<data>
-		LCu9ojdT9hUjFhHABdewAVGvhwA=
+		nrw3xom3/JWin36xQKTNqxjXCBU=
 		</data>
 		<key>TransactionInfoView.nib</key>
 		<data>
-		BsQacaLJ6NnPO0zbJAV//6n3o14=
+		tSm4XD4xkbRCXfOYjls92LbEIHY=
 		</data>
 		<key>TransactionRemarksView.nib</key>
 		<data>
@@ -1074,7 +1158,7 @@
 		</data>
 		<key>TransactionSuccessView.nib</key>
 		<data>
-		4pldy6FqFOuPzHAHZg+iJwK2fvU=
+		rFAU2Q4b/y79GJmA4KTP/dQZKCM=
 		</data>
 		<key>TransactionSummaryCollectionCell.nib</key>
 		<data>
@@ -1095,7 +1179,7 @@
 		</dict>
 		<key>eKYC.storyboardc/3Je-Wk-FZQ-view-77s-8F-wVw.nib</key>
 		<data>
-		n1gvmt6tJkKM4Z9RqCyqYl4g3gI=
+		4gUyzzWcxsIypXE29v3ZSKLRDz4=
 		</data>
 		<key>eKYC.storyboardc/Info.plist</key>
 		<data>
@@ -1146,25 +1230,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>fail.gif</key>
-		<data>
-		ix56GLgW4RwvddB5cE5TfSh/wgU=
-		</data>
-		<key>loader.gif</key>
-		<data>
-		6o4zyWfPcDbUVut//818DlqDb5o=
-		</data>
 		<key>loader.json</key>
 		<data>
 		twrrwO7E4ExBK05IpkpaomoDh0c=
 		</data>
-		<key>success.gif</key>
-		<data>
-		J6HRA2sp88OBs5km+kpB0vTYot8=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AddImageTVCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zdJSpusAcnEXDH4fgzMz/kJ3I1WhDs9mx2fgsy8TcSw=
+			</data>
+		</dict>
 		<key>AddMoney.storyboardc/25O-1x-mzm-view-0Oq-Aq-CVI.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1274,7 +1353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FylTrfZRnVAUFBdFvfbJtRp1da0bvFCVNYyQzMQsSzw=
+			qs+OOxu3ziMZF2Y8YxgdFS3p4piRBtR63LGL8pi1nzU=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -1295,7 +1374,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RAjJDOTUz8fPIhbNvVNO0+D5MEv4NCwpy6DwRtNMkq0=
+			9LhIo/8f/fDDCFZgkV8jBuYO9IFkWEW383WgmaI0ARQ=
 			</data>
 		</dict>
 		<key>BankInfoCell.nib</key>
@@ -1970,32 +2049,11 @@
 			uiqpN+avpuKIIabfC6vHhfGK0kHk98lLlmyJMRSA/tk=
 			</data>
 		</dict>
-		<key>LimitControlTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			r9hvFxyhSt/mmsgCaEutDFheCsRnNEl8X72xZ60+bgc=
-			</data>
-		</dict>
-		<key>LimitDetailsTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F+Zn9E+wHZszTok0n/6oDabbPAX9n/O7MwRnBcWpmv0=
-			</data>
-		</dict>
 		<key>LimitFailErrorView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			trXGq7D3cJcu1e5SiET3Eg/qUGDh/OE8W1o26kFZ/lM=
-			</data>
-		</dict>
-		<key>LimitHeaderTableViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GMDFLeMm30xUivujo8rMlFiQXnT0XjGUDoG0E3cSi/o=
 			</data>
 		</dict>
 		<key>LimitNameCell.nib</key>
@@ -2128,14 +2186,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C/BVvHG8t+JrGWw+Ojnj58hNEl4vf6+AO2DFgQ1xi4A=
+			uep9h60C3zt63MviiCEmBuRFgGp8aBSGI1MOPfl6tys=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LDceXYjj+HuSvdBom2RgzDcT9GEArKrHggPgoB9FEII=
+			BsT/5tELGO79hkE8vGEbDMhc5NQOQ/wCV2pt3DFzM6k=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -2149,28 +2207,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LDceXYjj+HuSvdBom2RgzDcT9GEArKrHggPgoB9FEII=
+			BsT/5tELGO79hkE8vGEbDMhc5NQOQ/wCV2pt3DFzM6k=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NlT8sQCflcLym1i55rtIm8mfeQj7LjpDAWxHjJFN6KE=
+			C3T1DIkXBD+/jl841CVr9vW/7FWFVm3nXuoE3S5me88=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C/BVvHG8t+JrGWw+Ojnj58hNEl4vf6+AO2DFgQ1xi4A=
+			uep9h60C3zt63MviiCEmBuRFgGp8aBSGI1MOPfl6tys=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xFjNMgy00anhCMJNubUKISYZhkOFb/vWfO9fnhMUnhU=
+			FiLT2H9KNlMf3HC9i11+vs8SO6RIk4lixQHarQSWU4M=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -2184,14 +2242,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xFjNMgy00anhCMJNubUKISYZhkOFb/vWfO9fnhMUnhU=
+			FiLT2H9KNlMf3HC9i11+vs8SO6RIk4lixQHarQSWU4M=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4yrJLQqlfC3BU3J+cHmYGSLsO6ugVvO557V6g5ne9+U=
+			KQ94xJbWd7V+LWCNUGpHmgX8CRpSnP7qdNKF8hvv3FY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2208,39 +2266,18 @@
 			SHyNZybBHtAUxMnhiE6w0/OoTTkQ9TidNo4WVazufzs=
 			</data>
 		</dict>
-		<key>More.storyboardc/ContactUsMapViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yAj8tCJrK/et5YywgIi0x+6gUpYlwrXf9LbY6VSs+7M=
-			</data>
-		</dict>
-		<key>More.storyboardc/ContactUsViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8KylFQlbMHEGCl2BlETxkR3+t/8yqdLB9cFKSN/IOqQ=
-			</data>
-		</dict>
 		<key>More.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MySo5gjqPjnLCRTo+p5NMocgLvW7XxMCyZ5BM+/T3gk=
-			</data>
-		</dict>
-		<key>More.storyboardc/Kak-tH-ZuO-view-u8G-8E-BZ8.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TCE6BFIgdhshTB/5QJDAIAjz4noa/j55ovivtqjYDJo=
+			26MpR6O+0CD2/y3rENAffi0zg/O8H70jKtZeHFo0q6k=
 			</data>
 		</dict>
 		<key>More.storyboardc/UINavigationController-AtM-QA-C1N.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RWG/HUHEmemgajEzeOFsOrhLf24jesOgUsi/3lxvJ5g=
+			5uZcDE0+ucY81TcWSLYnyI2Ja3hKJtDCIKyN/pM8b6g=
 			</data>
 		</dict>
 		<key>More.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
@@ -2250,18 +2287,11 @@
 			XNfu/B7sxEWXIpQQkGTvOFPkH0nBkl7G1NsbJuh3EZc=
 			</data>
 		</dict>
-		<key>More.storyboardc/c52-YT-fVW-view-Mkt-hl-d48.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5D/VBg1vFkk7OFczItcGy8+rw462kl9KbahJBDBCtCQ=
-			</data>
-		</dict>
 		<key>MoreCollectionCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I4M8iswbz/L+EXIGd5CxwWqjUn2VIrUCpyepUGCTsXw=
+			HwGTGDm7VOG5ZXG67nbgvheStOUua9yi7S0rfKdUJrk=
 			</data>
 		</dict>
 		<key>MoreFooterView.nib</key>
@@ -2275,7 +2305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ANZf1N8jebi6Dq1AOdYKVi7b1JZ5RKFxcvLY8cNaxu4=
+			sqApW13e1E7uwzBPjmTr9TOEbnJUJGTpKN9JLtH+j1k=
 			</data>
 		</dict>
 		<key>NPSBBankInfoCell.nib</key>
@@ -2303,7 +2333,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i+1Ify/B+IWR7vkR6TUKG1a8QY6fpBvaewKQwIs8R0A=
+			asiI2AmWqIy/5qWv5IY30TfoIrMgrZLjIjhpcI60Nys=
 			</data>
 		</dict>
 		<key>NoticeCollectionViewCell.nib</key>
@@ -2397,6 +2427,13 @@
 			k1KwbXyhAOhaXk+JRdShg4+CKUc5pgxTp/abCcAlIEc=
 			</data>
 		</dict>
+		<key>OperatorCollectionViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8+a+vK3PPLmP/DxQfOf+0k6byoKPtF1sgARyaet8uE8=
+			</data>
+		</dict>
 		<key>OptionTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2432,6 +2469,174 @@
 			xRWcakdYaSEhl/OauS8kmFk3wvP3yzd3Ubk1PgtH4a4=
 			</data>
 		</dict>
+		<key>Profile.storyboardc/ChangePasswordSuccessViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ErkTUofJsYqmfonmpl809T7gPx0NO1m5MxEem/5tJ/c=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ChangePasswordViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HNNzMw7VJzLfsW45itupHT6AkdNOe4WPgS4PDeofVyI=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ConfirmSecurityPinViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yDHpoyE3pBggt13/mHw73CSEIe9tlZknc3Gm0+MXEAw=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ContactUsMapViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PNMoNQgeAk75Q4RvU1gYVtVWERVlG2H5+Alv3V2L4Jo=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ContactUsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			URtVqpb4gCSzfFBLoZi0uQOqpDwzLjPbNgDDo+mWgQA=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/EditProfileVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+YjHd1zS0wOkNyexCUQNt5qgKlbtjurjvikQJkPteLo=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yCaJYOcVrGYasC0J45p69z4y9Xox5feIfspTb14hti8=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/KQc-GS-zqV-view-ZKQ-9F-qXu.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WTyAdQaQVQB+mheZwh8kZgqJ4iLFcPim+jQs2Qs6y/M=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/Nac-Q9-vLA-view-H8X-Ji-2qh.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5D/VBg1vFkk7OFczItcGy8+rw462kl9KbahJBDBCtCQ=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/OTPVerifySuccessViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w9jTECbN0/2pHzbkVukn83TklA7ONFkduszu7PY8soU=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/PD9-Jp-P2J-view-NSc-ns-3IT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S61tIW8d3hzGyF7CwyEPt8fXOfmlBnmY2lO65L0es6w=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ProfileSuccessVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+UWX+jxzdVJ8F13mF5NNEcxOqq8TbVhkOq4sGeb20k8=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ProfileVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zp7li4gs+2kii8dJphEiblxyQH1u0EMKtk7q5dYseQ0=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ReferFriendVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			euBkJc63t5jWw/e/yCvWdpdbyyP4K1tmYCvbYzHmh2s=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/SetSecurityPinViewConroller.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RL7HzqFIndDsh/eJ8XPetSdeOYZn4F+L5uglrdwIuq4=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/UZZ-3H-d2o-view-ETm-Yl-2z3.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iVqoWQTLwyRybNlWNw/KHHKpm03t/7t/u9Bv+Zvq/wg=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/VQh-Qz-3Vw-view-LLc-pO-tXL.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c//CQzjS5EUsuFKpABJEqfT8ul8/JL1ieBGvpQ4EiQ8=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VASOds5oxZt36KCCIdF+4flJiiijy0KCTXiEsz2FkcI=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/Z2h-uP-ai0-view-fnk-uF-gEY.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rt/q5CS+Mi37Edu2InX5fLt0Xqr0fJrnRgxIM09PzBE=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/ajR-n3-Neu-view-Hx6-8j-3Qt.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n2fzRKVvnjHUi9r1Ke81MXrRR2WLcLJMHa8Grqmt0r0=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/atW-pb-PNZ-view-i8P-vD-Q3d.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5gOGcEiJpQMH9P6y15bn16ZwQh9uyq0ln+AnaBLCzls=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/woQ-UR-jYb-view-ehB-gD-3dF.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bvsDB7Br35AYckbKLoAj0qD11zSk0y1rwImgTdY9Y+Y=
+			</data>
+		</dict>
+		<key>Profile.storyboardc/xqr-iK-SsO-view-cB7-bK-DHe.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TCE6BFIgdhshTB/5QJDAIAjz4noa/j55ovivtqjYDJo=
+			</data>
+		</dict>
+		<key>ProfileCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XW2olvaFPZn/+8qG+oQyj4IOU7Mo6EGLk11p0DB8xIc=
+			</data>
+		</dict>
 		<key>ProfileInfoCollectionCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2465,6 +2670,13 @@
 			<key>hash2</key>
 			<data>
 			W2J2iH2lsqY1PZEsf0enrDlRXTC91q2MDklhggB84Ag=
+			</data>
+		</dict>
+		<key>ReferDetailCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DsfgyZuZrwaVNCgQdqmAW+uwWf+Ufq+8R6Vzp0ODjQc=
 			</data>
 		</dict>
 		<key>RequestMoney.storyboardc/0rj-Ff-qNK-view-sKl-Qe-IcW.nib</key>
@@ -2654,13 +2866,6 @@
 			<key>hash2</key>
 			<data>
 			WGT2pdIUVzLbsWCyULjyA0fEiHNxE/YOvWFIMkevzg8=
-			</data>
-		</dict>
-		<key>SavedWalletRemoveView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			agkOQ5DRhHZD3phjMm75nCrNXpBgtBfJ81I6yeFun2w=
 			</data>
 		</dict>
 		<key>ScanPay.storyboardc/Info.plist</key>
@@ -2943,6 +3148,13 @@
 			U7dbRiWN9kqaylg5GYXsj9x0QuPnleq/yoLvMXUN8rA=
 			</data>
 		</dict>
+		<key>TitleCheckBoxCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l+fyYxbcw/VwHlDVPImjFtakWbqcK1bPi8pqq6rajx0=
+			</data>
+		</dict>
 		<key>TitleEmbeddedTextFieldTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2955,6 +3167,13 @@
 			<key>hash2</key>
 			<data>
 			1J0b/w3bqIxFKY14iXj9SxL3uF5RaWHkLDsHMJ5HmHU=
+			</data>
+		</dict>
+		<key>TitleSwitchCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OSOOIxtS7cE6vkij61vBA+ixG3QMsha6iHoQeWtb9qQ=
 			</data>
 		</dict>
 		<key>TitleTextFieldView.nib</key>
@@ -2975,7 +3194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RZNGcgVc5NgYTP15bmxQBxGPMm2fZRMx3ddBHBm1vHM=
+			Hv36RozFyVlZj51DF6hJa9HdPOM99CvRrNzflbLXdW0=
 			</data>
 		</dict>
 		<key>TransactionDateContainerView.nib</key>
@@ -2996,7 +3215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6L7hqP7pfaqMFBfereQM3/mxRQxSXB0/WWgXKgGJL7E=
+			e1gNFDr9kQB/nDa0YienF7k+YNizx3BVyohY7bF6oFQ=
 			</data>
 		</dict>
 		<key>TransactionHistoryShimmerCell.nib</key>
@@ -3010,14 +3229,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YzabVyKu03+ArfXvMMFMK0zJtTjhVJk+sfqy7ewBGSc=
+			am7G81W4Lb5BlkgSGtdA3YxS+FMBOhViYOjuU4u/n2U=
 			</data>
 		</dict>
 		<key>TransactionInfoView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			22/AJKIEEGtW0LMnjjOlJedqBdepy5PXAMmbLFaKGgo=
+			7MW5qNhEdRNGHiQum8NnDGGZrMgr3XSZ69mTmS6zMPs=
 			</data>
 		</dict>
 		<key>TransactionRemarksView.nib</key>
@@ -3031,7 +3250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WinC5FJnM8rygzjnEN9qlhL3QbDSSgAeEmM3CwtjuHo=
+			wb7GAqqzT+6/guB5GgJ5bNt8keTmAi3pVQy5ig38QRE=
 			</data>
 		</dict>
 		<key>TransactionSummaryCollectionCell.nib</key>
@@ -3061,7 +3280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZTq9cq5OUBq/VMGoPOayYPZ7BeTO7fLKNAkxupoHLA=
+			DfEY0yFJ+35QIxcw53juaZwyUjeg3txRHS0y/W2lqkI=
 			</data>
 		</dict>
 		<key>eKYC.storyboardc/Info.plist</key>
@@ -3143,32 +3362,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>fail.gif</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BBKwI5+RfzkJrf8qpOcb5vjV+rhtqEpAa9C3aoMhMc8=
-			</data>
-		</dict>
-		<key>loader.gif</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6lF0Y+8anwxgBeMk1CfpJLlmeRv/tBEBE4KXwg1No6Y=
-			</data>
-		</dict>
 		<key>loader.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			+nNos537vbWNQsxl0pmsLigr4KS+jGBtcfF+VzQQDyM=
-			</data>
-		</dict>
-		<key>success.gif</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MkmZtfb5vcBpayeyOIEtNz8pNv1yKqesew7pc2GcUkw=
 			</data>
 		</dict>
 	</dict>
