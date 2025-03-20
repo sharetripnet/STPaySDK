@@ -1,0 +1,57 @@
+[
+    {
+        "type": "account",
+        "options": [{
+                "type": "profile",
+                "image": "user-profile",
+                "name": "Profile"
+            }
+        ]
+    },
+    {
+        "type": "addAccounts",
+        "options": [
+            {
+                "type" : "addAccounts",
+                "image" : "icon_bank_transfer",
+                "name" : "Bank Accounts"
+            }
+        ]
+    },
+    
+    {
+        "type": "settings",
+        "options": [
+            {
+                "type": "biometricLogin",
+                "image": "biometric",
+                "name": "Biometric login"
+            }
+        ]
+    },
+    {
+        "type": "helpSupport",
+        "options": [{
+                "type": "contactUs",
+                "image": "help",
+                "name": "Contact Us"
+            }
+        ]
+    },
+    {
+        "type": "deleteAccount",
+        "options": [{
+            "type": "deleteAccount",
+            "image": "delete-account",
+            "name": "Delete Account"
+        }]
+    },
+    {
+        "type": "logout",
+        "options": [{
+            "type": "logout",
+            "image": "log-out",
+            "name": "Log Out"
+        }]
+    }
+]
