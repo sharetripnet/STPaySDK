@@ -2,7 +2,7 @@
 //  STPaySDK.h
 //  STPaySDK
 //
-//  Created by Nafis Islam on 9/5/23.
+//  Created by Dulal Hossain on 15/1/25.
 //
 
 #import <Foundation/Foundation.h>
