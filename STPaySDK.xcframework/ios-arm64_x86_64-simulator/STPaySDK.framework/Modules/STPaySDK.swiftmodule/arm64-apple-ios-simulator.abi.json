@@ -22292,23 +22292,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "STPaySDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Alamofire",
-        "printedName": "Alamofire",
-        "declKind": "Import",
-        "moduleName": "STPaySDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -37447,23 +37430,37 @@
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDUploadResponse.swift",
       "kind": "StringLiteral",
-      "offset": 285,
+      "offset": 342,
       "length": 13,
       "value": "\"document_id\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDUploadResponse.swift",
       "kind": "StringLiteral",
-      "offset": 320,
+      "offset": 377,
       "length": 8,
       "value": "\"nid_no\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDUploadResponse.swift",
       "kind": "StringLiteral",
-      "offset": 356,
+      "offset": 413,
       "length": 15,
       "value": "\"date_of_birth\""
+    },
+    {
+      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDUploadResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 456,
+      "length": 15,
+      "value": "\"ocr_nid_front\""
+    },
+    {
+      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDUploadResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 498,
+      "length": 14,
+      "value": "\"ocr_nid_back\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Bank Transfer\/Controllers\/AddNew\/AddBankSuccessVC.swift",
@@ -37781,27 +37778,6 @@
       "value": "[0.0, 1.0]"
     },
     {
-      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/CloudVisionAPIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 200,
-      "length": 34,
-      "value": "\"https:\/\/vision.googleapis.com\/v1\""
-    },
-    {
-      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/CloudVisionAPIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 258,
-      "length": 57,
-      "value": "\"\/images:annotate?key=\""
-    },
-    {
-      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/CloudVisionAPIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 314,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Authentication\/OTP\/Controller\/AuthOTPVC.swift",
       "kind": "StringLiteral",
       "offset": 266,
@@ -38048,183 +38024,176 @@
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 1340,
-      "length": 41,
-      "value": "\"AIzaSyDNIX3qXJc3MtyH2hxYd5wkFZPWSWaVq6g\""
-    },
-    {
-      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1425,
+      "offset": 1335,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1477,
+      "offset": 1387,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1522,
+      "offset": 1432,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1565,
+      "offset": 1475,
       "length": 7,
       "value": "50000.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1612,
+      "offset": 1522,
       "length": 7,
       "value": "50000.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1672,
+      "offset": 1582,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1721,
+      "offset": 1631,
       "length": 7,
       "value": "50000.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1784,
+      "offset": 1694,
       "length": 5,
       "value": "500.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1836,
+      "offset": 1746,
       "length": 7,
       "value": "50000.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1899,
+      "offset": 1809,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 1951,
+      "offset": 1861,
       "length": 7,
       "value": "50000.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2023,
+      "offset": 1933,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2082,
+      "offset": 1992,
       "length": 7,
       "value": "50000.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2221,
+      "offset": 2131,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2251,
+      "offset": 2161,
       "length": 8,
       "value": "\"ST Pay\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2292,
+      "offset": 2202,
       "length": 32,
       "value": "\"Green and Red Technologies Ltd\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2361,
+      "offset": 2271,
       "length": 8,
       "value": "\"ST Pay\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2500,
+      "offset": 2410,
       "length": 9,
       "value": "\"PayMe$.\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2564,
+      "offset": 2474,
       "length": 16,
       "value": "\"+8801710097586\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2618,
+      "offset": 2528,
       "length": 6,
       "value": "\"1235\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2659,
+      "offset": 2569,
       "length": 38,
       "value": "\"6413CD3F-B13B-4147-B1BD-9B3D6CA08A5D\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2814,
+      "offset": 2724,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2859,
+      "offset": 2769,
       "length": 4,
       "value": "16.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2910,
+      "offset": 2820,
       "length": 3,
       "value": "4.0"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/Common\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 2957,
+      "offset": 2867,
       "length": 4,
       "value": "56.0"
     },
@@ -41444,217 +41413,217 @@
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1246,
+      "offset": 1830,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1277,
+      "offset": 1861,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "Dictionary",
-      "offset": 1403,
+      "offset": 1987,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11725,
+      "offset": 10234,
       "length": 6,
       "value": "\"male\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11750,
+      "offset": 10259,
       "length": 8,
       "value": "\"female\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11777,
+      "offset": 10286,
       "length": 14,
       "value": "\"third-gender\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12172,
+      "offset": 10681,
       "length": 4,
       "value": "\"A+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12198,
+      "offset": 10707,
       "length": 4,
       "value": "\"A-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12224,
+      "offset": 10733,
       "length": 4,
       "value": "\"B+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12250,
+      "offset": 10759,
       "length": 4,
       "value": "\"B-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12277,
+      "offset": 10786,
       "length": 5,
       "value": "\"AB+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12305,
+      "offset": 10814,
       "length": 5,
       "value": "\"AB-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12332,
+      "offset": 10841,
       "length": 4,
       "value": "\"O+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12358,
+      "offset": 10867,
       "length": 4,
       "value": "\"O-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12594,
+      "offset": 11103,
       "length": 9,
       "value": "\"Student\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12625,
+      "offset": 11134,
       "length": 11,
       "value": "\"Housewife\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12662,
+      "offset": 11171,
       "length": 16,
       "value": "\"Service Holder\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12705,
+      "offset": 11214,
       "length": 16,
       "value": "\"Businessperson\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12740,
+      "offset": 11249,
       "length": 8,
       "value": "\"Farmer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12768,
+      "offset": 11277,
       "length": 9,
       "value": "\"Teacher\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12798,
+      "offset": 11307,
       "length": 10,
       "value": "\"Engineer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12827,
+      "offset": 11336,
       "length": 8,
       "value": "\"Doctor\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12854,
+      "offset": 11363,
       "length": 8,
       "value": "\"Lawyer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12881,
+      "offset": 11390,
       "length": 8,
       "value": "\"Driver\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12909,
+      "offset": 11418,
       "length": 9,
       "value": "\"Laborer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12941,
+      "offset": 11450,
       "length": 12,
       "value": "\"Freelancer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12976,
+      "offset": 11485,
       "length": 12,
       "value": "\"Unemployed\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13008,
+      "offset": 11517,
       "length": 9,
       "value": "\"Retired\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13048,
+      "offset": 11557,
       "length": 21,
       "value": "\"Government Employee\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13097,
+      "offset": 11606,
       "length": 18,
       "value": "\"Private Employee\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13133,
+      "offset": 11642,
       "length": 7,
       "value": "\"Other\""
     },
@@ -42998,35 +42967,42 @@
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/KYCAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1258,
+      "offset": 1281,
+      "length": 54,
+      "value": "\"\/auth\/reset-pin\/upload-verification-document-details\""
+    },
+    {
+      "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/KYCAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 1658,
       "length": 43,
       "value": "\"\/private\/kyc\/upload-verification-document\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/KYCAPI.swift",
       "kind": "StringLiteral",
-      "offset": 1647,
+      "offset": 2047,
       "length": 46,
       "value": "\"\/private\/kyc\/update-geo-location-information\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/KYCAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2167,
+      "offset": 2571,
       "length": 31,
       "value": "\"\/private\/kyc\/set-security-pin\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/KYCAPI.swift",
       "kind": "StringLiteral",
-      "offset": 2608,
+      "offset": 3012,
       "length": 40,
       "value": "\"\/private\/kyc\/list-of-verification-docs\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/EndPoints\/KYCAPI.swift",
       "kind": "StringLiteral",
-      "offset": 4028,
+      "offset": 4765,
       "length": 46,
       "value": "\"\/auth\/reset-pin\/upload-verification-document\""
     },
@@ -43292,77 +43268,77 @@
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 577,
+      "offset": 600,
       "length": 13,
       "value": "\"document_id\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 612,
+      "offset": 635,
       "length": 8,
       "value": "\"nid_no\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 648,
+      "offset": 671,
       "length": 15,
       "value": "\"date_of_birth\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 686,
+      "offset": 709,
       "length": 9,
       "value": "\"name_bn\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 741,
       "length": 9,
       "value": "\"name_en\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 756,
+      "offset": 779,
       "length": 16,
       "value": "\"father_name_bn\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 801,
+      "offset": 824,
       "length": 16,
       "value": "\"mother_name_bn\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 892,
+      "offset": 915,
       "length": 17,
       "value": "\"present_address\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 942,
+      "offset": 965,
       "length": 19,
       "value": "\"permanent_address\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 988,
+      "offset": 1011,
       "length": 13,
       "value": "\"blood_group\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/Models\/Vision\/NIDSubmissionRequest.swift",
       "kind": "StringLiteral",
-      "offset": 1028,
+      "offset": 1051,
       "length": 13,
       "value": "\"birth_place\""
     },

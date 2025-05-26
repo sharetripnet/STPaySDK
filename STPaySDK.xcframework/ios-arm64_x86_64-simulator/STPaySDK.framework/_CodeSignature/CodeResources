@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		R0rQK6M517rT4q1YdtilZmcin/Q=
+		ggpyC9FeXoCEB/AAjegib5aSMsw=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -338,7 +338,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dtebczpmjr/OspijGDl4z6aGY7k=
+		X7bK683NZA2PTJ7SjWayYCKZy+U=
 		</data>
 		<key>InstantTransfer.storyboardc/80I-Qa-LwX-view-7dp-fH-85d.nib</key>
 		<data>
@@ -550,7 +550,7 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AZVzlUB9laTXo3qjY3qNoSEyot0=
+		N57KzeHLEMueNXn1oHcO/9BrFzQ=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -566,11 +566,11 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xRthJk+vG4uP8YUkjrirPfbqbzY=
+		mrvg8kQsfFnXUTpY0K2lBP1kEQY=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AZVzlUB9laTXo3qjY3qNoSEyot0=
+		N57KzeHLEMueNXn1oHcO/9BrFzQ=
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -586,7 +586,7 @@
 		</data>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GIbV/xNGWClOGWTbMAvw54CgGOI=
+		32rMAHvcbL3vGEtizTea9O4JJbQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1389,7 +1389,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BSapmG6BUYM8Xq2b6sznt7ldG6OAaT/nSx1jZz8WpqY=
+			f44g9/TV7xpKFiQonDyzIVxBAj5mGva7zh0qAzjOh1Y=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -2222,7 +2222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EsX6m8OQ+sgSBz4qDnVwXJczncQRLAGGfl2nl+Y16/Q=
+			wRBasMW6wXBB7FTvR4UDnWIyajmfR1tmrY3HlFfEYGw=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -2250,14 +2250,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pz9F1Jw57mi78oPtvJ6KZoSV6O6Pc1fkmjJMOnvNrIg=
+			AQS9K1nWTlKk7KXsZadU/2L1pNpKlDMsGj6ATIuwzZg=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EsX6m8OQ+sgSBz4qDnVwXJczncQRLAGGfl2nl+Y16/Q=
+			wRBasMW6wXBB7FTvR4UDnWIyajmfR1tmrY3HlFfEYGw=
 			</data>
 		</dict>
 		<key>Modules/STPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -2285,7 +2285,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cZyE0uIaCGpteSlIT0Thb4nLpXxj+C+HUZ8veiGNAWs=
+			9teSML/w1igS+b8eZdRn4exl82fG/cmvM9BHenQeaJI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
