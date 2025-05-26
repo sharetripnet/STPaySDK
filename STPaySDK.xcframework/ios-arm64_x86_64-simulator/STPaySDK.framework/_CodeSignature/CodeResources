@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ggpyC9FeXoCEB/AAjegib5aSMsw=
+		M//PmOAcYURkq9DNVnIQ7lMBhUs=
 		</data>
 		<key>AuthOTPView.nib</key>
 		<data>
@@ -1266,9 +1266,21 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fail.gif</key>
+		<data>
+		ix56GLgW4RwvddB5cE5TfSh/wgU=
+		</data>
+		<key>loader.gif</key>
+		<data>
+		6o4zyWfPcDbUVut//818DlqDb5o=
+		</data>
 		<key>loader.json</key>
 		<data>
 		twrrwO7E4ExBK05IpkpaomoDh0c=
+		</data>
+		<key>success.gif</key>
+		<data>
+		J6HRA2sp88OBs5km+kpB0vTYot8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1389,7 +1401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f44g9/TV7xpKFiQonDyzIVxBAj5mGva7zh0qAzjOh1Y=
+			kaFCerZo/zUlSjpT89vtBJrLV5saiDTbqJm7K6AcZWY=
 			</data>
 		</dict>
 		<key>AuthOTPView.nib</key>
@@ -3461,11 +3473,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fail.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BBKwI5+RfzkJrf8qpOcb5vjV+rhtqEpAa9C3aoMhMc8=
+			</data>
+		</dict>
+		<key>loader.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6lF0Y+8anwxgBeMk1CfpJLlmeRv/tBEBE4KXwg1No6Y=
+			</data>
+		</dict>
 		<key>loader.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			+nNos537vbWNQsxl0pmsLigr4KS+jGBtcfF+VzQQDyM=
+			</data>
+		</dict>
+		<key>success.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MkmZtfb5vcBpayeyOIEtNz8pNv1yKqesew7pc2GcUkw=
 			</data>
 		</dict>
 	</dict>
