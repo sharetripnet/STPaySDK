@@ -26026,6 +26026,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "STPaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftyUserDefaults",
         "printedName": "SwiftyUserDefaults",
         "declKind": "Import",
@@ -41413,217 +41423,217 @@
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1830,
+      "offset": 2290,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1861,
+      "offset": 2321,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "Dictionary",
-      "offset": 1987,
+      "offset": 2447,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10234,
+      "offset": 10694,
       "length": 6,
       "value": "\"male\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10259,
+      "offset": 10719,
       "length": 8,
       "value": "\"female\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10286,
+      "offset": 10746,
       "length": 14,
       "value": "\"third-gender\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10681,
+      "offset": 11141,
       "length": 4,
       "value": "\"A+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10707,
+      "offset": 11167,
       "length": 4,
       "value": "\"A-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10733,
+      "offset": 11193,
       "length": 4,
       "value": "\"B+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10759,
+      "offset": 11219,
       "length": 4,
       "value": "\"B-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10786,
+      "offset": 11246,
       "length": 5,
       "value": "\"AB+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10814,
+      "offset": 11274,
       "length": 5,
       "value": "\"AB-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10841,
+      "offset": 11301,
       "length": 4,
       "value": "\"O+\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10867,
+      "offset": 11327,
       "length": 4,
       "value": "\"O-\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11103,
+      "offset": 11563,
       "length": 9,
       "value": "\"Student\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11134,
+      "offset": 11594,
       "length": 11,
       "value": "\"Housewife\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11171,
+      "offset": 11631,
       "length": 16,
       "value": "\"Service Holder\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11214,
+      "offset": 11674,
       "length": 16,
       "value": "\"Businessperson\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11249,
+      "offset": 11709,
       "length": 8,
       "value": "\"Farmer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11277,
+      "offset": 11737,
       "length": 9,
       "value": "\"Teacher\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11307,
+      "offset": 11767,
       "length": 10,
       "value": "\"Engineer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11336,
+      "offset": 11796,
       "length": 8,
       "value": "\"Doctor\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11363,
+      "offset": 11823,
       "length": 8,
       "value": "\"Lawyer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11390,
+      "offset": 11850,
       "length": 8,
       "value": "\"Driver\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11418,
+      "offset": 11878,
       "length": 9,
       "value": "\"Laborer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11450,
+      "offset": 11910,
       "length": 12,
       "value": "\"Freelancer\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11485,
+      "offset": 11945,
       "length": 12,
       "value": "\"Unemployed\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11517,
+      "offset": 11977,
       "length": 9,
       "value": "\"Retired\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11557,
+      "offset": 12017,
       "length": 21,
       "value": "\"Government Employee\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11606,
+      "offset": 12066,
       "length": 18,
       "value": "\"Private Employee\""
     },
     {
       "filePath": "\/Users\/st-ios\/Workspace\/STDev\/wallet-dpay-ios-consumer\/DeshiPay\/eKYC\/ViewModel\/ORCVerificationViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11642,
+      "offset": 12102,
       "length": 7,
       "value": "\"Other\""
     },
@@ -43826,665 +43836,665 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 641,
       "length": 21,
       "value": "\"appGradientEndColor\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 809,
       "length": 23,
       "value": "\"appGradientStartColor\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 984,
       "length": 23,
       "value": "\"appHeaderLabelPrimary\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1145,
       "length": 16,
       "value": "\"appHeaderLight\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1301,
       "length": 17,
       "value": "\"appLabelPrimary\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1448,
       "length": 12,
       "value": "\"appPrimary\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1615,
       "length": 27,
       "value": "\"appPrimaryBackgroundColor\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1776,
       "length": 14,
       "value": "\"appSeparator\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1960,
       "length": 32,
       "value": "\"appTransactionAmountBackground\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2276,
       "length": 20,
       "value": "\"buttonPrimaryLight\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2447,
       "length": 23,
       "value": "\"onboarding_background\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2706,
       "length": 13,
       "value": "\"add_account\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2841,
       "length": 8,
       "value": "\"amount\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2982,
       "length": 14,
       "value": "\"arrow-bottom\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3134,
       "length": 16,
       "value": "\"bacgroundCurve\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3268,
       "length": 6,
       "value": "\"card\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3415,
       "length": 20,
       "value": "\"contactAccessImage\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3572,
       "length": 16,
       "value": "\"dashboard-back\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3706,
       "length": 6,
       "value": "\"disk\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3830,
       "length": 6,
       "value": "\"edit\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3982,
       "length": 21,
       "value": "\"home_money_transfer\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4139,
       "length": 16,
       "value": "\"icon_add_money\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4299,
       "length": 20,
       "value": "\"icon_bank_transfer\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4469,
       "length": 23,
       "value": "\"icon_benificiary_note\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4627,
       "length": 15,
       "value": "\"icon_calendar\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4773,
       "length": 13,
       "value": "\"icon_camera\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4930,
       "length": 20,
       "value": "\"icon_close_account\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5099,
       "length": 23,
       "value": "\"icon_daily_limit_note\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5266,
       "length": 20,
       "value": "\"icon_dasboard_back\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5438,
       "length": 24,
       "value": "\"icon_dasboard_transfer\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5606,
       "length": 20,
       "value": "\"icon_dashboard_add\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5778,
       "length": 24,
       "value": "\"icon_dashboard_history\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5954,
       "length": 24,
       "value": "\"icon_dashboard_payment\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6124,
       "length": 21,
       "value": "\"icon_dashboard_send\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6272,
       "length": 11,
       "value": "\"icon_disk\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6414,
       "length": 13,
       "value": "\"icon_filter\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6560,
       "length": 14,
       "value": "\"icon_gallery\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6710,
       "length": 16,
       "value": "\"icon_info_note\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6876,
       "length": 23,
       "value": "\"icon_internet_banking\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7032,
       "length": 14,
       "value": "\"icon_invoice\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7182,
       "length": 16,
       "value": "\"icon_line_drug\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7340,
       "length": 19,
       "value": "\"icon_make_payment\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7498,
       "length": 17,
       "value": "\"icon_mastercard\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7654,
       "length": 17,
       "value": "\"icon_mfsToDeshi\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7817,
       "length": 21,
       "value": "\"icon_money_transfer\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7991,
       "length": 25,
       "value": "\"icon_monthly_limit_note\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8143,
       "length": 11,
       "value": "\"icon_more\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8290,
       "length": 16,
       "value": "\"icon_more_bank\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8463,
       "length": 27,
       "value": "\"icon_more_biometric_login\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8637,
       "length": 22,
       "value": "\"icon_more_contact_us\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8810,
       "length": 24,
       "value": "\"icon_more_edit_profile\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8972,
       "length": 17,
       "value": "\"icon_more_limit\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9129,
       "length": 18,
       "value": "\"icon_more_logout\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9281,
       "length": 15,
       "value": "\"icon_more_mfs\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9445,
       "length": 23,
       "value": "\"icon_more_right_arrow\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9610,
       "length": 19,
       "value": "\"icon_more_summary\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9779,
       "length": 23,
       "value": "\"icon_more_transaction\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9929,
       "length": 11,
       "value": "\"icon_next\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10065,
       "length": 10,
       "value": "\"icon_nid\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10224,
       "length": 23,
       "value": "\"icon_no-saved-account\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10385,
       "length": 17,
       "value": "\"icon_no-voucher\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10559,
       "length": 27,
       "value": "\"icon_non_benificiary_note\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10719,
       "length": 14,
       "value": "\"icon_paybill\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10866,
       "length": 14,
       "value": "\"icon_payment\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11015,
       "length": 15,
       "value": "\"icon_previous\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11176,
       "length": 21,
       "value": "\"icon_received_money\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11330,
       "length": 14,
       "value": "\"icon_request\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11490,
       "length": 21,
       "value": "\"icon_saved_accounts\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11642,
       "length": 13,
       "value": "\"icon_selfie\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11793,
       "length": 17,
       "value": "\"icon_send_money\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11943,
       "length": 14,
       "value": "\"icon_success\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12104,
       "length": 22,
       "value": "\"icon_top_curve_shape\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12268,
       "length": 19,
       "value": "\"icon_view_invoice\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12422,
       "length": 15,
       "value": "\"icon_visacard\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12581,
       "length": 20,
       "value": "\"icon_warning_popup\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12733,
       "length": 13,
       "value": "\"instruction\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12880,
       "length": 15,
       "value": "\"pay_bill_icon\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13032,
       "length": 16,
       "value": "\"radiobox-blank\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13191,
       "length": 19,
       "value": "\"radiobox-selected\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13345,
       "length": 15,
       "value": "\"request_money\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13490,
       "length": 12,
       "value": "\"searchIcon\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13643,
       "length": 18,
       "value": "\"sharetrip_texure\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13779,
       "length": 6,
       "value": "\"show\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13915,
       "length": 15,
       "value": "\"sliding_image\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14074,
       "length": 20,
       "value": "\"st_biometric_popup\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14221,
       "length": 11,
       "value": "\"st_camera\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14359,
       "length": 11,
       "value": "\"st_cancel\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14504,
       "length": 15,
       "value": "\"st_email_icon\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14644,
       "length": 10,
       "value": "\"st_error\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14781,
       "length": 11,
       "value": "\"st_faceId\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14922,
       "length": 13,
       "value": "\"st_pin_info\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15064,
       "length": 12,
       "value": "\"st_touchId\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15203,
       "length": 11,
       "value": "\"st_wallet\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15345,
       "length": 13,
       "value": "\"user-avater\""
     },
     {
-      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/DeshiPay-djbcrsljorxzvscqtwqvfwpyefet\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/st-ios\/Library\/Developer\/Xcode\/DerivedData\/STPay-begqhfhzcljybzeyzuqcujwmkzzs\/Build\/Intermediates.noindex\/ArchiveIntermediates\/STPaySDK\/IntermediateBuildFilesPath\/DeshiPay.build\/Release-iphonesimulator\/STPaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15497,
       "length": 17,
